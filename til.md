@@ -15,6 +15,9 @@
 - Embrace adoptability and resiliency. 
 - Enhance change to achieve the envisioned future state.
 
+# 04.12.2022 Phrases and Idioms: How to Use Proper and Professional Phrase?  
+- For the sake of brevity
+- 
 # 04.12.2022 Terminologies: Key Terms and Concepts
 - Outcome
 - Portfolio
