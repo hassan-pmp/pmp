@@ -1,7 +1,7 @@
 # Topics for Learning
 ---
 
-# 04.12.2022 Prenciples: Project Management Principels:
+# 04.12.2022 Prenciples: Project Management Principels
 - Be a diligent, respectful, and caring steward.
 - Create a collaborate Project team environment.
 - Effectively engage with stakeholders.
@@ -15,7 +15,7 @@
 - Embrace adoptability and resiliency. 
 - Enhance change to achieve the envisioned future state.
 
-# 04.12.2022 Terminologies: Key Terms and Concepts:
+# 04.12.2022 Terminologies: Key Terms and Concepts
 - Outcome
 - Portfolio
 - Product
