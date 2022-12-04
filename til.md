@@ -15,6 +15,18 @@
 - Embrace adoptability and resiliency. 
 - Enhance change to achieve the envisioned future state.
 
+# 04.12.2022 Terminologies: Key Terms and Concepts:
+- Outcome
+- Portfolio
+- Product
+- Program
+- Project
+- Project Management
+- Project Manager
+- Project Team
+- System for Value Delivery
+- Value
+
 # 03.12.2022 Cost: How to evaluate cost?
 - ABC. 
 
