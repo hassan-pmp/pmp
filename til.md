@@ -1,6 +1,7 @@
 # Topics for Learning
 ---
-
+# 07.12.2022 Risk Management: Risk Matrix
+- 
 # 04.12.2022 Prenciples: Project Management Principels
 - Be a diligent, respectful, and caring steward.
 - Create a collaborate Project team environment.
