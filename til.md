@@ -1,5 +1,12 @@
 # Topics for Learning
 ---
+# 14.12.2022 Project Managmenet Approaches: Waterfall & Agile
+- Waterfall Approach
+     - Simplicity
+     - Low risk
+     - Familiar technology
+     - Experience resources 
+
 # 14.12.2022 Process Groups: PM can be categorized into 5 Groups of Process
 - Initiating: is about getting the commitment to start a project.
      Defining the project: 
