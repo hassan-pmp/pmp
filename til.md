@@ -1,34 +1,70 @@
 # Topics for Learning
 ---
-# 14.12.2022 Project Managmenet Approaches: Waterfall & Agile
-- Waterfall Approach
+# 15.12.2022 Stakeholder Managmenet: Identify Project Stakeholders
+- Prepare Project Charter
+     - Stakeholders
+          -Project Customer: is the person or group with a problem to solve. Bring Three crucial things to a project
+               - Funds the project
+               - Inform what needs to be done
+               - Approves deliverables from start to finish.
+     - Project Sponsor: Someone who wants to see the project succussed and has enough formal authority to make that happen.
+               - Prioritize objectives 
+               - Talk to stakeholders who aren’t being supportive 
+               - Suggest Improvements to the project plan
+     - Functional Manager: 
+               - Achieve department goal
+               - Mange team members
+     - Department 
+     - Team Member(s)
+
+# 14.12.2022 Organization Structure: How Organization Structure Affects Projects
+- Hierarchy: each person reports to only one supervisor
+     - PM has almost no authority
+     - Functional Manager is typically in charge of things like project budget
+     - Resources are hard to come by because they report to Functional Managers not PMs.
+     - PM has divided responsibilities 
+- Matrix: where people report to both managers and PMs
+     - PM has some authority to make decision
+     - Resources repoert to Two managers, Functional Manager & Project Manager
+     - PM and staff work full time in a strong matrix
+- Projectized: Where most of the people work on projects
+     - PM has almost complete authority
+     - Resources are dedicated to project
+     - PM and admin staff work full time  
+
+# 14.12.2022 Project Managmenet Approaches: Waterfall vs Agile Project Management
+- Waterfall Approach: Processess flow from one to the next.
      - Simplicity
      - Low risk
      - Familiar technology
      - Experience resources 
-
+- Agile Approach: 
+     - To deliver partial, yet production-quality solutions at regular intervals
+     - Value deliver sooner
+     - More customer involment
+     - Small independent teams
 # 14.12.2022 Process Groups: PM can be categorized into 5 Groups of Process
 - Initiating: is about getting the commitment to start a project.
-     Defining the project: 
-     What’s the project supposed to accomplish?
-     What’s the scope?
-     What’s the rough estimate of Resources needed and the cost?
-     Identifying the Stakeholders and make sure they agree on what the project is.
-     Ask for Approval to proceed. 
+    - Defining the project: 
+    - What’s the project supposed to accomplish?
+    - What’s the scope?
+    - What’s the rough estimate of Resources needed and the cost?
+    - Identifying the Stakeholders and make sure they agree on what the project is.
+    - Ask for Approval to proceed. 
 - Planning: is where you figure out how you’re going to perform the project.
-     What are we going to do?
-     How are we going to do it?
-     How will we know when it’s done?
-     Executing: Lunching a project, bring the resources on board, get them settled in, and explain the rules you’re using to run the project.
+    - What are we going to do?
+    - How are we going to do it?
+    - How will we know when it’s done?
+    - Executing: Lunching a project, bring the resources on board, get them settled in, and explain the rules you’re using to run the project.
 - Executing: Lunching a project, bring the resources on board, get them settled in, and explain the rules you’re using to run the project.
 - Monitoring and Controlling
-     Checking what’s going on the project?
-     How that compares to what you planned?
+    - Checking what’s going on the project?
+    - How that compares to what you planned?
 - Closing Process: this part is short but important
-     Get the cleint to accept project is complete
-     Document the project performance, gather lesson learnes, 
-     Close contracts
-     Help resources move to the their next assigments.
+     - Get the cleint to accept project is complete
+     - Document the project performance, gather lesson learnes, 
+     - Close contracts
+     - Help resources move to the their next assigments.
 
 # 07.12.2022 Risk Management: Risk Matrix
 - 
