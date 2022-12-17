@@ -3,7 +3,7 @@
 # 15.12.2022 Stakeholder Managmenet: Identify Project Stakeholders
 - Prepare Project Charter
      - Stakeholders
-           - Project Customer: is the person or group with a problem to solve. Bring Three crucial things to a project
+          - Project Customer: is the person or group with a problem to solve. Bring Three crucial things to a project
                - Funds the project
                - Inform what needs to be done
                - Approves deliverables from start to finish.
