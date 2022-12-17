@@ -7,15 +7,15 @@
                - Funds the project
                - Inform what needs to be done
                - Approves deliverables from start to finish.
-           - Project Sponsor: Someone who wants to see the project succussed and has enough formal authority to make that happen.
+          - Project Sponsor: Someone who wants to see the project succussed and has enough formal authority to make that happen.
                - Prioritize objectives 
                - Talk to stakeholders who aren’t being supportive 
                - Suggest Improvements to the project plan
-           - Functional Manager: 
+          - Functional Manager: 
                - Achieve department goal
                - Mange team members
-           - Department 
-           - Team Member(s)
+          - Department 
+          - Team Member(s)
 
 # 14.12.2022 Organization Structure: How Organization Structure Affects Projects
 - Hierarchy: each person reports to only one supervisor
