@@ -11,11 +11,11 @@
 - **Quality Objectives**: specify how good results need to be.
 - **Technical Objectives**: 
 - SMART Objective
- - **S**pecific Objectives: Inform what needs to be achieved. Ex: increase 15& Revenue
- - **M**easurable Objectives: show how much has been achieved. E.x: Revenue increase
- - **A**chievable Objectives: tell what can be done with resources available. 
- - **R**ealistic (2:26)  
- - **T**ime-Related Objectives: Identify when objectives need to be achieved. 
+  - **S**pecific Objectives: Inform what needs to be achieved. Ex: increase 15& Revenue
+  - **M**easurable Objectives: show how much has been achieved. E.x: Revenue increase
+  - **A**chievable Objectives: tell what can be done with resources available. 
+  - **R**ealistic (2:26)  
+  - **T**ime-Related Objectives: Identify when objectives need to be achieved. 
 # 18.12.2022 Choose a Strategy: Choose a strategy:
 - Brainstorming
  - Identify possible strategies 
