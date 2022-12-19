@@ -1,5 +1,45 @@
 # Topics for Learning
 ---
+# 18.12.2022 Project Goal: Identify the project goal
+- Define the end result
+- Solves the problem
+- Take advantage of opportunity 
+# 18.12.2022 Problem Statement: Clearly define the problem or opportunity
+# 18.12.2022 Project Objectives: Identify the project objectives
+- **Business Objectives**: support your organization’s goal.
+- **Financial Objectives**: ex. Cutting costs by 10%.
+- **Quality Objectives**: specify how good results need to be.
+- **Technical Objectives**: 
+- SMART Objective
+ - **S**pecific Objectives: Inform what needs to be achieved. Ex: increase 15& Revenue
+ - **M**easurable Objectives: show how much has been achieved. E.x: Revenue increase
+ - **A**chievable Objectives: tell what can be done with resources available. 
+ - **R**ealistic (2:26)  
+ - **T**ime-Related Objectives: Identify when objectives need to be achieved. 
+# 18.12.2022 Choose a Strategy: Choose a strategy:
+- Brainstorming
+ - Identify possible strategies 
+ - Allow free flow od ideas
+- Questions about strategy:
+ -  Is the Strategy feasible?
+ -  Are the risks acceptable?
+ -  Does Strategy fit the culture?
+# 18.12.2022 Gathering requirements: collect the requirments for a project
+- Requirements challenges:
+ - Incorrect requirements
+ - Inconsistent requirements 
+ - Missing requirements 
+ - Unnecessary requirements 
+ - Customers don’t commit time 
+- Techniques for gathering requirements:
+ - Interview
+ - Focus Group
+ - Observation 
+ - Surveys
+ - Document analysis 
+- Analysing Requirements: 
+ - Delphi Approach  
+
 # 15.12.2022 Stakeholder Managmenet: Identify Project Stakeholders
 - Prepare Project Charter
      - Stakeholders
