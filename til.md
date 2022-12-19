@@ -18,27 +18,27 @@
   - **T**ime-Related Objectives: Identify when objectives need to be achieved. 
 # 18.12.2022 Choose a Strategy: Choose a strategy:
 - Brainstorming
- - Identify possible strategies 
- - Allow free flow od ideas
+  - Identify possible strategies 
+  - Allow free flow od ideas
 - Questions about strategy:
- -  Is the Strategy feasible?
- -  Are the risks acceptable?
- -  Does Strategy fit the culture?
+  -  Is the Strategy feasible?
+  -  Are the risks acceptable?
+  -  Does Strategy fit the culture?
 # 18.12.2022 Gathering requirements: collect the requirments for a project
 - Requirements challenges:
- - Incorrect requirements
- - Inconsistent requirements 
- - Missing requirements 
- - Unnecessary requirements 
- - Customers don’t commit time 
+  - Incorrect requirements
+  - Inconsistent requirements 
+  - Missing requirements 
+  - Unnecessary requirements 
+  - Customers don’t commit time 
 - Techniques for gathering requirements:
- - Interview
- - Focus Group
- - Observation 
- - Surveys
- - Document analysis 
+  - Interview
+  - Focus Group
+  - Observation 
+  - Surveys
+  - Document analysis 
 - Analysing Requirements: 
- - Delphi Approach  
+  - Delphi Approach  
 
 # 15.12.2022 Stakeholder Managmenet: Identify Project Stakeholders
 - Prepare Project Charter
