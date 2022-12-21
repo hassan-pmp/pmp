@@ -1,5 +1,6 @@
 # Topics for Learning
 ---
+# 21.12.2022 Deterministic Agile (DA) Approach: 
 # 21.12.2022 Agile Mindset: Treating Software Different From Manufacturing
 - Management of software is simply impossible without a very high degree of documentation. Why so much documentation:
   - 1) Enough designer must communicate with interfacing designers, which his management and possibly with the customer. A verbal record is too intangible to provide an adequate basis for an interface or management decision. An acceptable written description forces the designer to take an uniquivocal position and provide tangible evedence of completion.
@@ -129,7 +130,7 @@
 
 # 04.12.2022 Phrases and Idioms: How to Use Proper and Professional Phrase?  
 - For the sake of brevity
-- 
+- Nailed it! Your project charter is starting to come together!
 # 04.12.2022 Terminologies: Key Terms and Concepts
 - Outcome
 - Portfolio
