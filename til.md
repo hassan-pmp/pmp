@@ -1,5 +1,6 @@
 # Topics for Learning
 ---
+
 # 22.12.2022 Proccess-Based Approach: Five Project Managment Proccess Gropus:
 - **Initiating**: Those processes performed to define a new project or new phase of an exsiting project by obtaining authorization to start the project or phase.
 - **Planning**: Those processes required to establish the scope of the project, refine the objectives, and define the course of action required to attain the objectives that the project was undertaken to achieve.
@@ -212,3 +213,5 @@
 # 03.12.2022 Lessons Learned: Tips and Tricks
 - Before any action, I must inform Sponsor(s) about the next steps of the project and after his/her/thier green light, will move on the next step. 
 - Ask Two key questions in the meetings: 1) Who will be responsible, 2) When will recieved answer? 
+# 02.12.2022 Parking lot: Intesting Tpoics to know 
+- 25/10 crowd sourcing approach
