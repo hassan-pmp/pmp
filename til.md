@@ -113,7 +113,16 @@
      - Help resources move to the their next assigments.
 
 # 07.12.2022 Risk Management: Risk Matrix
-- 
+- The Unknown
+  - Remember that a risk is something that hasn’t happened yet. Risks that you are aware of are called issues.
+- The Flip Side
+  - Risk is not always negative. It can be positive, as well. Act on opportunities that can make the project go faster or provide greater value.
+- Categorizing Risks
+  - Risks can be analyzed and prioritized using the following categories:
+    - Avoidance: Remove risky areas from the project scope
+    - Mitigation: Do some risk response planning to reduce the likelihood of occurrence, impact, or both
+    - Transferral: Move risky work to someone else (e.g., a subcontractor via modification to their statement of work)
+    - Acceptance: Accept and deal with the risk (this would happen if the cost to mitigate exceeds the cost of the risk itself)
 # 04.12.2022 Prenciples: Project Management Principels
 - Be a diligent, respectful, and caring steward.
 - Create a collaborate Project team environment.
@@ -131,6 +140,10 @@
 # 04.12.2022 Phrases and Idioms: How to Use Proper and Professional Phrase?  
 - For the sake of brevity
 - Nailed it! Your project charter is starting to come together!
+- awkward steps
+- You’re making it happen
+- 
+
 # 04.12.2022 Terminologies: Key Terms and Concepts
 - Outcome
 - Portfolio
@@ -147,7 +160,7 @@
 - ABC. 
  
 # 03.12.2022 Communication: How to communicate with stakeholders?
-- Communacation Matrix: ![image](https://user-images.githubusercontent.com/48201515/205466064-4c0789a7-9cc5-46ba-a11c-950f66059152.png)
+- Communacation Matrix: 
 
 # 03.12.2022 Lessons Learned: Tips and Tricks
 - Before any action, I must inform Sponsor(s) about the next steps of the project and after his/her/thier green light, will move on the next step. 
