@@ -1,6 +1,10 @@
 # Topics for Learning
 ---
-
+# 22.12.2022 Tailoring: Four-step Tailoring Process
+- Step 1: Select Initial Development Approach
+- Step 2: Tailor for the Organization
+- Step 3: Tailor for the Project
+- Step 4: Implement Ongoing Improvement
 # 22.12.2022 Proccess-Based Approach: Five Project Managment Proccess Gropus:
 - **Initiating**: Those processes performed to define a new project or new phase of an exsiting project by obtaining authorization to start the project or phase.
 - **Planning**: Those processes required to establish the scope of the project, refine the objectives, and define the course of action required to attain the objectives that the project was undertaken to achieve.
@@ -204,6 +208,26 @@
 - Value: 
 - features describe the main functionality of the product. 
 - Epics are a way to break features into smaller chunks of work.
+- Project Life Cycle: can be predictive or adaptive. Whithin a project life cycle, there are generally one or more phases that are associated with the development of product, service, or result. These are called development life cycle, which can be predictive, adaptive, iterative, incremental, or hybrid model.
+- Project Phase: is a collection of logically related project activities that culminates in the completion of one or more deliverables.
+  - Concept development
+  - Feasibility study 
+  - Customer requirments
+  - Solution development
+  - Design
+  - Prototype
+  - Build
+  - Test
+  - Transition
+  - Commissioning
+  - Milestone review
+  - Lessons Learned 
+- Phase Gate: is held at the end of aphase. The project's performance and progres are compared to project and business documents including but not limited to:
+  - Project business case
+  - Project charter
+  - Project management plan
+  - Benefits mangement plan
+- 
 # 03.12.2022 Cost: How to evaluate cost?
 - ABC. 
  
@@ -216,3 +240,11 @@
 # 02.12.2022 Parking lot: Intesting Tpoics to know 
 - 25/10 crowd sourcing approach
 - Penny Game Agile
+- Simple Lean-Agile Mindmap (SLAM)
+- Organizational Project Management (OPM)
+- Firm Performane 
+  - Net Present Value (NPV)
+  - Return on Investment (ROI)
+  - Internal Rate of Return (IRR)
+  - Payback Period (PBP)
+  - Benefit-Cost Ratio (BCR)
