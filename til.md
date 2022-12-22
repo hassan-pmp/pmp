@@ -1,5 +1,11 @@
 # Topics for Learning
 ---
+# 22.12.2022 Proccess-Based Approach: Five Project Managment Proccess Gropus:
+- Initiating: Those processes performed to define a new project or new phase of an exsiting project by obtaining authorization to start the project or phase.
+- Planning: Those processes required to establish the scope of the project, refine the objectives, and define the course of action required to attain the objectives that the project was undertaken to achieve.
+- Execution: Those processes performedto complete the work defined in the project management paln to satisfy the project requirments.
+- Monitoring and Controlling: Those processes required to track, review, and regulate the progress and performance of the project; identify any areas in which changes to the plan are required; and initiate the corresponding changes.
+- Closing: Those processes performed to formally complete or close the project, phase , or contract.  
 # 22.12.2022 Agile Project Management: Basics Of A User Story
 - What
   - It describes a feature (or component of a feature) and is short and simple.
