@@ -188,20 +188,19 @@
 - Look at you go!
 - 
 
-
-
-
 # 04.12.2022 Terminologies: Key Terms and Concepts
-- Outcome
-- Portfolio
-- Product
-- Program
-- Project
-- Project Management
-- Project Manager
-- Project Team
-- System for Value Delivery
-- Value
+- Outcome: 
+- Portfolio: Projects, programs, subsidiary portfilios, and operations managed as a group to achieve strategic objectives
+- Portfolio Mangemnet: The centralized management of one or more portfolios to achieve strategic objectives
+- Product: 
+- Program: Related projects, subsidiary programms, and program activities that are managed in a coordinated manner to obtain benefits not available from managing them individually
+- Project: A temporary endeavor undertaken to create aunique product, service, or result
+- Project Management: 
+- Program Mangement: The application of knowledge, skills, and principles to a program to achieve the program objectives and obtain benefits and control not available by managing program components individually
+- Project Manager: 
+- Project Team: 
+- System for Value Delivery: 
+- Value: 
 - features describe the main functionality of the product. 
 - Epics are a way to break features into smaller chunks of work.
 # 03.12.2022 Cost: How to evaluate cost?
