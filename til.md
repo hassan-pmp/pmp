@@ -1,5 +1,24 @@
 # Topics for Learning
 ---
+# 22.12.2022 Resource Management Plan: Create Resource Management Plan
+  - Roles
+  - Responsibilities
+  - Reporting Structure: Who reports to whom
+  - Skills needed to do the project work
+  - Staffing Plan: which describes everything about how you'll staff the project
+    - identify sources for resources
+    - when are they needed
+    - training requirments
+    - resource processes 
+- Responsibility Matrix: includes four categories of responsibility.
+  - R= Responsible:a group is Responsible for performing work.
+  - I= Informed:a group gets information
+  - C= Consult:a group about decisions
+  - A= Accountable: agroup makes or approves decisions and delegates work. 
+# 22.12.2022 WBS: What is Work Breakdown Structure (WBS)
+- A WBS contains two kinds of tasks:
+  - **Summary tasks**: Higher-level tasks that summarize work in some way.
+  - **Work packages**: Lowest-level in WBS and it is in Eight-to-Eighty-hour tasks
 # 22.12.2022 Tailoring: Four-step Tailoring Process
 - Step 1: Select Initial Development Approach
 - Step 2: Tailor for the Organization
@@ -242,6 +261,7 @@
 - Penny Game Agile
 - Simple Lean-Agile Mindmap (SLAM)
 - Organizational Project Management (OPM)
+- Parametric Model
 - Firm Performane 
   - Net Present Value (NPV)
   - Return on Investment (ROI)
