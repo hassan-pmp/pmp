@@ -268,3 +268,4 @@
   - Internal Rate of Return (IRR)
   - Payback Period (PBP)
   - Benefit-Cost Ratio (BCR)
+- Gantt of Gantts: Shows both the past and future. Use a Gantt of Gantts to monitor the past and plan for the future. 
