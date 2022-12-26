@@ -1,5 +1,36 @@
 # Topics for Learning
 ---
+# 25.12.2022 Review Session: Why People Avoid Reviews
+- Review Session: It's a chance to learn for next time, to celebrate the achievement of the project, and to thank everyone.
+- All the reviews are saved in a folder for future reference. 
+- There are Seven types of faulty thinking
+  - No Time
+  - Too Stressful
+  - Can't admit mistakes in public and in writing
+  - Stored in memory
+  - It went well, so we don'y need a review.
+  - Project was unique and we'll never do another project like that one.
+  - No one will read them.
+- What should a project review consist of?
+  - Friendly  environment and informal
+  - Sets the tone informal and positive 
+  - Ask three questions
+	  - What was good we will do again next time?
+	  - What was bad that we will avoid next time?
+	  - What could we do differently next time?
+# 24.12.2022 12-Steps Process: 12 Steps to Managing a Project Successfully
+- Define the Project
+- List of tasks
+- Plan the running order.
+- Add contingency
+- Consider crashing
+- Make a Gantt chart
+- Calulate resource requirments
+- Assess Risks and prepare action plans
+- Monitor progress using the Gantt chart
+- Monitor costs
+- Readjust your plan
+- Review
 # 22.12.2022 Resource Management Plan: Create Resource Management Plan
   - Roles
   - Responsibilities
@@ -167,6 +198,9 @@ ABCD
      - Help resources move to the their next assigments.
 
 # 07.12.2022 Risk Management: Risk Matrix
+- Identify risk and then make them less of a proble, and then report to our boss, customer, or stakeholders what the risks are that we have not been able to get rid of. 
+- **Risk Factor** = How likely they are to happen?
+- **Impact Factor** = How serious they would be if they did happen?
 - The Unknown
   - Remember that a risk is something that hasn’t happened yet. Risks that you are aware of are called issues.
 - The Flip Side
@@ -210,7 +244,7 @@ ABCD
 - Yeah baby! Make that sprint schedule happen!
 - Woo hoo! You're on the way to agility!
 - Look at you go!
-- 
+- To use the posh language, 
 
 # 04.12.2022 Terminologies: Key Terms and Concepts
 - Outcome =
@@ -255,7 +289,16 @@ ABCD
 - Are we reporting out the right things at the right time to the right people?
 # 03.12.2022 Lessons Learned: Tips and Tricks
 - Before any action, I must inform Sponsor(s) about the next steps of the project and after his/her/thier green light, will move on the next step. 
-- Ask Two key questions in the meetings: 1) Who will be responsible, 2) When will recieved answer? 
+- Ask Two key questions in the meetings: 1) Who will be responsible, 2) When will recieved answer?
+- If Project is running late
+  - More resources
+  - Reduce quality
+  - Overlap tasks
+  - Let Project slip
+  - Abandon the project
+- If you are overspent
+  - Reduce Quality (or Scope)
+  - Overspend
 # 02.12.2022 Parking lot: Intesting Tpoics to know 
 - 25/10 crowd sourcing approach
 - Penny Game Agile
