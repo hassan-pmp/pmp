@@ -24,7 +24,7 @@
 - Step 2: Tailor for the Organization
 - Step 3: Tailor for the Project
 - Step 4: Implement Ongoing Improvement
-# 22.12.2022 Proccess-Based Approach: Five Project Managment Proccess Gropus:
+# 22.12.2022 Proccess-Based Approach: Five Project Managment Proccess Gropus
 - **Initiating**: Those processes performed to define a new project or new phase of an exsiting project by obtaining authorization to start the project or phase.
 - **Planning**: Those processes required to establish the scope of the project, refine the objectives, and define the course of action required to attain the objectives that the project was undertaken to achieve.
 - **Execution**: Those processes performedto complete the work defined in the project management paln to satisfy the project requirments.
@@ -53,7 +53,6 @@
   - Are the user story point estimates in the sprint agreed to by the team members?
   - Does everyone understand the work they need to complete during this upcoming sprint?
   - Does the workload realistically match the team’s capacity?
-# 21.12.2022 Deterministic Agile (DA) Approach: 
 # 21.12.2022 Agile Mindset: Treating Software Different From Manufacturing
 - Management of software is simply impossible without a very high degree of documentation. Why so much documentation:
   - 1) Enough designer must communicate with interfacing designers, which his management and possibly with the customer. A verbal record is too intangible to provide an adequate basis for an interface or management decision. An acceptable written description forces the designer to take an uniquivocal position and provide tangible evedence of completion.
@@ -64,6 +63,7 @@
 - Solves the problem
 - Take advantage of opportunity 
 # 18.12.2022 Problem Statement: Clearly define the problem or opportunity
+ABCD
 # 18.12.2022 Project Objectives: Identify the project objectives
 - **Business Objectives**: support your organization’s goal.
 - **Financial Objectives**: ex. Cutting costs by 10%.
@@ -75,7 +75,7 @@
   - **A**chievable Objectives: tell what can be done with resources available. 
   - **R**ealistic (2:26)  
   - **T**ime-Related Objectives: Identify when objectives need to be achieved. 
-# 18.12.2022 Choose a Strategy: Choose a strategy:
+# 18.12.2022 Choose a Strategy: Choose a strategy
 - Brainstorming
   - Identify possible strategies 
   - Allow free flow od ideas
@@ -177,7 +177,7 @@
     - Mitigation: Do some risk response planning to reduce the likelihood of occurrence, impact, or both
     - Transferral: Move risky work to someone else (e.g., a subcontractor via modification to their statement of work)
     - Acceptance: Accept and deal with the risk (this would happen if the cost to mitigate exceeds the cost of the risk itself)
-- QUESTIONS TO ASK THE TEAM:
+- QUESTIONS TO ASK THE TEAM
   - Can anyone spot any risks or opportunities coming down the pike?
 - QUESTIONS TO ASK YOUR SPONSOR
   - Can your Sponsor think of any risks that might occur based on historical information or previous similar projects?
@@ -213,22 +213,22 @@
 - 
 
 # 04.12.2022 Terminologies: Key Terms and Concepts
-- Outcome: 
-- Portfolio: Projects, programs, subsidiary portfilios, and operations managed as a group to achieve strategic objectives
-- Portfolio Mangemnet: The centralized management of one or more portfolios to achieve strategic objectives
-- Product: 
-- Program: Related projects, subsidiary programms, and program activities that are managed in a coordinated manner to obtain benefits not available from managing them individually
-- Project: A temporary endeavor undertaken to create aunique product, service, or result
-- Project Management: 
-- Program Mangement: The application of knowledge, skills, and principles to a program to achieve the program objectives and obtain benefits and control not available by managing program components individually
-- Project Manager: 
-- Project Team: 
-- System for Value Delivery: 
-- Value: 
+- Outcome =
+- Portfolio = Projects, programs, subsidiary portfilios, and operations managed as a group to achieve strategic objectives
+- Portfolio Mangemnet= The centralized management of one or more portfolios to achieve strategic objectives
+- Product =
+- Program = Related projects, subsidiary programms, and program activities that are managed in a coordinated manner to obtain benefits not available from managing them individually
+- Project = A temporary endeavor undertaken to create aunique product, service, or result
+- Project Management = 
+- Program Mangement = The application of knowledge, skills, and principles to a program to achieve the program objectives and obtain benefits and control not available by managing program components individually
+- Project Manager = 
+- Project Team =
+- System for Value Delivery = 
+- Value =
 - features describe the main functionality of the product. 
 - Epics are a way to break features into smaller chunks of work.
-- Project Life Cycle: can be predictive or adaptive. Whithin a project life cycle, there are generally one or more phases that are associated with the development of product, service, or result. These are called development life cycle, which can be predictive, adaptive, iterative, incremental, or hybrid model.
-- Project Phase: is a collection of logically related project activities that culminates in the completion of one or more deliverables.
+- Project Life Cycle = can be predictive or adaptive. Whithin a project life cycle, there are generally one or more phases that are associated with the development of product, service, or result. These are called development life cycle, which can be predictive, adaptive, iterative, incremental, or hybrid model.
+- Project Phase = is a collection of logically related project activities that culminates in the completion of one or more deliverables.
   - Concept development
   - Feasibility study 
   - Customer requirments
@@ -268,4 +268,5 @@
   - Internal Rate of Return (IRR)
   - Payback Period (PBP)
   - Benefit-Cost Ratio (BCR)
-- Gantt of Gantts: Shows both the past and future. Use a Gantt of Gantts to monitor the past and plan for the future. 
+- Gantt of Gantts: Shows both the past and future. Use a Gantt of Gantts to monitor the past and plan for the future.
+- Deterministic Agile (DA) Approach
