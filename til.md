@@ -245,7 +245,10 @@ ABCD
 - Woo hoo! You're on the way to agility!
 - Look at you go!
 - To use the posh language, 
-
+# 26.12.2022 Terminologies: Portfolio
+- Projects, programs, subsidiary portfilios, and operations managed as a group to achieve strategic objectives.
+# 26.12.2022 Terminologies: Portfolio Managemnet
+- The centralized management of one or more portfolios to achieve strategic objectives.
 # 04.12.2022 Terminologies: Key Terms and Concepts
 - Outcome =
 - Portfolio = Projects, programs, subsidiary portfilios, and operations managed as a group to achieve strategic objectives
