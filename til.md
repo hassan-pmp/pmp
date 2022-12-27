@@ -1,5 +1,12 @@
 # Topics for Learning
 ---
+# 27.12.2022 Gantt Chart: Unit of Measure for Resource Plan
+- Hours per Week
+- Person days per week or month
+- Number of People (Full-Time Equivalents=FTEs) per week/month
+# 27.12.2022 Gantt Chart: Ask to Sponsors: 
+- How certain project are getting on?
+- How's the X project getting on?
 # 26.12.2022 Gantt Chart: Slipping
 - what has happened compared with waht should have happend
 # 26.12.2022 Gantt Chart: Linking Tasks
