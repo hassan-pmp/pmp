@@ -1,5 +1,25 @@
 # Topics for Learning
 ---
+# 26.12.2022 Gantt Chart: Slipping
+- what has happened compared with waht should have happend
+# 26.12.2022 Gantt Chart: Linking Tasks
+There are four ways tasks can be linked.
+- Finished to Start
+- Start to Start
+- Finish to Finish
+- Start to Finish
+# 26.12.2022 Gantt Chart: Gantt Chart
+- A project management tool that helps you make plans and monitor progress.
+# 26.12.2022 Gantt Chart: Lead and Lag
+- There is the time lags that can happen between tasks, sometimes known as lead and lag.
+# 26.12.2022 Gantt Chart: Granulate
+- which means cut them up into smaller parts.
+# 26.12.2022 Gantt Chart: Critical Path
+- The longest path, or the tasks that take the longest time to complete
+# 26.12.2022 Gantt Chart: Agile
+- Also known as scrum. A task management methodology based on the idea that it’s not worth having a detailed plan at the start of a project, but rather remaining flexible and iterating as you go along
+# 26.12.2022 Gantt Chart: Waterfall
+- Also known as the APM or PMI method. Task management that copes with uncertainty using one of four methods: Worst case, most likely case, contingency, and dividing the task into phases
 # 25.12.2022 Review Session: Why People Avoid Reviews
 - Review Session: It's a chance to learn for next time, to celebrate the achievement of the project, and to thank everyone.
 - All the reviews are saved in a folder for future reference. 
