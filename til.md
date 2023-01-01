@@ -3,11 +3,26 @@
 # 01.01.2023 Gantt Chart: Coloring in
 - Proportional Colouring: where if you've done half a taskyou color in half of it.
 - Colour in when complete : until whole task is done.
-# 01.01.2023 Gantt Chart: Speeding Up the Project with Gant Chart
+# 01.01.2023 Gantt Chart: Speeding Up (First Half) the Project with Gant Chart
 - Crashing the Project
 	- Putting the money up, means Increse Resources
 	- Putting the quality down, Reduce quality
 	- Overlapping some of the tasks, Overlap tasks  
+# 01.01.2023 Gantt Chart: Speeding Up (Second Half) the Project with Gant Chart
+- Crashing the Project
+	- Putting the money up, means Increse Resources
+	- Putting the quality down, Reduce quality
+	- Overlapping some of the tasks, Overlap tasks
+	- Let the Project Slip to just run a bit later, Let Slip
+# 01.01.2023 Gantt Chart: Forecasting Challange
+- Forecast Cost at Completion (FCC): An estimate of the project's final cost.
+- You got to estimate this from a combination of the progress in the spend.
+# 01.01.2023 Gantt Chart: Five Common Mistakes should be Avoid 
+- Jumpping straight to the Gant Chart
+- Getting the wrong level of Granularity
+- Forgetting Contingency
+- Neglecting the Gant Chart once you've started
+- Changing your plan more than once
 # 27.12.2022 Gantt Chart: Unit of Measure for Resource Plan
 - Hours per Week
 - Person days per week or month
