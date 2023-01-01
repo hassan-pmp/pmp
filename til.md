@@ -1,5 +1,13 @@
 # Topics for Learning
 ---
+# 01.01.2023 Gantt Chart: Coloring in
+- Proportional Colouring: where if you've done half a taskyou color in half of it.
+- Colour in when complete : until whole task is done.
+# 01.01.2023 Gantt Chart: Speeding Up the Project with Gant Chart
+- Crashing the Project
+	- Putting the money up, means Increse Resources
+	- Putting the quality down, Reduce quality
+	- Overlapping some of the tasks, Overlap tasks  
 # 27.12.2022 Gantt Chart: Unit of Measure for Resource Plan
 - Hours per Week
 - Person days per week or month
