@@ -355,6 +355,13 @@ ABCD
 # 02.12.2022 Parking lot: Intesting Tpoics to know 
 - 25/10 crowd sourcing approach
 - Penny Game Agile
+	- most of us cling to the notion that we could just focus on our work in a quiet office all by ourselves, we'd be much more productive. The problem is that you’re actually right but most organizations aren’t just one individual. 
+	- You as an individual probably would be much more productive just working on your own tasks but as a team overall, you’d actually be less productive. You probably don’t believe me and that’s why I love penny game.
+	- You’ll arrange several people around a table. These people represent members of a team or even different functional areas. Each team member has their own batch of work. To keep things simple, this work is just to fill pennies.  
+	- Each team member flips pennies two at a time then pass them to a coworker. To monitor the team’s progress, you can record how long it takes each person to finish their work and how long it takes for the customer to get their first glance of the product and when it’s finished.
+	- I usually run the penny game in the three rounds. For the first round, I have each person flip all 10 pennies. Remember that this is how most people prefer to work. They can just focus on all 10 pennies and when they’re done, they can hand it off to the next person. This is the equivalent of sitting in your office all day and focusing just on your own work. You can see that each person is pretty productive. Their finishing their big batches around 10 second but the customer doesn’t get their product until 52 seconds. Foe the second round, the team creates two batches of five pennies. In this smaller batch, their coworkers can start working much more quickly. Each team member doesn’t have to wait for the full handoff. They can start to work as soon as they receive their first batch. So you can see this is making each individual team member much less productive. 
+
+ 
 - Simple Lean-Agile Mindmap (SLAM)
 - Organizational Project Management (OPM)
 - Parametric Model
