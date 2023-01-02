@@ -129,6 +129,8 @@ There are four ways tasks can be linked.
       - This expresses what the user is trying to accomplish. Understanding the feature request is critical to delivering the right thing.
     - So that…
       - This is perhaps the most critical part of the user story format. Why the user wants to accomplish something can be very enlightening to the goal just described.
+      - As [USER], I want [Some Feature] so that I can [Get some Value].
+      - As a restaurant owner, I want to be able to put my menu online so that people will be interested in my restaurant.  --- > What vs How.
 - Create a Task:
   - Has the Scrum Master or Disciplined Agile Scrum Master worked with the team to determine the tasks that will be completed during the sprint?
   - Are the user story point estimates in the sprint agreed to by the team members?
