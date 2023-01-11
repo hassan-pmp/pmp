@@ -298,6 +298,7 @@ ABCD
 - Look at you go!
 - To use the posh language,
 - Put simply
+- In our analogy, 
 # 26.12.2022 Terminologies: Portfolio
 - Projects, programs, subsidiary portfilios, and operations managed as a group to achieve strategic objectives.
 # 26.12.2022 Terminologies: Portfolio Managemnet
