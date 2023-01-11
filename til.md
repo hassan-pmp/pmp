@@ -296,7 +296,8 @@ ABCD
 - Yeah baby! Make that sprint schedule happen!
 - Woo hoo! You're on the way to agility!
 - Look at you go!
-- To use the posh language, 
+- To use the posh language,
+- Put simply
 # 26.12.2022 Terminologies: Portfolio
 - Projects, programs, subsidiary portfilios, and operations managed as a group to achieve strategic objectives.
 # 26.12.2022 Terminologies: Portfolio Managemnet
