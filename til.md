@@ -1,5 +1,11 @@
 # Topics for Learning
 ---
+# 012.01.2023 Gantt Chart: Factors that important order
+- Resources availability
+- Dependencies
+- Urgency
+- Importance
+- Stakeholders
 # 012.01.2023 Gantt Chart: Resources
 - People
 - Money
@@ -10,6 +16,9 @@
 # 012.01.2023 Gantt Chart: Strategic way
 - Program management say the Program Managers deal with the **WHY** while Project Managers tend to to deal with the **HOW**.
 - Link to the how and why is the idea that projects are intersted in **OUTPUTS** we made the road on time and on budget while programs are more interested in **OUTCOMES**. 
+- Program **OPEN Endedness** while Project Management is **END Date**.
+- **Shifting Stakeholders** in Program Management while it is **Manageable Stakeholders** in Project Management.
+- **Unclear edges** in Program Management while it is **Edges defined** in Project Management. 
 # 01.01.2023 Gantt Chart: Coloring in
 - Proportional Colouring: where if you've done half a taskyou color in half of it.
 - Colour in when complete : until whole task is done.
