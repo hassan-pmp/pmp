@@ -21,7 +21,21 @@
 - **Unclear edges** in Program Management while it is **Edges defined** in Project Management. 
 - **Complex planning** in Program Management while it is **Simple Planning** in Project Management. 
 - **Documentation critical** in Program Management while it is **Documentation important** in Project Management.
+# 12.01.2023 Gantt Chart: Planning
+- Top Down: Estimate numbers and confirm.
+	-  Advantages:
+		- Faster
+		- Discover critical elements early
 
+- Bottom Up: Ask for numbers.
+	-  Advantages:
+		-   You get them to open first (Others bid first)
+		-   More accurate estimates
+		-   Project Managemees have more buy-in
+# 12.01.2023 Gantt Chart: Monitoring Cost
+- Cash-flow time delay
+- Effect of lateness on amount spent
+- 
 # 01.01.2023 Gantt Chart: Coloring in
 - Proportional Colouring: where if you've done half a taskyou color in half of it.
 - Colour in when complete : until whole task is done.
