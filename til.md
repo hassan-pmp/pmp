@@ -19,6 +19,9 @@
 - Program **OPEN Endedness** while Project Management is **END Date**.
 - **Shifting Stakeholders** in Program Management while it is **Manageable Stakeholders** in Project Management.
 - **Unclear edges** in Program Management while it is **Edges defined** in Project Management. 
+- **Complex planning** in Program Management while it is **Simple Planning** in Project Management. 
+- **Documentation critical** in Program Management while it is **Documentation important** in Project Management.
+
 # 01.01.2023 Gantt Chart: Coloring in
 - Proportional Colouring: where if you've done half a taskyou color in half of it.
 - Colour in when complete : until whole task is done.
