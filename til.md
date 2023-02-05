@@ -1,6 +1,26 @@
 # Topics for Learning
 ---
-# 05.02.2023 Project Management: Lession 1: Key Project Roles
+# 06.02.2023 Project Management: Lession 3: Project Methodologies and the Project Life Cycle
+- **Initiation**: Business case is made Project is chrtered Core team is assembled
+- **Planning**: Plans outlined for management of all aspects of the project
+- **Executing**: Actual work of the project is completed Objectives and requirments are met.
+- **Monitoring & Conrolling**: Project progress and performance is measured Changes are poposed where necessary to meet existing or shifting goals.
+- **Closing**: confirm objectives were met. Turn over final product to customer, project sponsor, or designated recipient
+- Choosing a Project Methodology
+	- Predictive
+		- Clearly different work takes plac in each phase.
+		- Major changes to team composition often take place at project milestones.
+		- Preferred when deliverable is well undestood, based on established practices, and lacks value unit fully complete.  
+	- Iterative
+		- Develops product through series of repeated cycles.
+		- Incremental development process with careful change management.
+		- Helpful when objectives and scope are subject to change.
+	- Adaptive
+		- Similar to iterative model, but on a faster pace, often of 2-4 week cycles.
+		- Ideal in rapidly changing environments when scope is hard to define fully in advance. 
+		- Oftern used when partially completed products offer value to stakeholders as development continues.  
+
+# 05.02.2023 Project Management: Lession 2: Key Project Roles
 - **Leader**: May be known as Project Manager, Coordinator, Scrum Master, or by other titles.Primary person responsible for ensuring objectives are met and outcome are satisfactory in nature.
 - **Project Facilitator**: additional role often fullfilled by project leader. Responsible for helüing team members achieve goals by combating challenges and facilitating progress.
 - **Project Sponsor**: individual or entity responsible for commitiing organizational resources, providing funding, and certifying project objectives.
