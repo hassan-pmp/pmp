@@ -1,7 +1,15 @@
 # Topics for Learning
 ---
 # 05.02.2023 Project Management: Lession 1: Key Project Roles
-
+- **Leader**: May be known as Project Manager, Coordinator, Scrum Master, or by other titles.Primary person responsible for ensuring objectives are met and outcome are satisfactory in nature.
+- **Project Facilitator**: additional role often fullfilled by project leader. Responsible for helüing team members achieve goals by combating challenges and facilitating progress.
+- **Project Sponsor**: individual or entity responsible for commitiing organizational resources, providing funding, and certifying project objectives.
+Often selects the project leader and other key roles helping to form the beginning phases of the project team that will actually achieve the initiatives and objectives that the sponsor has defined. 
+- **Product Owner**: Additional role often fullfilled by project sponsor prioritizes requirments for ongoing work based on an understanding of value, risk, and activity dependencies. 
+- **Domain SME**: typically associated with the peoject for only a portion of its total duration.
+- **Customer**: May also serve as the product owner depondeing on the nature of project. Represents the primary beneficiary of project work, defines vale and verfies deliverables are acceptable. Provides useful insight in specifying requirments and may assist in implementation activities.
+- **End User**: May or may not be the same as customer. Will be most directly impacted by the project's implementation and is an important source of perspective in planning and validating work.
+- **Governance**: May be internal to the team or organization or may be an external regulatory authority. Ensures project work and results are in compliance and may provide approval in case of formal review
 # 05.02.2023 Project Management: Lession 1: Project Foundations
 - Needs Assessment: May be conduct by Project Manager or Business Analtyst. To determine what the underlaying needs might be that indicate that there is on opportunity for a project to create value or to solve problems. By addressing needs, value is created. 
 - Business Case
