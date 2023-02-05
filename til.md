@@ -1,19 +1,37 @@
 # Topics for Learning
 ---
-# 012.01.2023 Gantt Chart: Factors that important order
+# 05.02.2023 Project Management: Lession 1: Key Project Roles
+
+# 05.02.2023 Project Management: Lession 1: Project Foundations
+- Needs Assessment: May be conduct by Project Manager or Business Analtyst. To determine what the underlaying needs might be that indicate that there is on opportunity for a project to create value or to solve problems. By addressing needs, value is created. 
+- Business Case
+	- Business case lists objectives and justifications for project initiation
+	- Should indicate economic feasibility and expected net benefit of project
+	- Timeline of benefits realization vs. cost incurrence should be described
+ - Benefits Management Plan
+ 	- Describe how and when project benefits will be delivered
+ 	- Defines target benefits and timeframes, lists risk factors and assumptions/constraints
+ 	- Includes metrics that can be used to verify delivery of benefits.  
+- Project Charter
+	- Founding project document created or approved by project sponsor
+	- Defines core project objectives, provides for founding, names key staff and project manager.
+- Project Management Plan
+	- Created by project manager and project team
+	- Describes how project objectives will be completed and how project work will be managed 
+# 12.01.2023 Gantt Chart: Factors that important order
 - Resources availability
 - Dependencies
 - Urgency
 - Importance
 - Stakeholders
-# 012.01.2023 Gantt Chart: Resources
+# 12.01.2023 Gantt Chart: Resources
 - People
 - Money
 - Space
 - Equipment
 - Time
 - Goodwill
-# 012.01.2023 Gantt Chart: Strategic way
+# 12.01.2023 Gantt Chart: Strategic way
 - Program management say the Program Managers deal with the **WHY** while Project Managers tend to to deal with the **HOW**.
 - Link to the how and why is the idea that projects are intersted in **OUTPUTS** we made the road on time and on budget while programs are more interested in **OUTCOMES**. 
 - Program **OPEN Endedness** while Project Management is **END Date**.
