@@ -1,5 +1,15 @@
 # Topics for Learning
 ---
+# 13.02.2023 Project Management Foundations: Lession 2: Risk
+- PMI defines as a lack of understanding and awareness of issues, events, paths to follow or solutions to pursue.
+- Risks are events that can have an impact on your project but have not yet occurred. The impacts can be **positive** called **opportunities** or **negative** called **threats**.
+- **Issues** are things that have already occurred on your project.
+# 13.02.2023 Project Management Foundations: Lession 1: Risk Glossary
+- Risk category: A classification used to group identified risks.
+- Risk management plan: A document that captures the processes and approaches a team will follow to manage risks in a project.
+- Risk register: A tool used to identify and document a project’s potential risks and details.
+- Risk standard: A term used by the Project Management Institute (PMI) that states project managers should continually evaluate exposure to risk, both opportunities and threats, in order to maximize positive impacts and minimize negative impacts to the project and its outcomes.
+- Uncertainty: A lack of understanding and awareness of issues, events, paths to follow, or solutions to pursue, which will contribute to a risky project.
 # 06.02.2023 Project Management: Lession 3: Project Methodologies and the Project Life Cycle
 - **Initiation**: Business case is made Project is chrtered Core team is assembled
 - **Planning**: Plans outlined for management of all aspects of the project
