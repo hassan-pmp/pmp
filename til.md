@@ -1,9 +1,55 @@
 # Topics for Learning
 ---
+# 13.02.2023 Project Management Foundations: Lession 5: Risk Plan
+- Your risk management plan captures the methodology or the overall approach you'll follow to manage risks.
+- The plan should describe:
+	- How risks will be identified, 
+	- Evaluated and analyzed,
+	- Documented,
+	- Controlled and managed, 
+	- Reported
+- Good risk management plans also include the **roles and responsibilities** for team members. aslo, how to manage risk-related communication. The plan should explain how communication will happen, when, and to whom.
+- This is essential to set expectations and for stakeholders to allocate the time required for their risk-related responsibilities. It's a good idea to use a matrix with a list of risk-related activities and which team members perform risk monitoring, provide input, approve, and own a given risk response activity.
+- The plan should also include a glossary to make sure everyone is aware of risk-related terminology. 
+- Also, the risk management plan should include the approach to **budgeting** for negative risk mitigation activities, enabling positive risk opportunities, responding if risk events occur, and planning a contingency budget.
+- Finally, document how risk reviews will be performed throughout the project to make sure the risk process is effective and efficient.
+# 13.02.2023 Project Management Foundations: Lession 4: Volatility in a project env
+- Common factors that change on a project are: 
+	- Key stakeholders, 
+	- Available skill levels,
+	- Sponsor expectations or concerns,
+	- Risks that actually do happen.
+- Being prepared for a bit of volatility can help you deliver your project and keep your sanity
+	- Keep a one page project purpose and status summary up to date. 
+		- Outcomes your project will provide to the organization
+		- The projected cost and timeframes
+		- What resources each key stakeholder must contribute
+		- Current status against baselines.
+- Being Prepare for volatility
+	- Understand available staffing options and impacts.
+	- Get to know your sponsor
+	- Make risk management your top priority.  
+# 13.02.2023 Project Management Foundations: Lession 4: Ambiguity
+- "My stakeholders don't know what they want." It's called ambiguity, when I may interpret a requirement statement to mean one thing, and a teammate reads it and understands something very different. 
+- PMI talks about two types of ambiguity, **conceptual** and **situational**. 
+- **Conceptual** ambiguity is when a sentence can be interpreted more than one way.
+- **Situational** ambiguity is when more than one solution pathway or outcome can result from a project decision.
+# 13.02.2023 Project Management Foundations: Lession 3: Incorporating risk in a complex environment
+- Digitization Leader and Author Pearl Zhu said, "In business, complexity both drives innovation and hinders it."
+- Project complexity
+	- Systems-based: approaches involve breaking down systems into small independent pieces.
+		- PMI refers to this complexity reduction approach as "decoupling."  
+	- Reframing: involves collecting a broad set of opinions, including opinions from people who wouldn't normally be approached, like new customers or people with experience in different industries. 
+	- Process-based: These are often driven by your project methodology.
 # 13.02.2023 Project Management Foundations: Lession 2: Risk
 - PMI defines as a lack of understanding and awareness of issues, events, paths to follow or solutions to pursue.
 - Risks are events that can have an impact on your project but have not yet occurred. The impacts can be **positive** called **opportunities** or **negative** called **threats**.
 - **Issues** are things that have already occurred on your project.
+- There are four things you can do to reduce and manage risk. 
+	- First, leverage your project team and key stakeholders. 
+	- Second, think through possible outcomes. Look at individual tasks or groups of tasks that create one of your projects deliverables. 
+	- Next consider other approaches to completing your project tasks. 
+	- Finally have a plan B.
 # 13.02.2023 Project Management Foundations: Lession 1: Risk Glossary
 - Risk category: A classification used to group identified risks.
 - Risk management plan: A document that captures the processes and approaches a team will follow to manage risks in a project.
