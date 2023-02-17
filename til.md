@@ -1,6 +1,6 @@
 # Topics for Learning
 ---
-# 13.02.2023 Project_Management_Foundations: Lession_6: Risk Plan
+# 13.02.2023 Project_Management_Foundations: lesson_6: Risk Plan
 - Your risk management plan captures the methodology or the overall approach you'll follow to manage risks.
 - The plan should describe:
 	- How risks will be identified, 
@@ -13,7 +13,7 @@
 - The plan should also include a glossary to make sure everyone is aware of risk-related terminology. 
 - Also, the risk management plan should include the approach to **budgeting** for negative risk mitigation activities, enabling positive risk opportunities, responding if risk events occur, and planning a contingency budget.
 - Finally, document how risk reviews will be performed throughout the project to make sure the risk process is effective and efficient.
-# 13.02.2023 Project_Management_Foundations: Lession_5: Volatility in a project env
+# 13.02.2023 Project_Management_Foundations: lesson_5: Volatility in a project env
 - Common factors that change on a project are: 
 	- Key stakeholders, 
 	- Available skill levels,
@@ -29,19 +29,19 @@
 	- Understand available staffing options and impacts.
 	- Get to know your sponsor
 	- Make risk management your top priority.  
-# 13.02.2023 Project Management Foundations: Lession_4: Ambiguity
+# 13.02.2023 Project Management Foundations: lesson_4: Ambiguity
 - "My stakeholders don't know what they want." It's called ambiguity, when I may interpret a requirement statement to mean one thing, and a teammate reads it and understands something very different. 
 - PMI talks about two types of ambiguity, **conceptual** and **situational**. 
 - **Conceptual** ambiguity is when a sentence can be interpreted more than one way.
 - **Situational** ambiguity is when more than one solution pathway or outcome can result from a project decision.
-# 13.02.2023 Project_Management_Foundations: Lession_3: Incorporating risk in a complex environment
+# 13.02.2023 Project_Management_Foundations: lesson_3: Incorporating risk in a complex environment
 - Digitization Leader and Author Pearl Zhu said, "In business, complexity both drives innovation and hinders it."
 - Project complexity
 	- Systems-based: approaches involve breaking down systems into small independent pieces.
 		- PMI refers to this complexity reduction approach as "decoupling."  
 	- Reframing: involves collecting a broad set of opinions, including opinions from people who wouldn't normally be approached, like new customers or people with experience in different industries. 
 	- Process-based: These are often driven by your project methodology.
-# 13.02.2023 Project_Management_Foundations: Lession_2: Risk
+# 13.02.2023 Project_Management_Foundations: lesson_2: Risk
 - PMI defines as a lack of understanding and awareness of issues, events, paths to follow or solutions to pursue.
 - Risks are events that can have an impact on your project but have not yet occurred. The impacts can be **positive** called **opportunities** or **negative** called **threats**.
 - **Issues** are things that have already occurred on your project.
@@ -50,7 +50,7 @@
 	- Second, think through possible outcomes. Look at individual tasks or groups of tasks that create one of your projects deliverables. 
 	- Next consider other approaches to completing your project tasks. 
 	- Finally have a plan B.
-# 13.02.2023 Project_Management_Foundations: Lession_1: Risk Glossary
+# 13.02.2023 Project_Management_Foundations: lesson_1: Risk Glossary
 - Risk category: A classification used to group identified risks.
 - Risk management plan: A document that captures the processes and approaches a team will follow to manage risks in a project.
 - Risk register: A tool used to identify and document a project’s potential risks and details.
