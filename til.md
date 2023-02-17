@@ -1,5 +1,49 @@
 # Topics for Learning
 ---
+# 17.02.2023 Project_Management_Foundations: lesson_7: Organizational Structure
+- Project Work will align with organizational goals, Expectations, Policies, Practices
+- Organizational structure can affect
+	- How projects develop and progress
+	- How resources are allocated
+	- How resources are made available
+- Organizational Influences on Project Mangemenr
+	- Culture of organizatin
+	- Style of Mangement
+	- Structure 
+- Project stucture may be influenced by broader organization
+	- PMOs
+	- Program Management
+	- Portfolio Management
+- External factors can also have an impact
+	- Clients
+	- Joint Ventures
+	- Partnerships
+# 17.02.2023 Project_Management_Foundations: lesson_7: Realizing Benefits Through Project Initiatives
+- Organizations undertake projects to create or gain access to new sources of value
+- Retaining alignment between project work and organizational objectives is critical to ensuring value creation
+- Value may be traced through several steps to ensure alignment
+- Strategy
+	- Core reasons for an organization's ongoing existence.
+	- Described in the organization's mission and vision statement
+	- Should be evident in the shared ethos and purpose of organizational staff and leadeship
+- Objectives
+	- Distillation of strategic vision into specefic, measureable goals
+	- Objectives in this level are likely to remain high-level in nature
+	- Many initiatives may be neccessary or desired in achieving objectives
+- Initiatives
+	- Specific portfolios, programs, and projects put in place in order to achieve objectives.
+	- Each initiatives may be responssible for a part of an objective or may be targeted at accomplishing an objective on its own.
+- Capabilities
+	- Projects generate new capabilities that organizations use to meet objectives
+	- This capabilities may be the goal or an ancillary result of project work
+- Outcomes
+	- New capabilities developed through initiatives provide the organization with results that may be tangible or intangible in nature.
+- Benefits
+	- The benefits of these outcomes may be tangible or intangible as well and could be result of initiatives, newly developed or improved capabilities, and associated outcomes of our project.
+- Value 
+	- Project resaults should be traceable all the way back to strategic vision in order to ensure authentic value creation.
+	- Project work may influence higher levels of stack, underlining the importance of consistent alignment.
+           
 # 13.02.2023 Project_Management_Foundations: lesson_6: Risk Plan
 - Your risk management plan captures the methodology or the overall approach you'll follow to manage risks.
 - The plan should describe:
