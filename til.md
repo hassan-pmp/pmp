@@ -4,57 +4,57 @@
 # 02.05.2023 Leadership_for_Non_Mangers: lesson_6: 
 # 02.05.2023 Leadership_for_Non_Mangers: lesson_5: 
 # 02.05.2023 Leadership_for_Non_Mangers: lesson_4: Leadership Styles
-- The Autocratic Leadership Style
+- **The Autocratic Leadership Style**
 	- Include Others in the decision making process
 		- Team feels involved
 		- Create buy-in
 		- Not for fast or small decisions
-- The Autocratic Leadership Style
+- **The Autocratic Leadership Style**
 	- You make all decisions
 	- Does Not include others
 	- No input of opinions
 	- Decisive and fast-moving
 	- Less loyalty, support, and buy-in
 	- Team doesn't feel involved
--  The Laissez-Faire Leadership Style
+-  **The Laissez-Faire Leadership Style**
 	- Lots of room
 	- Hands-off leader
 	- Can love freedom and trust
 	- Or be very frustrated
 	- Need a team that thrives with hands-off
-- The Strategic Leadership Style
+- **The Strategic Leadership Style**
 	- Focus on strategy and future
 	- Understands competition
 	- Sees opportunities
 	- Ready to pivot
 	- Focused on winning
 	- Anticioates and undestand situations
-  - The Servant-leader Leadership Style
+  - **The Servant-leader Leadership Style**
   	- Leader serves team
   	- what does team need?
   	- Lead by example
   	- Loyal following
   	- Perhaps not as competitive
   	- Help and empower
-  - The Transormational Leadership Style
+  - **The Transormational Leadership Style**
   	- Inspiration, motivation, excitment
   	- Exiting trajectory
   	- High integrity and EQ
   	- The whole package
-  - The Transactional (Managerial) Leadership Style
+  - **The Transactional (Managerial) Leadership Style**
   	- Focus on results
   	- Working within the system
   	- Tells you what you will do
   	- Authorities, penalties, rewards, title
   	- People know what they will get
   	- Know how to be successful      
-  - The Bureaucratic Leadership Style
+  - **The Bureaucratic Leadership Style**
   	- Strictly following rules
   	- Abiding by policies
   	- Not for innovation or flixible teams
   	- Trustworthy and prediczable
   	- If I underst the rules, I understand you
-  - The Best Leadership Style
+  - **The Best Leadership Style**
   	- Depends on circumstances
   	- Circumstances can change
   	- What was their style(s)?
