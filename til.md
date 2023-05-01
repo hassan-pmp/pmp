@@ -1,5 +1,40 @@
 # Topics for Learning
 ---
+# 01.05.2023 Project_Management_Foundations: lesson_20: 
+# 01.05.2023 Project_Management_Foundations: lesson_19: 
+# 01.05.2023 Project_Management_Foundations: lesson_18: 
+# 01.05.2023 Project_Management_Foundations: lesson_17: 
+# 01.05.2023 Project_Management_Foundations: lesson_16: 
+# 01.05.2023 Project_Management_Foundations: lesson_15: 
+# 01.05.2023 Project_Management_Foundations: lesson_14: 
+# 01.05.2023 Project_Management_Foundations: lesson_13: 
+# 01.05.2023 Project_Management_Foundations: lesson_12: 
+# 01.05.2023 Project_Management_Foundations: lesson_11: Addressing technical project challenges
+- One, would this project be best managed by traditional or agile methods and why?
+- Two, there is one requirement type that will likely be very important for this project, what type do you believe it will be and why? 
+- Three, what do you believe will be the area or areas of change you most need to focus on? Technical tool change, process change or cultural change and why? 
+# 01.05.2023 Project_Management_Foundations: lesson_10: Change in a technical project
+- Former US president, Woodrow Wilson, is quoted as saying, "If you want to make enemies, try to change something."
+-  To avoid fate, we need to focus on change in four dimensions.
+	- First, there's change to the products we produce.
+	- Next, focus on changing processes.
+	- The third type of change to manage is system integration and maintenance changes. 
+	- Finally, there is cultural or organizational change. 
+# 01.05.2023 Project_Management_Foundations: lesson_9: Requirements
+- Two types of requirements: functional and non-functional.
+	- Functional requirements focus on what the system needs to deliver. Non-functional requirements focus on solution characteristics and how the technical component works, such as response time or how a system would be displayed on a green or color computer terminal.
+	- Non-functional requirements are sometimes referred to as technical requirements.
+- Here are four areas of non-functional expectations that need to be addressed in virtually every technical project. 
+	- The first area is devices and the Internet of Things
+	- The second non-functional requirements area to address is 24 by seven access.
+	- The third non-functional requirement area to address is accessibility.
+	- Finally, there are non-functional requirements relating to search engine optimization, or SEO.   
+# 01.05.2023 Project_Management_Foundations: lesson_8: Waterfall vs. agile
+-  Here are some considerations that indicate whether traditional or Agile approaches are appropriate for your technical project
+	- First is the clarity of your requirements
+	- The second consideration is the product you are producing.
+	- Another consideration is the need for speed and the ability to break down your product into value producing pieces.
+	- Finally, your organizational norms and practices may dictate whether Waterfall or Agile is best.
 # 17.02.2023 Project_Management_Foundations: lesson_7: Organizational Structure
 - Project Work will align with organizational goals, Expectations, Policies, Practices
 - Organizational structure can affect
