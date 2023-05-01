@@ -8,10 +8,66 @@
 # 01.05.2023 Project_Management_Foundations: lesson_15: 
 # 01.05.2023 Project_Management_Foundations: lesson_14: 
 # 01.05.2023 Leadership_for_Non_Mangers: lesson_7:
-# 01.05.2023 Leadership_for_Non_Mangers: lesson_6:
-# 01.05.2023 Leadership_for_Non_Mangers: lesson_5:
-# 01.05.2023 Leadership_for_Non_Mangers: lesson_4:
-# 01.05.2023 Leadership_for_Non_Mangers: lesson_3:The Very Bad Leaders
+# 01.05.2023 Leadership_for_Non_Mangers: lesson_6: 
+
+# 01.05.2023 Leadership_for_Non_Mangers: lesson_5: 
+# 02.05.2023 Leadership_for_Non_Mangers: lesson_4: Leadership Style
+- The Autocratic Leadership Style
+	- Include Others in the decision making process
+		- Team feels involved
+		- Create buy-in
+		- Not for fast or small decisions
+- The Autocratic Leadership Style
+	- You make all decisions
+	- Does Not include others
+	- No input of opinions
+	- Decisive and fast-moving
+	- Less loyalty, support, and buy-in
+	- Team doesn't feel involved
+-  The Laissez-Faire Leadership Style
+	- Lots of room
+	- Hands-off leader
+	- Can love freedom and trust
+	- Or be very frustrated
+	- Need a team that thrives with hands-off
+- The Strategic Leadership Style
+	- Focus on strategy and future
+	- Understands competition
+	- Sees opportunities
+	- Ready to pivot
+	- Focused on winning
+	- Anticioates and undestand situations
+  - The Servant-leader Leadership Style
+  	- Leader serves team
+  	- what does team need?
+  	- Lead by example
+  	- Loyal following
+  	- Perhaps not as competitive
+  	- Help and empower
+  - The Transormational Leadership Style
+  	- Inspiration, motivation, excitment
+  	- Exiting trajectory
+  	- High integrity and EQ
+  	- The whole package
+  - The Transactional (Managerial) Leadership Style
+  	- Focus on results
+  	- Working within the system
+  	- Tells you what you will do
+  	- Authorities, penalties, rewards, title
+  	- People know what they will get
+  	- Know how to be successful      
+  - The Bureaucratic Leadership Style
+  	- Strictly following rules
+  	- Abiding by policies
+  	- Not for innovation or flixible teams
+  	- Trustworthy and prediczable
+  	- If I underst the rules, I understand you
+  - The Best Leadership Style
+  	- Depends on circumstances
+  	- Circumstances can change
+  	- What was their style(s)?
+  	- What do you think your style is?     
+# 02.05.2023 Leadership_for_Non_Mangers: lesson_3:The Very Bad Leaders
 - Lack of trust
 - Suspicious
 - Discouraged
@@ -35,7 +91,7 @@
 	- Not engaged
 	- Bad branding
 - Leadership and shifting leadership had a huge impact on just about every aspect of the company.
- # 01.05.2023 Leadership_for_Non_Mangers: lesson_2: Leadership vs Management
+ # 02.05.2023 Leadership_for_Non_Mangers: lesson_2: Leadership vs Management
 - Leadership
 	- Strategy
 	- Vision
@@ -58,7 +114,7 @@
 		- Influencer
 		- Visionary
 		- Strategist   
-# 01.05.2023 Leadership_for_Non_Mangers: lesson_1:Leadership
+# 02.05.2023 Leadership_for_Non_Mangers: lesson_1:Leadership
 - Leadership can mean:
 	- Personal growth
 	- New challanges
@@ -69,7 +125,6 @@
 	- Bill Gates says, leaders empowes others.
 	- John Maxwell says that leadership is simply influence. 
 	- Kevin Kruse: Leadership is a process of social influence, which maximizes the efforts of others, towards the achievement of a goal
-
 - Leadership characteristics
 	- Face
 	- Decisions
