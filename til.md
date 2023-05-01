@@ -11,8 +11,31 @@
 # 01.05.2023 Leadership_for_Non_Mangers: lesson_6:
 # 01.05.2023 Leadership_for_Non_Mangers: lesson_5:
 # 01.05.2023 Leadership_for_Non_Mangers: lesson_4:
-# 01.05.2023 Leadership_for_Non_Mangers: lesson_3:
-# 01.05.2023 Leadership_for_Non_Mangers: lesson_2: Leadership vs Management
+# 01.05.2023 Leadership_for_Non_Mangers: lesson_3:The Very Bad Leaders
+- Lack of trust
+- Suspicious
+- Discouraged
+- Corecion and threats
+- Questioning of motives
+- Toxicity
+- Great Leader
+	- Satisfaction
+	- Happy
+	- Excited
+	- Contribute
+- Bad Leader
+	- Paranoid#
+	- Selfprotection
+	- Unmotivated
+	- Uncreative
+	- Second guess
+- Negetive feels
+	- Unhappy
+	- Looking elsewhere
+	- Not engaged
+	- Bad branding
+- Leadership and shifting leadership had a huge impact on just about every aspect of the company.
+ # 01.05.2023 Leadership_for_Non_Mangers: lesson_2: Leadership vs Management
 - Leadership
 	- Strategy
 	- Vision
