@@ -1,17 +1,9 @@
 # Topics for Learning
 ---
-# 01.05.2023 Project_Management_Foundations: lesson_20: 
-# 01.05.2023 Project_Management_Foundations: lesson_19: 
-# 01.05.2023 Project_Management_Foundations: lesson_18: 
-# 01.05.2023 Project_Management_Foundations: lesson_17: 
-# 01.05.2023 Project_Management_Foundations: lesson_16: 
-# 01.05.2023 Project_Management_Foundations: lesson_15: 
-# 01.05.2023 Project_Management_Foundations: lesson_14: 
-# 01.05.2023 Leadership_for_Non_Mangers: lesson_7:
-# 01.05.2023 Leadership_for_Non_Mangers: lesson_6: 
-
-# 01.05.2023 Leadership_for_Non_Mangers: lesson_5: 
-# 02.05.2023 Leadership_for_Non_Mangers: lesson_4: Leadership Style
+# 02.05.2023 Leadership_for_Non_Mangers: lesson_7:
+# 02.05.2023 Leadership_for_Non_Mangers: lesson_6: 
+# 02.05.2023 Leadership_for_Non_Mangers: lesson_5: 
+# 02.05.2023 Leadership_for_Non_Mangers: lesson_4: Leadership Styles
 - The Autocratic Leadership Style
 	- Include Others in the decision making process
 		- Team feels involved
