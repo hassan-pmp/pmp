@@ -7,8 +7,55 @@
 # 01.05.2023 Project_Management_Foundations: lesson_16: 
 # 01.05.2023 Project_Management_Foundations: lesson_15: 
 # 01.05.2023 Project_Management_Foundations: lesson_14: 
-# 01.05.2023 Project_Management_Foundations: lesson_13: 
-# 01.05.2023 Project_Management_Foundations: lesson_12: 
+# 01.05.2023 Leadership_for_Non_Mangers: lesson_7:
+# 01.05.2023 Leadership_for_Non_Mangers: lesson_6:
+# 01.05.2023 Leadership_for_Non_Mangers: lesson_5:
+# 01.05.2023 Leadership_for_Non_Mangers: lesson_4:
+# 01.05.2023 Leadership_for_Non_Mangers: lesson_3:
+# 01.05.2023 Leadership_for_Non_Mangers: lesson_2: Leadership vs Management
+- Leadership
+	- Strategy
+	- Vision
+	- Leading and Persuasiving
+	- Inspiring
+	- Bigger picture
+	- Gather informantion
+	- on the road more
+- Mangement
+	- Carry out vision and strategy
+	- Operational
+	- Daily focus on teams
+	- Daily focus on Projects
+	- Deadlines, numbers, and reporting
+	- Tactics
+	- in the oofice more
+- Leadership Generalization
+	- Deponeds on size and culture
+		- Persuader
+		- Influencer
+		- Visionary
+		- Strategist   
+# 01.05.2023 Leadership_for_Non_Mangers: lesson_1:Leadership
+- Leadership can mean:
+	- Personal growth
+	- New challanges
+	- Self-improvement
+- Leadership:
+	- Peter Drcker says that leaders have followers.
+	- Warren Bennis says a leader is someone who turns vision into reality. 
+	- Bill Gates says, leaders empowes others.
+	- John Maxwell says that leadership is simply influence. 
+	- Kevin Kruse: Leadership is a process of social influence, which maximizes the efforts of others, towards the achievement of a goal
+
+- Leadership characteristics
+	- Face
+	- Decisions
+	- Vision
+	- Persuasive
+	- SMART
+	- Lucky 
+# 01.05.2023 Project_Management_Foundations: lesson_12: Managing technologies
+- Author Jeffrey Gitomer is quoted as saying, "You don't earn loyalty in a day, "you earn loyalty day by day." 
 # 01.05.2023 Project_Management_Foundations: lesson_11: Addressing technical project challenges
 - One, would this project be best managed by traditional or agile methods and why?
 - Two, there is one requirement type that will likely be very important for this project, what type do you believe it will be and why? 
