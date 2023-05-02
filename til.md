@@ -52,32 +52,32 @@
 	- Ready to pivot
 	- Focused on winning
 	- Anticioates and undestand situations
-  - **The Servant-leader Leadership Style**
+- **The Servant-leader Leadership Style**
   	- Leader serves team
   	- what does team need?
   	- Lead by example
   	- Loyal following
   	- Perhaps not as competitive
   	- Help and empower
-  - **The Transormational Leadership Style**
+- **The Transormational Leadership Style**
   	- Inspiration, motivation, excitment
   	- Exiting trajectory
   	- High integrity and EQ
   	- The whole package
-  - **The Transactional (Managerial) Leadership Style**
+- **The Transactional (Managerial) Leadership Style**
   	- Focus on results
   	- Working within the system
   	- Tells you what you will do
   	- Authorities, penalties, rewards, title
   	- People know what they will get
   	- Know how to be successful      
-  - **The Bureaucratic Leadership Style**
+- **The Bureaucratic Leadership Style**
   	- Strictly following rules
   	- Abiding by policies
   	- Not for innovation or flixible teams
   	- Trustworthy and prediczable
   	- If I underst the rules, I understand you
-  - **The Best Leadership Style**
+- **The Best Leadership Style**
   	- Depends on circumstances
   	- Circumstances can change
   	- What was their style(s)?
