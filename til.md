@@ -2,7 +2,17 @@
 ---
 # 02.05.2023 Leadership_for_Non_Mangers: lesson_7:
 # 02.05.2023 Leadership_for_Non_Mangers: lesson_6: 
-# 02.05.2023 Leadership_for_Non_Mangers: lesson_5: 
+# 02.05.2023 Leadership_for_Non_Mangers: lesson_5: Specific Characteristic of Leaders
+- Leading by Design
+	- Led by example
+		- Knowledge
+		- Skills
+		- Abilities
+	- Led by Design
+		- Systems
+		- Process
+		- Culture
+- "Leading by example shows the way, but leading by design creates a system that discovers the way." Bill Barnet
 # 02.05.2023 Leadership_for_Non_Mangers: lesson_4: Leadership Styles
 - **The Autocratic Leadership Style**
 	- Include Others in the decision making process
