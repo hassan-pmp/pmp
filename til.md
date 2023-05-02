@@ -13,6 +13,19 @@
 		- Process
 		- Culture
 - "Leading by example shows the way, but leading by design creates a system that discovers the way. Those who lead by design do not invent, nor are they involved in the specific desisions to get the job done. Done well, such leadership creates an organization that takes us places we never imagined" Bill Barnet.
+- Integrity: "The quality of being honest and having strong moral principles." Google Dictionary
+- Leaders have Integrity: 
+	- Educational Programs
+	- Understand integrity
+	- Have we been taught about integrity?
+	- Who teaches us about integrity?
+	- Integrity mismatch leads to stress
+- What does Integrity look like?
+	- Doing the right thing, **even if** it is hard.
+	- Being honest, **even if** would be easier or more profitable to be dishonest.
+	- Helping others who need or deserve help, **even if** others won't help them.
+	- Treating everyone fairly, **even if** it would be so easy to cheat, especially if no one would know.
+	- Giving up certain rewards, **even if** once again, no one would know
 # 02.05.2023 Leadership_for_Non_Mangers: lesson_4: Leadership Styles
 - **The Autocratic Leadership Style**
 	- Include Others in the decision making process
