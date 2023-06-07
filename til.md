@@ -1,7 +1,72 @@
 # Topics for Learning
 ---
-# 02.05.2023 Leadership_for_Non_Mangers: lesson_7:
-# 02.05.2023 Leadership_for_Non_Mangers: lesson_6: 
+# 07.06.2023 Leadership_Masterclass: Leadership self-audit: Lesson_10
+# 07.06.2023 Leadership_Masterclass: Leadership self-audit: Lesson_9
+# 07.06.2023 Leadership_Masterclass: Leadership self-audit: Lesson_8
+# 07.06.2023 Leadership_Masterclass: The Managemenet Potato: Lesson_7
+- 
+# 07.06.2023 Leadership_Masterclass: Ultimate Motiviator: Lesson_6
+- Training People.
+- Give them challenges.
+- Give people variety.
+- Find out what their skills are.
+- Find out their future plans.
+- Show them how their job matters.
+- Agree large, longer term goals.
+- Give people more freedom on certain tasks.
+# 07.06.2023 Leadership_Masterclass: Feeling_Valued: Lesson_5
+- How can we make each person who works for you feel valued?
+- How can you male people feel important and feel valued?
+	- Notice what people do, and thank them
+	- Spend time with them
+	- Show them how they make a difference
+	- Give public recongnition
+	- Give people ownership
+	- Give them the job of coaching or training someone else.  
+# 07.06.2023 Leadership_Masterclass: Feeling_of_Belonging: Lesson_4
+- Do you feel that you work for company?
+- Do you actually feel that you're part of the company? 
+- Ways that you can do to make your team feel part of things:
+	- Have a weekly Team Meeting
+	- Have a meal together.
+	- Think about your working environment 
+	- Do activities outside work
+	- Create Team challenges
+# 07.06.2023 Leadership_Masterclass: Improve Security : Lesson_3
+- How you can make your team feel more secure: 
+	- You could spend time with people
+	- Get to know them as people
+	- Tell them about the big picture
+	- Praising and thanking people
+	- To be supportive about the things that they're less good at.
+	- Have clear objectives for them, for their job.
+	- To have clear rules.
+	- Invest on people.
+	- Encourage people.
+# 07.06.2023 Leadership_Masterclass: Team Motivation Audit: Lesson_2
+- Most Famous Managamenet Theory: Maslow's Hierachy of needs.
+	- Survival (Level 5)
+	- Security (Level 4)
+	- Feeling of Belonging (Level 3)
+	- Feeling Valued (Level 2)
+	- Self-Fulfillment (Level 1) 
+# 07.06.2023 Leadership_Masterclass: Leadership self-audit: Lesson_1
+-  The real essence of a great boss is about being creative. It's about thinking about better ways to do things, and about perhaps a better direction of where we're going to go in the future. So it's about creating things, and then planning how you're going to make it happen, and then about shaping the process to make sure that it does actually go in the direction that you want. 
+-  There are three things that a great boss should be doing, vision, systems, and people.
+	- Sets a vison
+	- Makes sure systems work effocoently
+	- Make sure they have the right people
+- So that's five ratings of yourself out of 10 
+	- How clear is your vision?
+		- How clear is your vision of where your company or your department or your team are actually going? What's the vision for the future?
+	- Communicating this vision
+		- Do your team know where we're going? What's the direction, what's the vision?
+	- Efficiency of systems
+		- How efficient are the systems at the moment in your area? And I don't necessarily mean computers. I mean just in terms of how it all fits together. Do things fall between the gaps? Are there overlaps? 
+	- Your level of focus on systems
+		- How good are you at standing back and thinking about the systems day-to-day, or do you just get drawn into all the action and the stuff that goes on?
+	- People
+		- I've kept them till last 'cause in a way, I think they're the most important. So how good are your people in terms of both the quality of the people, and also are they happy?  
 # 02.05.2023 Leadership_for_Non_Mangers: lesson_5: Specific Characteristic of Leaders
 - Leading by Design
 	- **Lead by example**
