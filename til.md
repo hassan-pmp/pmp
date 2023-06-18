@@ -2,7 +2,15 @@
 ---
 # 07.06.2023 Leadership_Masterclass: Leadership self-audit: Lesson_10
 # 07.06.2023 Leadership_Masterclass: Leadership self-audit: Lesson_9
-# 07.06.2023 Leadership_Masterclass: Leadership self-audit: Lesson_8
+# 07.06.2023 Leadership_Masterclass: Your boss's management style: Lesson_8
+-  What I want to suggest to you is that you ask your boss to be a better boss.
+	- Weekly meeting for --> We're asking them for concrete, easy things that they could do.
+	- To involve you more in their decisions, particularly if you can give them a real example of something that they recently did and they didn't involve you.
+	- Another thing you could ask them for is to allow you to do something or other without having to check first.
+ 	- Another thing you could ask for is for them to allow you to do things without having to report afterwards.
+  	- You could ask them to thank you more.
+   	- Another thing you could ask your boss for is to delegate something to you.
+   	- Another idea is that you might ask your boss to not sit on stuff and then suddenly give it to you once it's become urgent. 
 # 18.06.2023 Leadership_Masterclass: Personality types: Lesson_7
 -  Four types of people:
 	- Analytical: Top left, you've got the quiet, logical person. That's the analytical kind of engineers and accountants are quite often in that box, although not always. **You'd want to calmly go through all the details and facts with them, spreadsheets, that sort of thing.**
