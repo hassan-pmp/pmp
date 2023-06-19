@@ -1,7 +1,7 @@
 # Topics for Learning
 ---
-# 07.06.2023 Leadership_Masterclass: Leadership self-audit: Lesson_10
-# 07.06.2023 Leadership_Masterclass: Leadership self-audit: Lesson_9
+# 19.06.2023 Leadership_Masterclass: Leadership self-audit: Lesson_10
+# 19.06.2023 Leadership_Masterclass: Leadership self-audit: Lesson_9
 # 18.06.2023 Leadership_Masterclass: Your boss's management style: Lesson_8
 -  What I want to suggest to you is that you ask your boss to be a better boss.
 	- Weekly meeting for --> We're asking them for concrete, easy things that they could do.
