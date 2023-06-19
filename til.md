@@ -2,7 +2,7 @@
 ---
 # 07.06.2023 Leadership_Masterclass: Leadership self-audit: Lesson_10
 # 07.06.2023 Leadership_Masterclass: Leadership self-audit: Lesson_9
-# 07.06.2023 Leadership_Masterclass: Your boss's management style: Lesson_8
+# 18.06.2023 Leadership_Masterclass: Your boss's management style: Lesson_8
 -  What I want to suggest to you is that you ask your boss to be a better boss.
 	- Weekly meeting for --> We're asking them for concrete, easy things that they could do.
 	- To involve you more in their decisions, particularly if you can give them a real example of something that they recently did and they didn't involve you.
