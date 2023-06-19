@@ -1,7 +1,41 @@
 # Topics for Learning
 ---
-# 19.06.2023 Leadership_Masterclass: Leadership self-audit: Lesson_10
-# 19.06.2023 Leadership_Masterclass: Leadership self-audit: Lesson_9
+# 19.06.2023 Leadership_Masterclass: Styles for your boss: Lesson_10
+- **Motivated, Not Competent**:  There'll be some things that you are motivated to do, but you're just not very competent. What is it that you are interested in but you're not very good at?
+- **Motivated & Competent**: This is stuff that you are really good at, and you're also motivated to do.
+- **Competent but not motivated**:  So this is the stuff where you're competent, but you're just not very motivated. So, what are the things that you are good at doing, but you're just a bit bored by?
+- **Not Motivated, Not Competent**: where you're not competent and you're also not motivated. 
+# 19.06.2023 Leadership_Masterclass: Situational Leadership Theory: Lesson_10
+- Situational Leadership Theory, developed by Paul Hersey and Kenneth Blanchard in the late 1960s, is a widely recognized leadership model that focuses on the relationship between leadership style and the maturity or readiness level of followers. The theory proposes that effective leaders should adapt their leadership style based on the specific situation and the needs of their followers. According to Situational Leadership Theory, there are four primary leadership styles:
+	- Directing (S1): In this style, the leader provides specific instructions and closely supervises the followers. The leader makes the decisions and tells the followers what to do.
+	- Coaching (S2): In this style, the leader continues to provide guidance and direction but also seeks input from the followers. The leader explains decisions and encourages two-way communication.
+	- Supporting (S3): In this style, the leader offers less guidance and allows followers to take more responsibility. The leader provides support and facilitates the development of followers' skills and confidence.
+	- Delegating (S4): In this style, the leader provides minimal supervision, allowing followers to make their own decisions and take ownership of their work. The leader provides only necessary support and resources.
+- The key idea behind Situational Leadership Theory is that the most effective leadership style depends on the readiness level of the followers, which is determined by their competence and commitment to perform a specific task or goal. The theory identifies four levels of follower readiness:
+	- R1 - Low readiness: Followers are unable and unwilling or insecure about performing a task.
+	- R2 - Moderate readiness: Followers are unable but willing or confident about performing a task.
+	- R3 - Moderate to high readiness: Followers are able but unwilling or insecure about performing a task.
+	- R4 - High readiness: Followers are both able and willing or confident about performing a task.
+- Based on the followers' readiness level, the leader should adapt their leadership style accordingly. The leader's role is to assess the readiness of their followers and apply the appropriate leadership style to support their development and achieve the desired outcomes. Situational Leadership Theory provides a practical framework for leaders to adjust their behaviors and styles based on the needs of their followers, promoting flexibility and effective leadership in various situations.
+# 19.06.2023 Leadership_Masterclass: Tannenbaum & Schmidt's Management Continuum Theory: Lesson_9
+- According to Tannenbaum and Schmidt, leadership behavior can be placed on a continuum ranging from autocratic (manager-centered) to democratic (employee-centered) styles. They identified seven different leadership behaviors that lie along this continuum:
+	- Manager makes the decision and announces it.
+	- Manager makes the decision and then sells it to subordinates.
+	- Manager presents the decision and invites questions or suggestions.
+	- Manager presents a tentative decision, subject to change based on input.
+	- Manager presents the problem, gets suggestions, and then makes the decision.
+	- Manager allows the subordinates to make the decision, with the manager participating as a group member.
+	- Manager delegates the decision-making authority to subordinates.
+- The theory emphasizes that the appropriate leadership style depends on several factors, including the manager's personal leadership style, the competence and maturity of subordinates, and the situational context. As subordinates become more capable and experienced, the level of subordinate freedom and participation in decision-making can be increased.
+Tannenbaum and Schmidt's theory suggests that leadership is not fixed but can be adapted and adjusted based on the circumstances and the development level of subordinates. It provides a framework for leaders to determine the appropriate level of involvement and decision-making authority to effectively lead their teams.
+- Are things at the right level? Could they be pushed down a level? And also can you affect where your boss has put things? Can you encourage your boss to have things at the right level?
+- How much to just do yourself when you're planning something or solving a problem?
+- How much do you do yourself, and how much you involve your team?" So there are five levels really.
+	- There's **Tell** where you just decide, and you just tell people.
+ 	- There's **sell** where you decide, and then you kind of convince them.
+  	- There's **consulting** where you say, "I've got this plan. What do you think?" And you're actually prepared to change your plan a bit.
+  	- Then there's **sharing** where you say, "I've got this problem.
+  	- And then there's **delegating** where you say, "I've got this problem and I want you to do it.
 # 18.06.2023 Leadership_Masterclass: Your boss's management style: Lesson_8
 -  What I want to suggest to you is that you ask your boss to be a better boss.
 	- Weekly meeting for --> We're asking them for concrete, easy things that they could do.
