@@ -1,5 +1,30 @@
 # Topics for Learning
 ---
+# 17.07.2023 Fail Better: Closed loop systems: Lesson_2
+- The key is to think about whether you're working in a closed loop system.
+- A closed loop is when you're working in an environment that's rigid and unable to change. These systems usually have fixed inflexible processes. They don't change when you learn something new. These systems are not responsive and they don't create any feedback.
+- E.X: The health care system in the United States, The system relies on fixed processes. There aren't a lot of practices in place to see if these processes still make sense.
+- On the other hand, air travel in the United States is a good example of an **open loop system**. There are robust processes in place to make sure that any error is recorded. Each pilot benefits from other pilots' hard-learned lessons.
+- That's why closed loop systems are much more dangerous than open loop systems. If the people within the system don't get good feedback, then they never make any progress.
+- 
+So if you're working in an organization, you have to create a mechanism for people to learn from their mistakes. You need to create an open loop system which learns from constant feedback. If you create a closed loop system, then your organization will be doomed to repeat the same mistakes. When making personal decisions, try to make sure that you understand when you've made a mistake, then use these smaller failures to learn from your mistakes. Try to get feedback from other people and apply any lessons that you've learned.
+# 17.07.2023 Fail Better: Non/Linear failure: Lesson_1
+-  **Linear failure** is when you make a mistake where you know the right answer. These are usually much easier to fix.
+-  **Everything we know in aviation was because someone somewhere died. We have purchased these lessons at great cost**.
+-  linear failure has a clear cause and you can improve your outcomes by getting feedback and learning from mistakes. That means that when you're working for an organization, you need to capture your failures. The more mistakes you make, the tougher it'll be to fail the same way.
+-  Also, it means that at a personal level, you want to understand why you made mistakes. You must accept your mistakes and use them as opportunities to improve. If you don't acknowledge mistakes, then you're just in danger of repeating them.
+-  With linear failure, the more mistakes you make, the more you can improve your outcomes. This is a huge advantage. It's not something you'll necessarily be able to do with nonlinear failures. These types of failures can have several causes. They're often difficult to predict or even recognize.
+-  Most people think that failure is the opposite of success, but that's not usually the case.
+-  Organizations that drive to make things faster and cheaper can sow the seeds for **nonlinear failure**.
+-  One of the ways that you can avoid drifting into failure is to reconsider what it means to optimize.
+-  Many organizations drift into failure by trying to make their processes more efficient. They streamline their organization. They want to know the exact expense to deliver their products. But maybe a better way to think about optimization is to think about the way your organization handles uncertainty. Instead of trying to perfect your process, you can build up extra resilience for employees to handle changes.
+-  In fact, most personal failures come from a combination of several related events. So you might simultaneously lose your job and have a family member who needs care. So it wasn't linear, but instead a relationship between different events. So when you think about failure, you shouldn't imagine it as a different path from success. Instead, you should think of it as currents that drift towards failure.
+-  You can drift into failure without really knowing that you're off course. One of the ways that you can avoid drifting into failure is to reconsider what it means to optimize.
+-  Many organizations drift into failure by trying to make their processes more efficient. They streamline their organization. They want to know the exact expense to deliver their products. But maybe a better way to think about optimization is to think about the way your organization handles uncertainty. Instead of trying to perfect your process, you can build up extra resilience for employees to handle changes.
+-  Linear failure can be traced back to one event. It could be a broken part or someone who made a crucial mistake.
+-  Nonlinear failure is often a combination of several related events. Most of the time these are events that are difficult to predict. Most people approach nonlinear failure the same way as linear failure. They break the failure down into a series of steps and try to figure out the cause.
+- So the best way to understand failure is to try and eliminate these traditional notions of figuring out what happened. Don't think of it in terms of blame or cause. Instead, think of failure as an opportunity to understand and improve. 
+
 # 19.06.2023 Leadership_Masterclass: Styles for your boss: Lesson_10
 - **Motivated, Not Competent**:  There'll be some things that you are motivated to do, but you're just not very competent. What is it that you are interested in but you're not very good at?
 - **Motivated & Competent**: This is stuff that you are really good at, and you're also motivated to do.
