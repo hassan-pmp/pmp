@@ -1,5 +1,24 @@
 # Topics for Learning
 ---
+# 22.08.2023 PMP Interview: How to Approach: Lesson_1
+- **Tell me about Time when your team had a challanging deadline to meet**.
+	- With this one, an interviewer is really trying to understand how you've acted in the past. They want to hear a story, but they're really trying **to understand your thought process**.
+ 	- The best way to answer this question is to use the **STAR-L approach**.
+  	- Situation: Give important and relevant details about the circumstances.
+  	- Task: describe the main duties that you needed to complete.
+  	- Action: outline the steps that you took to meet your goals.
+  	- Result: share the results of your efforts.
+  	- Learning: explain what you'd do differently or what you'd repeat.
+ -  Every project team needs professionals just like you who can help them meet their deadline successfully.
+ -  **Tell me about a time when things didn’t go as you had planned**.
+ -  **Imagine that I am a senior executive who is sponsoring your project, and you are the project manager. I have just told you that the company is cutting budgets, and we need to trim 10% from the cost of your project. What should you do next?**
+ 	- The first step is to focus on flexibility and leadership.
+  		- There are generally three ways to reduce the cost for a project.
+    		- First, you may be able to get rid of unnecessary tasks and reduce your planned expenses. In other words, you can eliminate the waste.
+      		- Next, you can reduce the scope for the project.
+        	- And third, you can stretch out the timeline.
+         - Align your actions with their needs.
+- **Tell me about a time you manaed a project **     
 # 17.07.2023 Fail Better: Closed loop systems: Lesson_2
 - The key is to think about whether you're working in a closed loop system.
 - A closed loop is when you're working in an environment that's rigid and unable to change. These systems usually have fixed inflexible processes. They don't change when you learn something new. These systems are not responsive and they don't create any feedback.
