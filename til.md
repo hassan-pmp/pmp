@@ -1,5 +1,32 @@
 # Topics for Learning
 ---
+# 23.08.2023 How to Lunch a Career in Project Management: Hard skills : Lesson_3
+- You should be familiar with at least some of the popular project management methodologies like Waterfall, Agile, and Iterative.
+- Project management software: Microsoft Project Tools, Primavera, Jira, monday.com
+- Project Planning: Planning means figuring out how you're going to get the project done whether you plan everything upfront in traditional PM or plan as you go in an Agile approach.
+# 23.08.2023 How to Lunch a Career in Project Management: Soft skills : Lesson_2
+- Leadership
+- Delegation
+- Meetings
+- Time Management
+- Being Organized
+- Problem Solving
+- Negotiation: Negotiating and focusing on win-win outcomes is a crucial skill and one that, by the way, can help in all aspects of your life.
+-  Strategic View
+# 23.08.2023 How to Lunch a Career in Project Management: Quality: Lesson_1
+- Personality
+	- To be a natural organizer.
+ 	- To have an eye for detail.
+  	- To be part optimist and part pessimist.
+- Shock: Mismatch between expectation and reality.
+- Denial: Holding onto old job behavior.
+- Incompetence: Feeling of powerlessness.
+- Acceptance: Letting go of past comforts.
+- Testing: New behaviors and approaches.
+- Learning: Rapid moral increase.
+- Conscious Competence: Aware of using “New”.
+- Integration: New behaviors and attitudes are internalized.
+- Your job in the project is to bring the team together and encourage them to list the tasks, get them to estimate the times and the costs, and ask them to work out the running order and get 'em to think about how we can reduce the risks, get them to report on progress and to adjust the plan to get around any problems that have come up.
 # 22.08.2023 PMP Interview: How to Approach: Lesson_1
 - **Tell me about Time when your team had a challanging deadline to meet**.
 	- With this one, an interviewer is really trying to understand how you've acted in the past. They want to hear a story, but they're really trying **to understand your thought process**.
