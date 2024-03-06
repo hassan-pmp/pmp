@@ -1,5 +1,16 @@
 # Topics for Learning
 ---
+# 06.03.2023 Introduction to Generative AI: Generative Applications : Lesson_4
+
+# 06.03.2023 Introduction to Generative AI: Gen AI Models Types : Lesson_3
+
+# 06.03.2023 Introduction to Generative AI: How Gen AI Works : Lesson_2
+
+# 06.03.2023 Introduction to Generative AI: Define Gen AI : Lesson_1
+- Gen AI has become a buzzword but what is it? It is a type of AI technology that can produce various types of content- including text, imagery, audio and synthetic data.
+- Two very common questions asked are:
+	- What is AI? AI is a discipline, like how physics is a discipline of science. AI is a branch of computer Science that deals with the creation of intelligent agents, and are systems that can reason, learn and act autonomously. Essentially, AI has to do with the theory and methods to build machines that think and act like humans. 
+ 	- What is the difference between AI and ML?  
 # 23.08.2023 How to Lunch a Career in Project Management: Hard skills : Lesson_3
 - You should be familiar with at least some of the popular project management methodologies like Waterfall, Agile, and Iterative.
 - Project management software: Microsoft Project Tools, Primavera, Jira, monday.com
