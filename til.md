@@ -1,7 +1,7 @@
 # Topics for Learning
 ---
 # 11.03.2024 Project Management: Framework : Lesson_1
-- Uncertainty is hogher than Operation.
+- Uncertainty is higher than Operation.
 - Operation
 	- Ongoing
 	- Repetitave
