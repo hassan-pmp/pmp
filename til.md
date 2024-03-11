@@ -1,12 +1,59 @@
 # Topics for Learning
 ---
-# 06.03.2023 Introduction to Generative AI: Generative Applications : Lesson_4
+# 11.03.2024 Project Management: Framework : Lesson_1
+- Uncertainty is hogher than Operation.
+- Operation
+	- Ongoing
+	- Repetitave
+	- Functional Manager
+	- Projects Outputs
+- **Project**: A **temporary endeavor** undertaken to create a **unique product**, **service**, or **result**. The temporary nature of projects indicates a beginning and an end to the project work or a phase of the project work. Projects can stand alone or be part of a program or portfolio. **Projects drive change**, **Projects enable business value creation**, **Project Initiation Context**.
+	- A **Product** that can be either a component of another item
+ 	- A **Service** or capability (Business Function that support production)
+  	- An **Improvement** in existing product or services line (Six Sigma)
+  	- A **Result** as an outcome or document.
+- **Why is the project defined?**
+	- Meet Regulartory, Legal, or Social Requirments.
+ 	- Satisfy Stakeholder Requests or Needs.
+  	- Implement or Change Business or Technological Strategies.
+  	- Create, Improve, or Fix Product, Processes, or Services.
+- **Projects & Strategic Planning**
+	- As a result of Market Demand ---> EV
+ 	- As a result of strategic opportunity/buniness need --> Training Center
+  	- As a result of Social need ---> Eliminate famine and hunger in the world, Access to safe drinking water
+  	- As a result of Legal requirments ---> Recycle
+  	- As a result of Technologies advan ---> High Tech companies, iPhone 15
+  	- As a result of Customer request ---> New feature, ...
+  	- As a result of Environemntal consideration ---> Enviroenmental Friendly
+- **Diliverable**:
+	-   Any unique and verified product, **result**, or capability to perform a service that is required to be produced to complete a **Process**, **phase**, or **project**.
+-   **Product**:
+ 	- An Artifact that is produced, is quantifiable, and can be either an End item in itself or a component item. Additional words for products are material and goods.
+- **Program**: **Related projects**, subsidiary programs, and program activities that are managed in a coordinated manner to obtain benefits not available from managing them individually.
+- **Portfolio**: Projects, programs, subsidiary portfolios, and operations managed as a group to achieve strategic objectives.
+- Portfollio management is defined as the centralized management of one or more portfolios to achieve strategic objectives. The programs or projects of the portfolio may not necessary be interdependent or directly related.
+- Purpose of Portfolio are "**Maximum Investment**", and "**Mitigate Risks**".
+- Predictive (Plan-Driven)
+	- Scope defined in detail early in the project Detailed plan are created. Waterfall - Classic
+- Agile (Change-Driven)
+	- Scope cannot be defined up front Smaller increments. 
+- Hybird
+	- Uses aspects of both predictive and agile 
+- **Outcome**: An end result or consequence of a process or project. Outcomes can include outputs and artifacts, but have a broader intent by focusing on the benefits and value that the project was undertaken to deliver.
+- **Product**: An artifact that is produced, is quantifiable, and can be either an end item in itself or a component item.
+- **Project management**: The application of knowledge, skills, tools, and techniques to project activities to meet project requirements. Project management refers to guiding the project work to deliver the intended outcomes. Project teams can achieve the outcomes using a broad range of approaches (e.g., predictive, hybrid, and adaptive).
+- **Project manager**: The person assigned by the performing organization to lead the project team that is responsible for achieving the project objectives. Project managers perform a variety of functions, such as facilitating the project team work to achieve the outcomes and managing the processes to deliver intended outcomes.
+- **Project team** : A set of individuals performing the work of the project to achieve its objectives.
+- **System for value delivery**: A collection of strategic business activities aimed at building, sustaining, and/or advancing an organization. Portfolios, programs, projects, products, and operations can all be part of an organization’s system for value delivery.
+- **Value**: The worth, importance, or usefulness of something. Different stakeholders perceive value in different ways. Customers can define value as the ability to use specific features or functions of a product. Organizations can focus on business value as determined with financial metrics, such as the benefits less the cost of achieving those benefits. Societal value can include the contribution to groups of people, communities, or the environment.
 
-# 06.03.2023 Introduction to Generative AI: Gen AI Models Types : Lesson_3
+# 06.03.2024 Introduction to Generative AI: Generative Applications : Lesson_4
 
-# 06.03.2023 Introduction to Generative AI: How Gen AI Works : Lesson_2
+# 06.03.2024 Introduction to Generative AI: Gen AI Models Types : Lesson_3
 
-# 06.03.2023 Introduction to Generative AI: Define Gen AI : Lesson_1
+# 06.03.2024 Introduction to Generative AI: How Gen AI Works : Lesson_2
+
+# 06.03.2024 Introduction to Generative AI: Define Gen AI : Lesson_1
 - Gen AI has become a buzzword but what is it? It is a type of AI technology that can produce various types of content- including text, imagery, audio and synthetic data.
 - Two very common questions asked are:
 	- What is AI? AI is a discipline, like how physics is a discipline of science. AI is a branch of computer Science that deals with the creation of intelligent agents, and are systems that can reason, learn and act autonomously. Essentially, AI has to do with the theory and methods to build machines that think and act like humans. 
