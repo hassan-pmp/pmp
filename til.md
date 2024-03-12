@@ -1,5 +1,63 @@
 # Topics for Learning
 ---
+# 12.03.2024 Project Management: Framework : Lesson_2
+- **Strategy**: The overreaching that guide the direction of the organization.
+- **Objectivea**: The process of decomposing strategic goals into strategic initiatives.
+- **Initiatives**: The portfilios, programs, and projects, created to deliver a strategic goal.
+- **Outputs**: The expected deliverable of a portfilio, program, or project.
+- **Outcomes**: An end result or consequence of a process or project. Outcomes can include outputs and artifacts, but have a broader intent by focusing on the benefits and value that the project was undertaken to deliver.
+- **Benefits**: A gain realized by the organization and beneficiaries through portfolio, program, or project outputs and resulting outcomes.
+	- **Intangible Benefits**: A benefit that can not be directly measured objectively and instead relies on a proxy or representative, measure, or evaluation.
+ 	- **Tangible Benefits**: A benefit that can be measured objectively based upon evidence.
+  	- **Benefit Owner**: the indivisual or group accountable for direction, related decisions, realization, and sustainment of benefits throughout the organization's benefits realization management life cycle.
+  	- **Benefit Realization**: the intended beneficiarie's integration of gains resulting from the use of outputs of portfolios programs and projects.
+  	- **Benefit Realization Management (BRM)**: The day-to-day organization and management of the effort to achieve and sustain potential benefits arising from the investment in portfolios, programs and projects
+- **Value**:  The net result of realized benefits less the cost of achieving the benefits. The **value** may be tangible or intangible.
+  	- **Customers** can define value as the **Ability to use** specefic **features** or functions of a product.
+  	- **Organizations** can focus on **business value** as determined with **financial metrics** such as the benefits less the cost of achieving those benefits.
+  	- **Societal value** can include the **contribution** to groups of **people**, **communities** or the **environment**. 
+- **System for Value Delivery**: A collection of Strategic business activities aimed at building, sustaining, and/or advancing an organization.
+	- Portfolios, programs, projects and operatiuons can all be part of an organization's system for value delivery.
+- **Business Case**: is a document that including some item such as "Why we want do this Project?" . In other words, "it is result of feasibility study". 
+	- Business Needs,
+	- Analysis of the situation,
+	- Recommendation,
+	- Evaluation
+ - **Project Benefits Management Plan**: How do you want to benefit from its benefits? In other words, the way to achieve this profit is mentioned in the Project benefit Management Plan. 
+ 	- Target benefits
+	- Strategic alignment
+	- Timeframe for realizing benefits
+	- Benefits Owner
+	- Metrics
+	- Assumptions
+	- Risks
+ - Project Charter: it documents the high-level infomation on the project and on the product, service or result the project is intended to satisfy such as:
+	 - Project Purpose
+	 - Measurable project objectives abd related success criteria
+	 - High-level requirments
+	 - High-Level project description, boundries, and key deliverable
+	 - Overal project risk,
+	 - Summary milestone schedule,
+	 - Preapproved financial resources
+	 - Key stakeholders list
+	 - project approval requirments
+	 - project exit criteria
+	 - assigned project manager. responsibility, and authority level, and
+	 - Name and authority of the sponsor or other person(s) authorizing the project charter.
+-  **Creating value**: Various components such as **portfolios**, **programs**, **projects**, **products**, and **operations** can create value.
+-  **Organizational Governance Systems**:
+	-  Works alongside the value delivery system to enable smooth workflows, manage issues, and support decision making.
+	-  A governance framework can include elements of oversight, control, value assessment, integration among components, and decision making capabilities.
+-  **Influences**
+	- Enterprise Environmental Factors (EEFs)
+		- External
+		- Internal
+ 	- Internal Organizational Process Assets (OPAs)
+		  - Processes, Policies, and Procedures
+		  - Corporate Knowledge Base
+- **Tailoring**
+	- This guide and The Standard for Project Management are recommended references for tailoring because these standard documents identify the subset of the project management body of knowledge that is generally recognized as good practice.
+ - 
 # 11.03.2024 Project Management: Framework : Lesson_1
 - Uncertainty is higher than Operation.
 - Operation
@@ -38,8 +96,7 @@
 - Agile (Change-Driven)
 	- Scope cannot be defined up front Smaller increments. 
 - Hybird
-	- Uses aspects of both predictive and agile 
-- **Outcome**: An end result or consequence of a process or project. Outcomes can include outputs and artifacts, but have a broader intent by focusing on the benefits and value that the project was undertaken to deliver.
+	- Uses aspects of both predictive and agile
 - **Product**: An artifact that is produced, is quantifiable, and can be either an end item in itself or a component item.
 - **Project management**: The application of knowledge, skills, tools, and techniques to project activities to meet project requirements. Project management refers to guiding the project work to deliver the intended outcomes. Project teams can achieve the outcomes using a broad range of approaches (e.g., predictive, hybrid, and adaptive).
 - **Project manager**: The person assigned by the performing organization to lead the project team that is responsible for achieving the project objectives. Project managers perform a variety of functions, such as facilitating the project team work to achieve the outcomes and managing the processes to deliver intended outcomes.
