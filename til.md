@@ -1,7 +1,52 @@
 # Topics for Learning
 ---
 # 13.03.2024 Project Management: Framework : Lesson_3
-- 
+- **Project management**: The application of **knowledge**, **skills**, **tools and techniques** to project activities to meet project **requirements**. Project management refers to guiding the project work to deliver the intended outcomes. Project teams can achieve the outcomes using a broad range of approaches (e.g., predictive, hybrid, and adaptive).
+- Project management is a combination of art and science.
+- **Project manager**: The person assigned by the performing organization to lead the project team that is responsible for achieving the project objectives. Project managers perform a variety of functions, such as facilitating the project team work to achieve the outcomes and managing the processes to deliver intended outcomes.
+- Interpersonal (Soft) Skills
+	- Leadership
+ 	- Team Building
+  	- Motivation
+  	- Networking
+  	- Communication
+  	- Influencing
+  	- Decision Making
+  	- Political and Cultural awareness
+  	- Negotioan
+  	- Trust Building
+  	- Conflict Management
+  	- Coaching
+  	- Teamwork
+  	- Sociable and great team players
+  	- Multitask
+  	- Curiosity
+  	- Empathy
+  	- Analysis skill
+  	- Foresight skill
+  	- Problem solver skill
+  	- Being flexible,
+  	- Adapt to different people, cultures, environments, and situations
+  	- Team leader, co-worker, and supervisor at the same time
+- **Competence Triangle**: Ways of Working, Power Skills, Business Acumen.
+- **Project Sponsor**: A sponsor is the person or group who provides resources and support for the project and is accountable for enabling success.
+- Decision leadership that is outside of the authority
+- Links the project team with the strategy and big picture
+- Maintaining alignment with the organization s strategy
+- Facilitates engagement and decision making and ensures that the skills and resources needed are available
+- **Business partners**: Business partners are external organizations that have a special relationship
+- **Organizational groups**: Organizational groups are internal stakeholders who are affected by the activities of the project team
+- **Functional managers**: Functional managers are key individuals who play a management role within an administrative or functional area of the business
+- **Project Phase**: A project phase is a collection of logically related project activities that culminates in the completion of one or more deliverables.
+- **Milestone**. A significant point or event in a project, program, or portfolio.
+- **Milestone Schedule**. A type of schedule that presents milestones with planned dates.
+- PDCA Cycle (PlanDo Check Act) = Mr. Deming's cycle model = Kaizen Model = Continuous Improvement
+- laissez-faire leader Example: 
+	- Queen Victoria
+ 	- President Herbert Hoover (US)
+	- Steve Jobs (Apple CEO)
+	- Andrew Mellon (an American businessman- Father's Bank)
+	- Warren Buffet (Berkshire Hathaway CEO)
 # 12.03.2024 Project Management: Framework : Lesson_2
 - **Strategy**: The overreaching that guide the direction of the organization.
 - **Objectivea**: The process of decomposing strategic goals into strategic initiatives.
@@ -103,7 +148,7 @@
 	- Prioritizes projects  
 - **Diliverable**:
 	-   Any unique and verified product, **result**, or capability to perform a service that is required to be produced to complete a **Process**, **phase**, or **project**.
--   **Product**:
+- **Product**:
  	- An Artifact that is produced, is quantifiable, and can be either an End item in itself or a component item. Additional words for products are material and goods.
 - **Program**: **Related projects**, subsidiary programs, and program activities that are managed in a coordinated manner to obtain benefits not available from managing them individually.
 - **Portfolio**: Projects, programs, subsidiary portfolios, and operations managed as a group to achieve strategic objectives.
@@ -116,8 +161,6 @@
 - Hybird
 	- Uses aspects of both predictive and agile
 - **Product**: An artifact that is produced, is quantifiable, and can be either an end item in itself or a component item.
-- **Project management**: The application of knowledge, skills, tools, and techniques to project activities to meet project requirements. Project management refers to guiding the project work to deliver the intended outcomes. Project teams can achieve the outcomes using a broad range of approaches (e.g., predictive, hybrid, and adaptive).
-- **Project manager**: The person assigned by the performing organization to lead the project team that is responsible for achieving the project objectives. Project managers perform a variety of functions, such as facilitating the project team work to achieve the outcomes and managing the processes to deliver intended outcomes.
 - **Project team** : A set of individuals performing the work of the project to achieve its objectives.
 - **System for value delivery**: A collection of strategic business activities aimed at building, sustaining, and/or advancing an organization. Portfolios, programs, projects, products, and operations can all be part of an organization’s system for value delivery.
 - **Value**: The worth, importance, or usefulness of something. Different stakeholders perceive value in different ways. Customers can define value as the ability to use specific features or functions of a product. Organizations can focus on business value as determined with financial metrics, such as the benefits less the cost of achieving those benefits. Societal value can include the contribution to groups of people, communities, or the environment.
