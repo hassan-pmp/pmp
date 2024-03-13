@@ -1,5 +1,7 @@
 # Topics for Learning
 ---
+# 13.03.2024 Project Management: Framework : Lesson_3
+- 
 # 12.03.2024 Project Management: Framework : Lesson_2
 - **Strategy**: The overreaching that guide the direction of the organization.
 - **Objectivea**: The process of decomposing strategic goals into strategic initiatives.
@@ -83,6 +85,22 @@
   	- As a result of Technologies advan ---> High Tech companies, iPhone 15
   	- As a result of Customer request ---> New feature, ...
   	- As a result of Environemntal consideration ---> Enviroenmental Friendly
+- **Product**: is an Artifact that is produced, is quantifiable, and can be either an end item in itself or components.
+- **Product Management**: is the integration of people, data, processes, and business system to create, maintain, and evolve a product or service through its life cycle. 
+- **Product life cycle phases** is a series of phases that represents the Evaluation of a product, from concept through delivery, grwoth, maturity and to retirement. In other words, it is consist of **Introduction**, **Growth**, **Maturity**, **Decline/Retirement**.
+- **Impact on project delivery practices**: 
+	- Markets shift from a single project delivery model to an ongoing delivery model
+	- It led to an increase interest in product management life cycles for value delivery
+- A Project Management Office (PMO) is an organizational structure that standardizes the project related governance processes and facilitates the sharing of resources methodologies, tools, and techniques
+-  PMO has 3 types: **Supporting**, **Controlling**, **Directive**.
+-  **Directive**
+	-  Manages all Projects throughout organization
+	-  Has the highest level of control over the projects
+- **Supporting**
+	- Recommends common terminology, templates and reporting and other procedures to be used on projects throughout the organization to promote consistency and streamline effort
+- **Controlling**
+	- Coordinates all projects within the organization
+	- Prioritizes projects  
 - **Diliverable**:
 	-   Any unique and verified product, **result**, or capability to perform a service that is required to be produced to complete a **Process**, **phase**, or **project**.
 -   **Product**:
