@@ -1,5 +1,24 @@
 # Topics for Learning
 ---
+# 19.03.2024 Project Management: Agile : Lesson_3
+- **Complexity**:
+	- Complexity refers to the state of being intricate, diverse, and composed of many interconnected elements or parts.
+	- In complex systems, there are often numerous interactions and interdependencies among the components, which can lead to emergent behaviors that are not easily predictable from the individual parts.
+	- Complexity is often associated with dynamic systems, such as ecosystems, economies, or social networks, where changes in one part can have ripple effects throughout the system.
+- **Complication**:
+	- Complication, on the other hand, generally refers to the state of being difficult to understand or deal with due to being overly involved, convoluted, or having unnecessary intricacies.
+	- While complexity can arise naturally from the interactions within a system, complication often arises from artificial or unnecessary additions, redundancies, or inefficiencies.
+	- Complication can be seen as a form of complexity, but it typically implies a negative connotation, suggesting that the added intricacies make the system more difficult to manage, understand, or navigate.
+- In summary, complexity refers to the inherent intricacy and interconnectedness of a system, while complication refers to additional difficulties or intricacies that have been introduced, often unnecessarily, making the system more convoluted or challenging to deal with.
+- **The Agile Manifesto consists of four key values**
+	- Individuals and interactions over processes and tools.
+	- Working software over comprehensive documentation.
+	- Customer collaboration over contract negotiation.
+	- Responding to change over following a plan.
+ - **Scrum Pillars**
+	 - Transparancy
+	 - Inspection
+	 - Adaption 
 # 13.03.2024 Project Management: Framework : Lesson_3
 - **Project management**: The application of **knowledge**, **skills**, **tools and techniques** to project activities to meet project **requirements**. Project management refers to guiding the project work to deliver the intended outcomes. Project teams can achieve the outcomes using a broad range of approaches (e.g., predictive, hybrid, and adaptive).
 - Project management is a combination of art and science.
