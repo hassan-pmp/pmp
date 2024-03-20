@@ -141,7 +141,7 @@
 	- Inspect how the last Sprint went in regard to people, relationships, collaboration, processes, and tools.
 	- Create an ordered list of major items that went well and those that could be improved.
 	- Create a plan for implementing selected improvements to how the team works.
-The Scrum Master ensures the event takes place and is well-facilitated. Scrum Master also ensures the timebox is adhered to. As the process owner, the Scrum Master is an active participant in the event.
+- The Scrum Master ensures the event takes place and is well-facilitated. Scrum Master also ensures the timebox is adhered to. As the process owner, the Scrum Master is an active participant in the event.
 
 # 19.03.2024 Project Management: Agile : Lesson_1
 - **Complexity**:
