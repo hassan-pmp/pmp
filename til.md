@@ -19,8 +19,129 @@
  	- **Technical Improvement**: 
   	- **Knowledge acquisition work**:
   	- **Other work the PO deems valuable**
+- **User Stories Attribute** ---> INVEST
+	- Independent
+	- Negotiable
+	- Valuable
+	- Estimable
+	- Small
+	- Testablt
+- Team Agreements - **Definition of Done**
 
+- **DO**
+	- Take it in
+- **DEVELOPMENT**
+	- When I stop working on it I put it on READY (back to DO).
+	- Initial tests are done internally by the developer before assigning to the clients.
+	- Ask in the Daily who wants to test the User Story/assign already who is working on it & who is testing it - decide in the planning
+- **TESTING**
+	- The work has passed the testing criteria
+- **Who is the Tester**:
+	- Any of team member will be the tester and s/he should prepare a Test Scenario and test it and share the results with the team.
+- **IN PROGRESS**: Developer is working on the ticket(s) and share progress in daily meeting.
+- **ON HOLD**: Team needs clarification/response from other team(s)/Client(s)/3rd parties. There are Two options in ON HOLD status: 
+	- On HOLD: Pending inside the team 
+	- External Implementation : Pending for 3th party's response/feedback
+- **RESOLVED**: Ticket(s) move to the Resolve status if test passed successfully OR client(s) provide the green light.  
+- **CLOSED is DONE**
+- In the Review session, team will check the Resolved ticket and share a general info about the US and sub-tickets then move to the CLOSE or DONE status.
+	- All works specified in the Story has been done,
+	- Hit the Acceptance Criteria
+	- Have enough test coverage
+	- QA approved
+	- Acceptable in the target environment(s)
+	- Presented in Review session
 
+- Team Agreements - **Definition of Ready**
+- User Story - **Refinement meeting** (bi-weekly) - everything needs to be reviewed and we can develop if team agree on the US and tasks/tickets.  Tickets should have some characteristics such as:
+	- Clear Title,
+	- Good enough description(s)/details that the team has no more immediate questions
+	- Mention enough Test Scenario, if needed.
+	- Refine done and assigned Story Point,
+	- Work item MUST be estimated,
+	- Sub-task(s), if needed.
+	- Priority Set,
+	- Sprint (start in which Sprint),
+	- Work item MUST be small enough to be done in one iteration,
+	- Documentation/attachments - depending on the situation, tables.
+- **Maintenance Tasks: it is Ad-hoc task(s)**:
+	- Clear Title,
+	- Good enough description(s),
+	- Priority Set,
+	- Documentation/attachments - depending on the situation, tables.
+ - **Agile Manifesto**:
+- We are uncovering better ways of developing software by doing it and helping others do it.  Through this work we have come to value:
+- **Individuals and interactions** over processes and tools 
+- **Working software** over comprehensive documentation
+- **Customer collaboration** over contract negotiation **Responding to change** over following a plan
+- That is, while there is value in the items on the right, we value the items on the left more.
+
+- **Sprint Planning Guide**
+- **Attendees**: Scrum Team, including shared resources
+- **Duration**: 2–8 hours, based on the Sprint length Frequency: Once per Sprint; first day of the Sprint
+
+- **Inputs for Successful Planning**
+	- Ordered (Prioritized) Product Backlog
+	- What was completed in the last Sprint/Product Increment
+	- Past performance of the Development Team (Velocity)
+	- Development Team capacity for the Sprint Topics for Planning Discussion
+	- What will be done in this Sprint?
+- Product Backlog Items (PBIs) to select from the Product Backlog to create a Product Increment.This is solely the decision of the Development Team.
+- The selected PBIs influences the Scrum Team in defining the Sprint Goal.
+	- How to do the selected work to get it done?
+- Knowing the Goal, the Development Team decides how to build the functionality  into a “Done” Product Increment.
+- The Development Team defines the tasks it needs to complete the Product  Increment; tasks are decomposed into small pieces of a day or less.
+- **Outcomes of Successful Planning**
+	- Sprint Goal and what will be completed (PBIs)
+	- How the work will be done (Plan)
+	- Sprint Backlog
+- **Daily Scrum Guide**
+- **Attendees**: The Scrum Team, including shared resources and any interested parties: however, only Scrum Team members provide updates
+- **Duration**: 15 minutes
+- **Frequency**: Every day of the Sprint
+- **Objective**: Inspect and Adapt to further progress toward the Sprint Goal
+- **Structure**:
+- **Each Development Team member will answer each question every day**:
+	- What did I do yesterday to help meet the Sprint Goal?
+	- What will I do today to help meet the Sprint Goal?
+	- What impediments do I have that are blocking me (or the Development Team) from meeting the Sprint Goal?
+- After the time-boxed Scrum, Team members can continue detailed discussions to answer  questions, solve problems, refine the design, or adapt the remaining Sprint work. 
+- **Backlog Refinement Guide**
+- **Attendees**: The Scrum Team, including shared resources and Subject Matter Experts if needed
+- **Duration**: 1–4 hours, depending on the Sprint length
+- **Frequency**: Once per Sprint, usually after the midpoint of the Sprint
+- **Objective**: Inspect and Adapt the Product Backlog and PBIs to ensure targeted PBIs are ready for the next Sprint
+- **Topics covered**:
+	- PO presents the ordered backlog and identifies PBIs they’d like in the next Sprint
+	- Development Team asks questions and requests additional details if needed
+	- Any PBI that has enough information is sized by the Development Team in the session
+- **Output**:
+	- List of PBIs for clarification and the questions that need to be answered
+- The Scrum Master ensures the event takes place and is well-facilitated. Scrum Master also  ensures the timebox is adhered 
+- **Sprint Review Guide**
+- **Attendees**: The Scrum Team, including shared resources, and Stakeholders
+- **Duration**:  1–4 hours, depending on Sprint length
+- **Frequency**: Once per Sprint, usually on the last day of the Sprint; it’s the next-to-last event  in the Sprint
+- **Objective**: Collaboratively inspect the Product Increment and adapt the Product Backlog
+- **Structure**:
+- The Sprint Review is meant to be an informal collaboration on the current Product Increment and  to collectively update the Product Backlog with information from the Stakeholders that may influence  the Backlog contents.
+- **Topics covered**:
+	- PO provides an overview of the Sprint Goal and the PBIs that were selected.
+	- Development Team demonstrates the Product Increment and answers questions.
+	- PO shares the Product Backlog and the projection of completion based on current progress.
+	- PO facilitates open discussion with the Stakeholders, capturing feedback and outside information that may help the Scrum Team.
+	- PO adds appropriate feedback into the Backlog.
+- The Scrum Master ensures the event takes place and is well-facilitated. Scrum Master also  ensures the timebox is adhered to.
+- **Sprint Retrospective Guide**
+- **Attendees**: The Scrum Team, including shared resources if they’ve been working on the  Team in the Sprint
+- **Duration**: 1–3 hours, depending on Sprint length
+- **Frequency**: Once per Sprint, this is the last event in the Sprint
+- **Objective**: Inspect and Adapt the Team’s processes; select items for focused improvement
+- **Topics covered**:
+	- Inspect how the last Sprint went in regard to people, relationships, collaboration, processes, and tools.
+	- Create an ordered list of major items that went well and those that could be improved.
+	- Create a plan for implementing selected improvements to how the team works.
+The Scrum Master ensures the event takes place and is well-facilitated. Scrum Master also ensures the timebox is adhered to. As the process owner, the Scrum Master is an active participant in the event.
 
 # 19.03.2024 Project Management: Agile : Lesson_1
 - **Complexity**:
