@@ -1,6 +1,28 @@
 # Topics for Learning
 ---
-# 19.03.2024 Project Management: Agile : Lesson_3
+# 20.03.2024 Project Management: Agile : Lesson_2
+- Artifacts:
+	- Product Backlog
+ 	- Sprint Backlog
+  	- Increment
+  	- Product Vision Statement
+  	- Product Roadmap
+  	- Release Plan
+-  Product Vision Statement
+-  Product Roadmap
+-  Product Release Plan
+-  Iteration
+- Produck Backlog Items
+	- **Features**
+ 	- **Change to an existing feature**
+	- **Defects**
+ 	- **Technical Improvement**: 
+  	- **Knowledge acquisition work**:
+  	- **Other work the PO deems valuable**
+
+
+
+# 19.03.2024 Project Management: Agile : Lesson_1
 - **Complexity**:
 	- Complexity refers to the state of being intricate, diverse, and composed of many interconnected elements or parts.
 	- In complex systems, there are often numerous interactions and interdependencies among the components, which can lead to emergent behaviors that are not easily predictable from the individual parts.
