@@ -11,8 +11,8 @@
   	- **Scrum Team**: Consists of the product owner, Scrum master, and the development team.
   	- **Sprint**: A period of time in which the development team is expected to produce a potentially shippable product increment.
   	- **Transparency**: The idea that all aspects of a process must be visible to the people doing it.
-  	- **Velocity**: The past performance of the development team.
-- Story Mapping: that takes a user centric perspective for generating a set of user stories. The basic idea is to decompose high level user activity into a workflow that can be further decomposed into a set of detailed tasks.
+  	- **Velocity**: The past performance of the development team. In other words, it is a measure of how much a team can accomplish during an iteration.
+- Story Mapping: that takes a user centric perspective for generating a set of user stories. The basic idea is to decompose high level user activity into a workflow that can be further decomposed into a set of detailed tasks. It is computed as the sum of the story points (units of estimates) that a team can deliver in an iteration.
 - **Good Product Backlog Characteristics**: DEEP
 	- Detailed appropriately
  	- Emergent
@@ -28,8 +28,11 @@
 	- ? (Question Mark): Represents uncertainty or lack of information. When team members are unsure about the complexity of a task, they may use a question mark to indicate that they need more information or clarification before providing an estimate. This could be due to incomplete requirements, unclear objectives, or other factors that make it difficult to estimate accurately.
 	- Infinity (∞): Represents tasks that are considered too complex or impossible to estimate within the current understanding. Tasks with an infinite estimate typically involve significant unknowns, dependencies, or uncertainties that make it impossible to predict the effort required accurately. These tasks may need to be broken down further or addressed through research or exploration before they can be properly estimated.
 	- Pi (π): Some teams use "Pi" (3.14) to indicate that a task is relatively large or complex but not impossible to estimate. It falls between a finite value and infinity, suggesting that while the task is challenging, it can still be tackled with reasonable effort. It's essentially a placeholder for tasks that are larger or more complex than typical but not so extreme that they're considered infinite. 
+- **Burn Down Charts**:  A Burn Down Chart is a visual representation used in project management, particularly in Agile methodologies such as Scrum, to track the progress of work completed against the work planned for a specific period, typically a sprint or iteration. The chart displays the remaining effort (or work) over time, allowing teams to visualize whether they are on track to complete the work within the allocated time frame.
+- The Burn Down Chart typically consists of **two** axes:
+- **Time axis** (usually horizontal): This represents the duration of the project or sprint, divided into time increments (e.g., days, weeks).
+- **Work axis** (usually vertical): This represents the amount of work remaining to be completed, often measured in story points, tasks, or other relevant units of work.
 - 
-
 # 20.03.2024 Project Management: Agile : Lesson_2
 - Artifacts:
 	- Product Backlog
