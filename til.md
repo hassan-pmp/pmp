@@ -42,6 +42,10 @@
   	-  Underperformance
   	-  Universal frustration
   	-  Decreased customer satisfaction
+ - Agile and the Kanban Method are as subsets of lean This is because they are named instances of lean thinking that share lean concepts such as
+	- Focus on value,
+	- Small batch sizes,
+	- Elimination of waste
 - # 20.03.2024 Project Management: Agile : Lesson_2
 - Artifacts:
 	- Product Backlog
