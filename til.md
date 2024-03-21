@@ -12,7 +12,7 @@
   	- **Sprint**: A period of time in which the development team is expected to produce a potentially shippable product increment.
   	- **Transparency**: The idea that all aspects of a process must be visible to the people doing it.
   	- **Velocity**: The past performance of the development team. In other words, it is a measure of how much a team can accomplish during an iteration.
-- Story Mapping: that takes a user centric perspective for generating a set of user stories. The basic idea is to decompose high level user activity into a workflow that can be further decomposed into a set of detailed tasks. It is computed as the sum of the story points (units of estimates) that a team can deliver in an iteration.
+- **Story Mapping**: that takes a user centric perspective for generating a set of user stories. The basic idea is to decompose high level user activity into a workflow that can be further decomposed into a set of detailed tasks. It is computed as the sum of the story points (units of estimates) that a team can deliver in an iteration.
 - **Good Product Backlog Characteristics**: DEEP
 	- Detailed appropriately
  	- Emergent
