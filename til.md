@@ -1,5 +1,35 @@
 # Topics for Learning
 ---
+# 21.03.2024 Project Management: Agile : Lesson_3
+- Glossary
+	- **Adaption**: Changing practices to fix processes that are not helping the work advance toward a goal.
+ 	- **Agile**: A term used to represent all the lightweight frameworks that shared the goals listed in the Agile Manifesto.
+  	- **Inspection**: Close, continuous reviews of work being done to ensure that a project is moving toward the projected goal.
+  	- **Product Owner**: The sole accountable party for the product the development team is building.
+  	- **Scrum**:  A simple framework that is focused on doing just enough preparation in just enough time for development work to begin.
+  	- **Scrum Master**: An individual that manages the Scrum process.
+  	- **Scrum Team**: Consists of the product owner, Scrum master, and the development team.
+  	- **Sprint**: A period of time in which the development team is expected to produce a potentially shippable product increment.
+  	- **Transparency**: The idea that all aspects of a process must be visible to the people doing it.
+  	- **Velocity**: The past performance of the development team.
+- Story Mapping: that takes a user centric perspective for generating a set of user stories. The basic idea is to decompose high level user activity into a workflow that can be further decomposed into a set of detailed tasks.
+- **Good Product Backlog Characteristics**: DEEP
+	- Detailed appropriately
+ 	- Emergent
+  	- Estimated
+  	- Prioritized
+- **PBI Estiimation Units**:
+	- Ideal days
+	- Story Points   
+- **Relative Size Estimation**:
+- Absolut Vs Relative size estimation.
+- **0, ?, infinity and pi interpretation in Planning Poker **
+	- 0: Typically represents tasks that are considered effortless or trivial. Tasks that are straightforward and require minimal effort or complexity are assigned a value of 0. This indicates that the task is expected to be completed very quickly, often within the scope of a single iteration or sprint.
+	- ? (Question Mark): Represents uncertainty or lack of information. When team members are unsure about the complexity of a task, they may use a question mark to indicate that they need more information or clarification before providing an estimate. This could be due to incomplete requirements, unclear objectives, or other factors that make it difficult to estimate accurately.
+	- Infinity (∞): Represents tasks that are considered too complex or impossible to estimate within the current understanding. Tasks with an infinite estimate typically involve significant unknowns, dependencies, or uncertainties that make it impossible to predict the effort required accurately. These tasks may need to be broken down further or addressed through research or exploration before they can be properly estimated.
+	- Pi (π): Some teams use "Pi" (3.14) to indicate that a task is relatively large or complex but not impossible to estimate. It falls between a finite value and infinity, suggesting that while the task is challenging, it can still be tackled with reasonable effort. It's essentially a placeholder for tasks that are larger or more complex than typical but not so extreme that they're considered infinite. 
+- 
+
 # 20.03.2024 Project Management: Agile : Lesson_2
 - Artifacts:
 	- Product Backlog
@@ -27,7 +57,6 @@
 	- Small
 	- Testablt
 - Team Agreements - **Definition of Done**
-
 - **DO**
 	- Take it in
 - **DEVELOPMENT**
@@ -51,7 +80,6 @@
 	- QA approved
 	- Acceptable in the target environment(s)
 	- Presented in Review session
-
 - Team Agreements - **Definition of Ready**
 - User Story - **Refinement meeting** (bi-weekly) - everything needs to be reviewed and we can develop if team agree on the US and tasks/tickets.  Tickets should have some characteristics such as:
 	- Clear Title,
@@ -75,11 +103,9 @@
 - **Working software** over comprehensive documentation
 - **Customer collaboration** over contract negotiation **Responding to change** over following a plan
 - That is, while there is value in the items on the right, we value the items on the left more.
-
 - **Sprint Planning Guide**
 - **Attendees**: Scrum Team, including shared resources
 - **Duration**: 2–8 hours, based on the Sprint length Frequency: Once per Sprint; first day of the Sprint
-
 - **Inputs for Successful Planning**
 	- Ordered (Prioritized) Product Backlog
 	- What was completed in the last Sprint/Product Increment
@@ -112,9 +138,12 @@
 - **Frequency**: Once per Sprint, usually after the midpoint of the Sprint
 - **Objective**: Inspect and Adapt the Product Backlog and PBIs to ensure targeted PBIs are ready for the next Sprint
 - **Topics covered**:
-	- PO presents the ordered backlog and identifies PBIs they’d like in the next Sprint
-	- Development Team asks questions and requests additional details if needed
-	- Any PBI that has enough information is sized by the Development Team in the session
+	- PO presents the ordered backlog and identifies PBIs they’d like in the next Sprint.
+	- Development Team asks questions and requests additional details if needed.
+	- Any PBI that has enough information is sized by the Development Team in the session.
+	- Create & Refining (Adding details to) PBIs
+ 	- Estimating PBIs
+  	- Prioritizing PBIs   
 - **Output**:
 	- List of PBIs for clarification and the questions that need to be answered
 - The Scrum Master ensures the event takes place and is well-facilitated. Scrum Master also  ensures the timebox is adhered 
@@ -142,7 +171,6 @@
 	- Create an ordered list of major items that went well and those that could be improved.
 	- Create a plan for implementing selected improvements to how the team works.
 - The Scrum Master ensures the event takes place and is well-facilitated. Scrum Master also ensures the timebox is adhered to. As the process owner, the Scrum Master is an active participant in the event.
-
 # 19.03.2024 Project Management: Agile : Lesson_1
 - **Complexity**:
 	- Complexity refers to the state of being intricate, diverse, and composed of many interconnected elements or parts.
