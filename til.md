@@ -32,8 +32,17 @@
 - The Burn Down Chart typically consists of **two** axes:
 - **Time axis** (usually horizontal): This represents the duration of the project or sprint, divided into time increments (e.g., days, weeks).
 - **Work axis** (usually vertical): This represents the amount of work remaining to be completed, often measured in story points, tasks, or other relevant units of work.
-- 
-# 20.03.2024 Project Management: Agile : Lesson_2
+- **Technical Debt** Or **Design Debt** Or **Code Debt**: In Agile development, technical debt refers to the implied cost of additional work that arises when code is developed or implemented in a way that sacrifices long-term quality and maintainability for short-term gains. It's a metaphor coined by Ward Cunningham, likening it to financial debt: just as financial debt accrues interest over time, technical debt accrues additional work that must be done in the future to correct or address issues introduced by taking shortcuts or making compromises during development.
+- Consequences of technical debt
+	-  Unpredictable tipping point
+ 	-  Increased time to delivery
+	-  Rising development and support costs
+ 	-  Product atrophy
+  	-  Decreased predictability
+  	-  Underperformance
+  	-  Universal frustration
+  	-  Decreased customer satisfaction
+- # 20.03.2024 Project Management: Agile : Lesson_2
 - Artifacts:
 	- Product Backlog
  	- Sprint Backlog
