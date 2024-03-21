@@ -49,7 +49,13 @@
   	- Minimizing Waste
    	- Being Transparent
    	- Adapting to Change
-   	- Continuously Improvement 
+   	- Continuously Improvement
+- **Value Stream mapping**: SIPOC
+	- Supplier
+	- Inputs
+	- Processing
+	- Outputs
+	- Customer  
 - # 20.03.2024 Project Management: Agile : Lesson_2
 - Artifacts:
 	- Product Backlog
