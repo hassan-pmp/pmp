@@ -1,5 +1,65 @@
 # Topics for Learning
 ---
+# 22.03.2024 Project Management: Agile : Lesson_4
+- Ohno Taiichi who is a Japanese industrial engineer and businessman. He is considered to be the father of the Toyota Production System, which inspired Lean Manufacturing in the U.S.
+- **Seven Forms of Waste**:
+	- Transport
+	- Inventiories
+	- Motion
+	- Waiting
+	- Overproduction
+	- Over-Processing
+	- Defects
+-  **Principle of Lean Thinking**:
+	- Eliminate Waste
+	- Amplify Learning
+	- Decide as late possible
+	- Deliver as fast as possible
+	- Empower the team
+	- Build integrity
+	- Optimize the whole
+- **Test-Driven Development (TDD)**: XP follows the practice of writing unit test cases before the code is produced.    
+- The benefit of following TDD is that the programmer is forced to write only that amount of code that passes the test, nothing more than that, since it is wasteful.
+- **Feature Driven Development (FDD)**: is a lightweight Agile methodology that aims to build a software in increments of features or functionalities In terms of practical application,
+- These features directly represent value added functionality that a user wants to use
+- FDD is a flexible and customer centric approach to software development that can help teams deliver high quality software features quickly and efficiently
+- **Delivery Cadence**: Refers to the timing and frequency of project deliverables. Projects can have a single delivery, multiple deliveries, or periodic deliveries.
+- **Single Delivery**: Deliver at the end of the project
+- **Multiple Deliveries**: Multiple components that are delivered at different times. New drug (sequential)= 1. preclinical submissions, 2. Phase 1 trial results, 3. Phase 2 trial results, 4. Phase 3 trial results, 5. registration, and then 6. launch. Update building security (separate delivery)= physical barriers to entry, new badges, new key code pads.
+- **Periodic Deliveries**: **Like multiple** deliveries but **fixed delivery schedule**. A new software application have internal deliveries every two weeks, and then periodically release the deliveries into the market.
+- **Continuous delivery**: delivering feature increments immediately to customers emphasis is on delivering benefits and value. Example; digital products and DevOps
+- Project team that are stable.
+- Remember, that of all documents that Agile teams look to produce, the charter is the first and also a must-have.
+- Charters for Agile projects are no longer than a page or two in length.
+- What, Why, Who, When, Where, How (W5H) acronym for the contents of a project charter.
+- **Agile Contracting**:
+- **Fixed Price**, but with Provision for Change in Scope in Future Iterations.
+	- In this type of contract, the scope of the contract is reviewed before every iteration.
+	- Since Agile teams do not permit changes during the middle of the iteration, the scope can be considered fixed during an iteration making it suitable for a fixed-price, fixed-scope delivery in the timeboxed iteration.
+	- This concept works well provided that the customer (buyer) works in close collaboration with the seller for every iteration.
+ - Cost Plus-reamburseible 
+ - Time & Material
+ - **Contract with Premature Closure Clause**:
+	 - Since Agile projects are value driven, it is quite possible that the customer or user realizes that there is no value or ROI in continuing further with the project as outlined in the contract initially.
+	 - At that point, the choice might be made to discontinue the project and not carry out the rest of the iterations.
+	 - Any of the features that did not make it to the implementation stage yet are basically those that were considered
+	unnecessary or of less priority.
+	- Premature closure of a contract can cause hardships to the seller.
+	- A clause could be included in the contract to pay a small fraction (say 15-20%) of the remaining contract in lieu of early termination to cover for its operational costs and maintaining healthy relationships for the longer term.
+- **Fixed Fee and Not to Exceed Clauses**:
+	- In case of premature closures of reduction in scope, the sellers may be adversely affected. To protect their interests, contracts could have a fixed-fee clause, which basically means that no matter what, the seller will get a fixed fee to cover their operational costs.
+	- Similarly, if the project goes slower than the estimated schedule, the actual pay-out from the buyer could shoot up.
+	- The not-to-exceed clause helps to protect the buyer by limiting the maximum amount that the buyer has to give to the seller.
+- **Fixed Price per Story Point**:
+	- Story points are unit of estimates for user stories. Once the definition of story points are formalized and agreed between the seller and the buyer, the seller could enter into a contract that uses a fixed rate per story point. So while the backlog of requirements could vary, the seller gets paid based on the number of story points it completes.
+- **Multi Stage Contracts**:
+	 - In the first stage the chosen vendor is asked to work on a T&M contract, collaborating with the buyer for a period of 3-4 weeks. The goal is to hash out an overall plan and gain enough knowledge to proceed with the next stage.
+	 - In the second stage, the chosen vendor is asked work in a fixed-price contract to produce a proof of concept to establish their learning about the project. Based on the satisfaction of the buyer on the outcome of the proof of concept, the contract can either be terminated or proceed to the next stage.
+	 - In the third stage the bulk of the Agile development happens. The buyer does not go beyond specifying a high-level objective of the project and anticipates rapid changes. The buyer and the seller enter into another T&M contract, with the buyer retaining authority to prioritize and deliver through a series of iterations closely collaborating with the vendor resource(s). The goal of this stage is to deliver the working software into production.
+	 - In the fourth and final stage, the buyer could negotiate a fixed-price contract with the seller to provide warranty and fix any postproduction defects, if any.
+- **Contract Extension and Payment Based on Delivery and Acceptance**:
+	- Another variation of the contract is where, after each incremental delivery, the buyer pays out to the seller only when the acceptance test cases have been satisfactorily passed. If the delivery satisfies the buyer and the business value is obtained, the buyer (sponsor) can decide to renew or extend the contract for the next iteration. If the delivery does not deliver the desired result, they can choose to stop or modify the terms and conditions on the contract for the next iteration.
+- 
 # 21.03.2024 Project Management: Agile : Lesson_3
 - Glossary
 	- **Adaption**: Changing practices to fix processes that are not helping the work advance toward a goal.
