@@ -59,7 +59,30 @@
 	 - In the fourth and final stage, the buyer could negotiate a fixed-price contract with the seller to provide warranty and fix any postproduction defects, if any.
 - **Contract Extension and Payment Based on Delivery and Acceptance**:
 	- Another variation of the contract is where, after each incremental delivery, the buyer pays out to the seller only when the acceptance test cases have been satisfactorily passed. If the delivery satisfies the buyer and the business value is obtained, the buyer (sponsor) can decide to renew or extend the contract for the next iteration. If the delivery does not deliver the desired result, they can choose to stop or modify the terms and conditions on the contract for the next iteration.
-- 
+- **Story gathering Techniques**:
+	- Persona: Identify a persona which is an imaginary representation of a user role The persona could have attributes like a name, address, age, a short description of his/her profile, his/her likes and dislikes, occupation, income level, a hypothetical photo and pretty much anything that is useful to represent the context and demographics (like colour, race, religion, etc that the user is representative of.
+- **Fist of Five Voting**: Means the voter has serious objections and will block the proposal.
+	- 0 fingers (closed fist): Means the voter has serious objections and will block the proposal.
+	- 1 finger: Means the voter has strong reservations and wants to discuss issues and suggest changes that should be made.
+	- 2 finger: Means the voter is moderately comfortable but has minor issues that may 2 fingers not need discussion.
+	- 3 finger: Means the voter has a neutral standpoint because he likes some of it, but not all. 4 fingers – means that the voter is supportive of the proposal.
+	- All 5 fingers (showof the full palm): Means the voter is in complete agreement with the proposal and will also promote it.
+- **Expert in Earshot**: To exploit the benefits of osmotic communication and encourage building and retention
+of tactic knowledge in the team, another technique used is expert in earshot which is putting junior team member in line of sight and within hearing distance of more experienced team members.
+- **Swarming**: Agile swarming is when the entire team swarms around a single feature or a story, much the same way bees swarm around a flowering plant producing nectar. In other words,everyone works on the same story at the same time.
+- **Shu Ha Ri Model**: The term Shu Ha Ri has its origin from a martial art called Aikido in Japan.
+	- Shu (learn, follow the rule)
+	- Ha (detach, break the rule)
+	- Ri (transcend, be the rule)
+- **Spikes**:
+	- Spikes are used by Agile teams to conduct a brief experiment , test a hypothesis , perform option analysis and come to a conclusion.
+	- After the experiment, the learnings and findings remain, but the spike code itself could be useless and in most cases is thrown away.
+ - **Outcome of Spike**:
+	 - Mitigate risks with uncertain technologies or domain
+	 - Make better quality of estimates that can stand ground amid uncertainties
+	 - Check feasibility of architecture or design options
+	 - Help the team fail-fast
+	 - Ascertain worthiness of the investment
 # 21.03.2024 Project Management: Agile : Lesson_3
 - Glossary
 	- **Adaption**: Changing practices to fix processes that are not helping the work advance toward a goal.
