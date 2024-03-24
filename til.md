@@ -5,7 +5,21 @@
 	- **Business Case**: it is including the "Why this project is selected" and "How much is the net present **value** and **payback period**".
  	- **Refactoring**: in software engineering refers to the process of restructuring existing code without changing its external behavior. The main goal of refactoring is to improve the internal structure of the codebase, making it easier to understand, maintain, and extend while preserving its functionality.
   	- **Spike**: In software engineering, a "spike" refers to a time-boxed exploration or investigation aimed at gathering information, reducing uncertainty, or evaluating a specific technology or approach. Spikes are often used when there is a need to make an informed decision or gain a better understanding of a problem before proceeding with development.
-	- 
+	- **Cross-Funtional Team Member**: A cross-functional team member is an individual who possesses skills and expertise in multiple areas relevant to the goals and objectives of a team. In a cross-functional team, members come from diverse backgrounds, disciplines, and specialties, enabling the team to tackle complex problems or projects that require a range of skills and perspectives.
+	- a business case is a document that provides justification for initiating a project. It outlines the reasons why a project is necessary, identifies its objectives, and evaluates its potential benefits and costs. A well-developed business case helps stakeholders understand the purpose and value of the project and serves as a basis for decision-making throughout the project lifecycle. Here are the key components typically included in a business case:
+		- Executive Summary,
+		- Introduction,
+		- Project Objectives,
+		- Scope,
+		- Benefits,
+		- Costs,
+		- Return on Investment (ROI),
+		- Risks and Mitigation Strategies,
+		- Alternatives Analysis,
+		- Recommendations,
+		- Implementation Plan,
+		- Governance and Approval 
+
  
 # 22.03.2024 Project Management: Agile : Lesson_4
 - Ohno Taiichi who is a Japanese industrial engineer and businessman. He is considered to be the father of the Toyota Production System, which inspired Lean Manufacturing in the U.S.
