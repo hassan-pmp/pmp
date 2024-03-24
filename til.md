@@ -19,8 +19,28 @@
 		- Recommendations,
 		- Implementation Plan,
 		- Governance and Approval 
+- **Belbin Team Role Inventory**: The Belbin Test, or the Belbin Team Role Inventory, is a widely used psychometric assessment tool designed to measure individuals' preferred roles within a team. The Belbin Test aims to help individuals understand their strengths and weaknesses in a team context and facilitate better teamwork and collaboration.
+- Here's how the Belbin Test typically works:
+	- **Questionnaire**: Participants are asked to complete a questionnaire, often online, consisting of a series of statements or scenarios related to team behaviors and preferences. These statements may ask individuals to indicate how they would typically behave or react in certain team situations.
+	- **Team Roles**: The Belbin Test identifies nine different team roles, each associated with specific behaviors, strengths, and weaknesses. These roles are:
+		- Coordinator: Acts as a leader and facilitates team communication and decision-making.
+		- Shaper: Provides direction and drive, challenges the team to improve, and overcomes obstacles.
+		- Plant: Generates creative ideas and solutions, often thinking outside the box.
+		- Monitor Evaluator: Provides critical analysis, evaluates options, and makes balanced decisions.
+		- Specialist: Possesses specialized knowledge or skills critical to the team's success.
+		- Implementer: Turns ideas into practical actions and plans, ensures tasks are completed efficiently.
+		- Completer Finisher: Pays attention to detail, ensures high-quality work, and meets deadlines.
+		- Team Worker: Promotes team cohesion, supports others, and resolves conflicts diplomatically.
+		- Resource Investigator: Seeks opportunities, makes contacts, and explores external possibilities.
+	- **Scoring and Feedback**: After completing the questionnaire, individuals receive a report or feedback indicating their preferred team roles based on their responses. The report typically highlights individuals' strengths and potential weaknesses in each role and provides insights into how they can contribute effectively to a team.
+	- **Team Building and Development**: The Belbin Test is often used in team-building exercises, training programs, and organizational development initiatives. By understanding their preferred roles and those of their teammates, individuals can better leverage their strengths, collaborate more effectively, and address any potential gaps or conflicts within the team.
 
- 
+
+
+
+
+
+
 # 22.03.2024 Project Management: Agile : Lesson_4
 - Ohno Taiichi who is a Japanese industrial engineer and businessman. He is considered to be the father of the Toyota Production System, which inspired Lean Manufacturing in the U.S.
 - **Seven Forms of Waste**:
