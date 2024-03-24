@@ -1,5 +1,12 @@
 # Topics for Learning
 ---
+# 24.03.2024 Project Management: Agile : Lesson_5
+- **Tips**:
+	- **Business Case**: it is including the "Why this project is selected" and "How much is the net present **value** and **payback period**".
+ 	- **Refactoring**: in software engineering refers to the process of restructuring existing code without changing its external behavior. The main goal of refactoring is to improve the internal structure of the codebase, making it easier to understand, maintain, and extend while preserving its functionality.
+  	- **Spike**: In software engineering, a "spike" refers to a time-boxed exploration or investigation aimed at gathering information, reducing uncertainty, or evaluating a specific technology or approach. Spikes are often used when there is a need to make an informed decision or gain a better understanding of a problem before proceeding with development.
+	- 
+ 
 # 22.03.2024 Project Management: Agile : Lesson_4
 - Ohno Taiichi who is a Japanese industrial engineer and businessman. He is considered to be the father of the Toyota Production System, which inspired Lean Manufacturing in the U.S.
 - **Seven Forms of Waste**:
