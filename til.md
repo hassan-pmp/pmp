@@ -1,4 +1,4 @@
-# Things I learning
+# Things I Learning
 ---
 # 24.03.2024 Project Management: Agile : Lesson_5
 - **Tips**:
