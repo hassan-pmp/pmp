@@ -1,5 +1,45 @@
 # Things I Learning
 ---
+# 07.04.2024 Project Management: Agile : Lesson_6
+- Stakeholder Performance Domain - 1.Identify
+	- Input
+ 		- Project Charter
+   		- Business documents
+     			- Business case
+       			- Benefits Management Plan
+       		- Project Management Plan
+         		- Comm mng plan
+           		- Stakeholder Engagement Plan
+                - Project Documents
+             		- Change Log
+                	- Issue Log
+                 - Requirments documentation
+                 - Agreements
+                 - Enterprise Environmental Factor
+                 - Organizationaö Process Assets        
+ 	- Tools & Techniques
+  		- Expert Jug´dgment
+    		- Data Gathering
+      			- Questionnaires and Surveys
+         		- Brainstorming
+           	- Data Analysis
+           		- Stakeholders Analysis
+           	 	- Document Analysis
+          	- Data Representation
+          		- Stakeholder Mapping/Representation
+  		- Meetings           
+  	- Outputs
+  		- Stakeholder Register
+  	 	- Change Request
+  	  	- Project mng Plan
+  	  	- Reuirements Management Plan
+  	  	- Comm Mng Plan
+  	  	- Risk Mng Plan
+  	  	- Stakeholder Mng Plan
+  	  	- Project Documents Updates
+  	  		- Assumption Log
+  	  	 	- Issue Log
+  	  	  	- Risk Register       
 # 24.03.2024 Project Management: Agile : Lesson_5
 - **Tips**:
 	- **Business Case**: it is including the "Why this project is selected" and "How much is the net present **value** and **payback period**".
