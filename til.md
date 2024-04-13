@@ -5,8 +5,13 @@
 - **Plan** is answer to "**How To...**"
 - The name of the document or artefact, the word Plan is moved to the end of the name. ex: **Stakeholder Engagement Plan**
 - More details / Planning for more details ---> Progressive Elaboration
-- 
-
+- Data Representation approches
+	-  Power/Interest Grid, Power/Influence Grid, Or Impact/Influence Grid.
+ 	- Stakeholder Cube
+  	- Salience Model
+  	- Directions of Influence
+  	- Prioritization
+-  
 
 
 
