@@ -1,5 +1,17 @@
 # Things I Learning
 ---
+# 13.04.2024 Project Management: Stakeholder : Lesson_1
+- The name of the process starts with the **Plan**. Ex: **Plan Stakeholder Engagement**
+- **Plan** is answer to "**How To...**"
+- The name of the document or artefact, the word Plan is moved to the end of the name. ex: **Stakeholder Engagement Plan**
+- More details / Planning for more details ---> Progressive Elaboration
+- 
+
+
+
+
+
+
 # 07.04.2024 Project Management: Agile : Lesson_6
 - Stakeholder Performance Domain - 1.Identify
 	- Input
@@ -74,12 +86,6 @@
 		- Resource Investigator: Seeks opportunities, makes contacts, and explores external possibilities.
 	- **Scoring and Feedback**: After completing the questionnaire, individuals receive a report or feedback indicating their preferred team roles based on their responses. The report typically highlights individuals' strengths and potential weaknesses in each role and provides insights into how they can contribute effectively to a team.
 	- **Team Building and Development**: The Belbin Test is often used in team-building exercises, training programs, and organizational development initiatives. By understanding their preferred roles and those of their teammates, individuals can better leverage their strengths, collaborate more effectively, and address any potential gaps or conflicts within the team.
-
-
-
-
-
-
 
 # 22.03.2024 Project Management: Agile : Lesson_4
 - Ohno Taiichi who is a Japanese industrial engineer and businessman. He is considered to be the father of the Toyota Production System, which inspired Lean Manufacturing in the U.S.
