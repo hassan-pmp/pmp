@@ -11,7 +11,15 @@
   	- Salience Model
   	- Directions of Influence
   	- Prioritization
--  
+- There are five general techniques for resolving conflict, each with a best time and place for use:
+	- 1. Withdraw/Avoid: In this scenario, the project managers avoid or postpone the issue until they are better prepared to address it or let it be resolved by others. This technique is best for low-stakes, non-pressing situations.
+	- 2. Smooth/Accommodate: If the number one goal is to maintain the harmony or relationship of the team, this approach might be best. One party concedes their position and instead emphasizes areas where differing parties actually agree. “Project leaders do not always have direct authority over conflicting parties, so instead of demanding an agreement, they’ll need to use people skills, such as emotional intelligence, leadership, and influence, to nudge the parties toward a resolution,” Mr. Clemens says.
+	- 3. Compromise/Reconcile: This approach involves searching for solutions that bring some degree of satisfaction to all parties in order to at least temporarily or partially resolve the conflict. But beware that this technique occasionally results in a lose-lose situation.
+	- 4. Force/Direct: In this approach, one party pushes their viewpoint at the expense of others, offering only win-lose solutions. This option is often enforced from a position of power to resolve an emergency. “For example, when dealing with a potentially dangerous work situation involving the proper processes for protecting individuals from falling off a building on a construction site, the approach may be directive and, if necessary, dictatorial,” Mr. Clemens says.
+	- 5. Collaborate/Problem-Solve: This approach seeks to incorporate multiple viewpoints and insights from differing perspectives. To reach a consensus, all parties must have a cooperative attitude and open dialogue. While this technique typically requires more effort, it can result in a win-win situation. “If the issue is over providing funds for the next project phase or arranging teamwork priorities, a more collaborative approach may work better,” Mr. Clemens says.
+- It’s up to project leaders to determine which resolution technique is right for the conflict at hand. “Project managers may play a number of roles, from facilitators to decision-makers,” Mr. Clemens says. “The specific role depends on the individuals involved, the team dynamics, and the specific conflict.”
+- For example, project leaders should take into account the intensity of the conflict, the time pressure for resolving it, the relative power of the people involved, and the importance of maintaining good relationships.
+- But no matter how a conflict is handled, it’s important to keep in mind the ultimate goal: project success. Because humans execute projects, “our perceptions, risk tolerance and emotions come into play, causing the need to adjust agreements to reach common goals and objectives,” Mr. Clemens says. “It is in the establishment of these objectives that we, as humans, negotiate to meet our individual needs within the understood common goals.”   
 
 
 
