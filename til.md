@@ -1,5 +1,45 @@
 # Things I Learning
 ---
+# 13.04.2024 Project Management: Stakeholder : Lesson_2
+- **Stakeholder Cube**:
+	- It provides a model with multiple dimensions that improves the depiction of the stakeholder community as a
+multidimensional entity and assists with the development of communication strategies.
+- **Salience Model**: Describes classes of stakeholders based on assessments of their power (level of authority or ability to influence the outcomes of the project), urgency (need for immediate attention), and legitimacy (their involvement is appropriate).
+- **Directions of influence**:
+	- Upward: (senior management of the performing organization or customer organization, sponsor, and steering committee),
+	- Downward: (the team or specialists contributing knowledge or skills in a temporarycapacity),
+	- Outward: (stakeholder groups and their representatives outside the project team,such as suppliers,government departments, the public, endusers, and regulators), or
+	- Sideward: (the peers of the project manager, such as other project managers or middle managers who are in competition for scarce project resources or who collaborate with the project manager in sharing resources or information).
+- Stakeholder Register:
+	- Identification information.Name, organizational position
+	- Assessment information. Major requirements, expectations,
+	- Stakeholder classification. Internal/external, impact/influence/power/
+ - Asuumption and constrain ---> Assumption log
+ - **Stakeholder Engagement Assessment Matrix**:
+- **Unaware**: Unaware of the project and potential impacts
+- **Resistant**: Aware of the project and potential impacts but resistant to any changes that may occur as a result of the work or outcomes of the project These stakeholders will be  unsupportive of the work or outcomes of the project.
+- **Neutral**: Aware of the project, but neither supportive nor unsupportive
+- **Supportive**: Aware of the project and potential impacts and supportive of the work and its outcomes.
+- **Leading**: Aware of the project and potential impacts and actively engaged in
+ensuring that the project is a success.
+- C represents the current engagement level of each stakeholder and D indicates the level that the project team has assessed as essential to ensure project success ( Desired).
+- The gap between current and desired for each stakeholder will direct the level of communications necessary to effectively engage the stakeholder
+- The closing of this gap between current and desired is an essential element of monitoring stakeholder engagement
+- Stakeholder engagement plan may include but is not limited to specific strategies or approaches for engaging with individuals or groups of stakeholders
+	- introduce the project
+	 - elicit their requirements
+	 - manage expectations
+	 - resolve issues
+	 - Prioritize
+	 - make decisions
+	 - soft skills
+	 - leadership skills
+	 - Problem Solve
+	 - Communication
+- Work Performance Data (Input) ---> Work Performance Information (Output)
+
+
+ 
 # 14.04.2024 Project Management: Conflict Mnagement : Lesson_1
 - There are five general techniques for resolving conflict, each with a best time and place for use:
 	- 1. Withdraw/Avoid: In this scenario, the project managers avoid or postpone the issue until they are better prepared to address it or let it be resolved by others. This technique is best for low-stakes, non-pressing situations.
@@ -22,11 +62,6 @@
   	- Salience Model
   	- Directions of Influence
   	- Prioritization
-
-
-
-
-
 # 07.04.2024 Project Management: Agile : Lesson_6
 - Stakeholder Performance Domain - 1.Identify
 	- Input
