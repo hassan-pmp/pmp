@@ -87,7 +87,31 @@ Project or Phase process
 
   	▶ - **4- Interpersonal Skills**
 		- A. Emotional intelligence
+		  - Self-Awareness
+			  - How do you affect the team?
+			  - How does the team affect you?
+		  - Self-Management
+			  - Think before act
+			  - Build Trust
+		  - Social Awareness
+			  - Be Empatheic 
+			  - Employ active listening
+		  - Social Skill
+			  - Establish rapport
+			  - Build effective teams
+			  - Manage Attitude
 		- B. Decision making
+			- **B1 Unilaterally Decisions**
+	  			**advantage** = being fast
+	  			**disadvantage** = is prone to error, demotivate people
+			- **B2 Group based decision making**
+				**advantage** = Use of broad knowledge base of a group, increases buy in, increases commitment 
+				**disadvantage** = time required, interruption to teamwork
+			- **B3 diverge/converge pattern**
+				- first individually to avoid the effect of senior or charismatic stakeholders
+				- Then , when alternatives have been generated , the project team converges on a preferred solution
+				- Roman voting , wideband Delphi estimating, and fist of five voting
+			- **B4 For those decisions that are beyond the authority** team can analyze alternative , and escalate. This process aligns with don t bring me problems, bring me solutions,
 		- C. Conflict management
 
 
