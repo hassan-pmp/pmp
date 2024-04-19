@@ -59,8 +59,11 @@ Project or Phase process
 			- Purpose : Knowing the project vision allows people to feel like they are making a difference.
 	- Interpersonal Skills.
 ▶ Theory X: The assumption that employees dislike work, are lazy, dislike responsibility, and must be coerced to perform.
+
 ▶ Theory Y: The assumption that employees like work, are creative, seek responsibility, and can be excercise self-direction.
+
 ▶ Theory Z. individuals are motivated by self realization, values, and a higher calling
+
 ▶ Maslow s Hierarchy of Needs
 
 
