@@ -1,5 +1,74 @@
 # Things I Learning
 ---
+# 19.04.2024 Project Management: Development Team: Lesson_1
+- Development Team Models:
+	-  Drexler/Sibbet Team Performance model
+ 		- Step 1 : Orientation : why, team learns purpose and mission for the project, occurs at kickoff meeting or business case , or project charter
+		- Step 2 : Trust building: who, who is on the project team, skills , abilities , key stakeholders
+		- Step 3 : Goal clarification: what, team Elaborates high level project information , stakeholder expectations , requirements , acceptance criteria
+		- Step 4 : Commitment: how, team define plans , include milestone ,release plans, high level budgets, resource needs
+		- Step 5 : Implementation: detail plans , detailed schedule or backlog, team starts working together to produce deliverables
+		- Step 6 : High performance : After team has worked together , they reach a high level of performance, and don t need much oversight. Synergies
+		- Step 7 : Renewal: The deliverables , stakeholders, environment, project team leadership, or team membership may change.
+		- If the past behavior and actions are still sufficient , or if needs to go back to a previous stage to reset the expectations and ways of working together. 
+- Dr.Bruce Tuckman (Tuckman Ladder)
+	-  **Forming**: This phase is where the team members meet and learn about the project and their formal roles and responsibilities. Team members tend to be independent and not as open in this phase.
+ 		- Excitement
+   		- Anticipation
+     		- Anxiety
+       		- Optimism     
+ 	- **Storming**: During this phase, the team begins to address the project work, technical decisions, and the project management approach. If team members are not collaborative or open to differing ideas and perspectives, the environment can become counterproductive.
+		  - Realitysetsim
+		  - Frustration
+		  - Dissatisfaction
+		  - Adhustmwnt anexiety  
+  	- **Norming**: In this phase, team members begin to work together and adjust their work habits and behaviors to support the team. The team members learn to trust each other.
+		  - Shared Goals
+		  - Team Cohension
+		  - Coping
+		  - Acceptance
+	- **Performing**: Teams that reach the performing stage function as a well organized unit. They are interdependent and work through issues smoothly and effectively.
+	  	- Teamwork
+	  	- Cohensiveness
+	  	- Leadership
+	  	- Performance
+  	- **Adjourming**: In this phase, the team completes the work and moves on from the project. This typically occurs when staff is released from the project as deliverables are completed or as part of the Close
+Project or Phase process
+	  	- Separtation Anxiety
+	  	- Crisis
+	  	- Dissatisfaction
+	  	- Negativity
+  	- **Next Step**
+	  	- Options Explored
+	  	- Skilled
+	  	- Anticipation
+	  	- Excitement
+- **Leadership Skills**:
+	- Establishing and Maintaining Vision
+		 - Short and precise
+		 - Bold and ambitious – but grounded in reality
+		 - Simple language 
+	- Critical Thinking
+		 - includes disciplined, rational, logical, evidence based thinking
+	- Motivation
+- extrinsic rewards, such as salary
+- intrinsic motivators are far longer lasting and more effective
+- 3 types of intrinsic motivators
+- Autonomy: flexible work hours, working from home, and work on self selecting and
+self managing
+
+- Mastery : being able to improve and excel
+
+▶Purpose : Knowing the project vision allows people to feel like they are making a
+difference.
+	- Interpersonal Skills
+- 
+
+
+
+
+
+
 # 13.04.2024 Project Management: Stakeholder : Lesson_2
 - **Stakeholder Cube**:
 	- It provides a model with multiple dimensions that improves the depiction of the stakeholder community as a
