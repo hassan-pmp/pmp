@@ -51,18 +51,14 @@ Project or Phase process
 	- Critical Thinking
 		 - includes disciplined, rational, logical, evidence based thinking
 	- Motivation
-- extrinsic rewards, such as salary
-- intrinsic motivators are far longer lasting and more effective
-- 3 types of intrinsic motivators
-- Autonomy: flexible work hours, working from home, and work on self selecting and
-self managing
-
-- Mastery : being able to improve and excel
-
-▶Purpose : Knowing the project vision allows people to feel like they are making a
-difference.
+		- Extrinsic rewards, such as salary
+		- Intrinsic motivators are far longer lasting and more effective
+		- 3 types of intrinsic motivators
+			- Autonomy: flexible work hours, working from home, and work on self selecting and self managing
+			- Mastery : being able to improve and excel
+			- Purpose : Knowing the project vision allows people to feel like they are making a difference.
 	- Interpersonal Skills
-- 
+- ▶
 
 
 
