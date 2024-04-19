@@ -45,11 +45,14 @@ Project or Phase process
 	  	- Excitement
 - **Leadership Skills**:
 	 ▶ **1- Establishing and Maintaining Vision**
+  
 		 - Short and precise
 		 - Bold and ambitious – but grounded in reality
-		 - Simple language 
+		 - Simple language
+  
 	 ▶ **2- Critical Thinking**
 		 - includes disciplined, rational, logical, evidence based thinking
+  
 	 ▶ **3- Motivation**
 	- **1- Intrinsic versus Extrinsic Motivation**
 		- Extrinsic rewards, such as salary
