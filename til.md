@@ -44,27 +44,49 @@ Project or Phase process
 	  	- Anticipation
 	  	- Excitement
 - **Leadership Skills**:
-	- Establishing and Maintaining Vision
+	 ▶ **1- Establishing and Maintaining Vision**
 		 - Short and precise
 		 - Bold and ambitious – but grounded in reality
 		 - Simple language 
-	- Critical Thinking
+	 ▶ **2- Critical Thinking**
 		 - includes disciplined, rational, logical, evidence based thinking
-	- Motivation
+	 ▶ **3- Motivation**
+	- **1- Intrinsic versus Extrinsic Motivation**
 		- Extrinsic rewards, such as salary
 		- Intrinsic motivators are far longer lasting and more effective
 		- 3 types of intrinsic motivators
 			- Autonomy: flexible work hours, working from home, and work on self selecting and self managing
 			- Mastery : being able to improve and excel
 			- Purpose : Knowing the project vision allows people to feel like they are making a difference.
-	- Interpersonal Skills.
-▶ Theory X: The assumption that employees dislike work, are lazy, dislike responsibility, and must be coerced to perform.
+	- **2- Theory X, Y, Z**
+		▶ Theory X: The assumption that employees dislike work, are lazy, dislike responsibility, and must be coerced to perform.
+		
+		▶ Theory Y: The assumption that employees like work, are creative, seek responsibility, and can be excercise self-direction.
+		
+		▶ Theory Z. individuals are motivated by self realization, values, and a higher calling
 
-▶ Theory Y: The assumption that employees like work, are creative, seek responsibility, and can be excercise self-direction.
+	- **3- Maslow s Hierarchy of Needs**
+		- Physiological: food, breathing, water, sex, sleep,homeostasis, excretion
+		- Safety: Security of body, employment, resources,moturity, the family, health, property
+		- Love/Belonging: friendship, family, sexual intimacy
+		- Esteem; self-esteem, confidence, achievement, respect of others, respect by others
+		- Self-actualization: morality, creativity, spontaneity, problem solving, lack of prejudice, acceptance of facts
+	- **4- Theory of Needs**
+		- **David McClellan's** model states that all people are driven by needs of achievement, power, and affiliation
+		- **Achievement**. People who are motivated by reaching a goal , are motivated by activities that is challenging , but reasonable.
+		- **Power**. People who are motivated by power , are motivated by increased responsibility
+		- **Affiliation**. People who are motivated by affiliation , are motivated by being part of a team.
+	- **5 Hygiene and Motivational Factors**
+		- Herzberg also identified hygiene factors related to the work, such as company policies , salary , and the physical
+		environment
+		- If hygiene factors are insufficient , they cause dissatisfaction
+		- However, even if they are sufficient , they do not lead to satisfaction
 
-▶ Theory Z. individuals are motivated by self realization, values, and a higher calling
+  	▶ - **4- Interpersonal Skills**
+		- A. Emotional intelligence
+		- B. Decision making
+		- C. Conflict management
 
-▶ Maslow s Hierarchy of Needs
 
 
 
