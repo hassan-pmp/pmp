@@ -112,7 +112,7 @@ Project or Phase process
 				- Then , when alternatives have been generated , the project team converges on a preferred solution
 				- Roman voting , wideband Delphi estimating, and fist of five voting
 			- **B4 For those decisions that are beyond the authority** team can analyze alternative , and escalate. This process aligns with don t bring me problems, bring me solutions,
-		- C. Conflict management
+		- C. Conflict management.
 
 
 
