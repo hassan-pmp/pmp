@@ -1,5 +1,23 @@
 # Things I Learning
 ---
+# 23,04.2024 Project Management: Acceptance Criteria: Lesson_1
+- Length
+- Conditions
+- Entities & Variables
+# 23,04.2024 Project Management: Estimation: Lesson_1
+- Complexity
+- Skillsets
+- Clarity
+- Dependencies
+# 23,04.2024 Project Management: SPIDR Approches: Lesson_1
+- My story is larg. Hoe to Split?
+	- Spikes
+	- Paths
+	- Interfaces
+	- Data
+	- Rules 
+- Focus on minimal valuable scope, then iterate & grow!
+  
 # 19.04.2024 Project Management: Development Team: Lesson_1
 - Development Team Models:
 	-  Drexler/Sibbet Team Performance model
