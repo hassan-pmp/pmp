@@ -1,5 +1,8 @@
 # Things I Learning
 ---
+# 24.04.2024 Project Management: Development Team: Lesson_2
+- 
+
 # 23,04.2024 Project Management: Acceptance Criteria: Lesson_1
 - Length
 - Conditions
@@ -131,11 +134,6 @@ Project or Phase process
 				- Roman voting , wideband Delphi estimating, and fist of five voting
 			- **B4 For those decisions that are beyond the authority** team can analyze alternative , and escalate. This process aligns with don t bring me problems, bring me solutions,
 		- C. Conflict management.
-
-
-
-
-
 
 # 13.04.2024 Project Management: Stakeholder : Lesson_2
 - **Stakeholder Cube**:
