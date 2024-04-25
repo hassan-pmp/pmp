@@ -4,14 +4,10 @@
 ▶ - **Dreyfus Model**
 	- Situational Leadership
  		- **Novice**: at this skill level, the team members have a very shallow understanding and need very close supervision They need clear and unambiguous instructions that they follow almost mechanically.
-   
-		- **Advanced beginner**: at this skill level, the understanding of the steps involved such that they can apply the same steps in similar context. The team members are able to complete simple tasks without supervision, but struggle where complex troubleshooting is required.
-  
-		- **Competent**: at this skill level the team members have attained good understanding of the steps involved and are able to complete their tasks properly without supervision. They use conceptual models to solve and troubleshoot problems, make decisions and accept responsibility.
-  
-		- **Proficient** : at this skill level, team members have gathered sufficient practice, experience and deep understanding of the subject. They see actions holistically big picture ’’) and routinely achieves high standards of Performance.
-  
-		- **Expert**: this is the highest skill level. With lots of knowledge amassed, the team members achieve excellence and go beyond existing interpretations, rules and guidelines. They use their analytical capabilities and intuitions more often to identify and solve problems.
+   		- **Advanced beginner**: at this skill level, the understanding of the steps involved such that they can apply the same steps in similar context. The team members are able to complete simple tasks without supervision, but struggle where complex troubleshooting is required.
+  		- **Competent**: at this skill level the team members have attained good understanding of the steps involved and are able to complete their tasks properly without supervision. They use conceptual models to solve and troubleshoot problems, make decisions and accept responsibility.
+  		- **Proficient** : at this skill level, team members have gathered sufficient practice, experience and deep understanding of the subject. They see actions holistically big picture ’’) and routinely achieves high standards of Performance.
+  		- **Expert**: this is the highest skill level. With lots of knowledge amassed, the team members achieve excellence and go beyond existing interpretations, rules and guidelines. They use their analytical capabilities and intuitions more often to identify and solve problems.
 
 # 23,04.2024 Project Management: Acceptance Criteria: Lesson_1
 - Length
