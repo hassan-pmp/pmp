@@ -134,7 +134,10 @@ Project or Phase process
 				- Roman voting , wideband Delphi estimating, and fist of five voting
 			- **B4 For those decisions that are beyond the authority** team can analyze alternative , and escalate. This process aligns with don t bring me problems, bring me solutions,
 		- C. Conflict management.
-
+			- Keep communications open and respectful
+			- Focus on the issues, not the people
+			- Focus on the present and future, not the past
+			- Search for alternatives together
 # 13.04.2024 Project Management: Stakeholder : Lesson_2
 - **Stakeholder Cube**:
 	- It provides a model with multiple dimensions that improves the depiction of the stakeholder community as a
