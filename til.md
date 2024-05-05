@@ -17,14 +17,15 @@
 	- Choices consequences: identify all the potential avenues for attaining the desired outcome and the consequences of each choice
 	- Actions: An action commits to specific improvements by focusing on immediate and attainable targets.
 	- Review: Holding meetings to ensure that individuals remain motivated and on track.
--** Leadership Styles: the primary styles**
-	- Laissez faire (e.g., allowing the team to make their own decisions and establish their own goals, also referred to as taking a hands off style);
+   
+- **Leadership Styles: the primary styles**
+	- **Laissez faire** (e.g., allowing the team to make their own decisions and establish their own goals, also referred to as taking a hands off style);
 	- **Transactional** (e.g., focus on goals, feedback, and accomplishment to determine rewards; management by exception);
 	- **Servant leader**(e.g., demonstrates commitment to serve and put other people first; focuses on other people s growth, learning, development, autonomy, and well being; concentrates on relationships, community and
 	- **Transformational** (e.g., empowering followers through idealized attributes and behaviors, inspirational motivation, encouragement for innovation and creativity, and individual consideration);
 	- **Charismatic** (e.g., able to inspire; is high energy, enthusiastic, self confident; holds strong convictions); and
 	- **Interactional** (e.g., a combination of transactional, transformational, and charismatic)
-- 
+-
  
 # 24.04.2024 Project Management: Leadership Skills: Lesson_2
 - **Dreyfus Model**
