@@ -1,7 +1,7 @@
 # Things I Learning
 ---
 # 24.04.2024 Project Management: Leadership Skills: Lesson_2
-▶ - **Dreyfus Model**
+- **Dreyfus Model**
 
 	- Situational Leadership
  		- **Novice**: at this skill level, the team members have a very shallow understanding and need very close supervision They need clear and unambiguous instructions that they follow almost mechanically.
