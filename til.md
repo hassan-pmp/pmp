@@ -1,8 +1,23 @@
 # Things I Learning
 ---
 # 05.05.2024 Project Management: Leadership Skills: Lesson_3
-- 
-
+- Leadership Styles changed based on below factored:
+	- Leader characteristics (attitudes, moods, needs, values,
+	- Team member characteristics (attitudes, moods, needs, values,
+	- Organizational characteristics (its purpose, structure, and type of work performed);
+	- Environmental characteristics (social situation, economic state, and political elements).
+ - Hersey-Blanchard Situational Leadership Theory the mid 1970s
+ - Supportive: High, Directive High --- > Selling ---> Coaching
+ - Supportive: Low, Directive High --- > Participating ---> Supporting
+ - Supportive: High, Directive Low --- > Telling ---> Directing 
+ - Supportive: Low,  Directive Low --- > Delegating
+- OSCAR Model
+	- Outcome : identifies the long term goals of an individual.
+	- Situation: current skills, abilities, and knowledge level of the project team member
+	- Choices consequences: identify all the potential avenues for attaining the desired outcome and the consequences of each choice
+	- Actions: An action commits to specific improvements by focusing on immediate and attainable targets.
+	- Review: Holding meetings to ensure that individuals remain motivated and on track.
+ - 
 # 24.04.2024 Project Management: Leadership Skills: Lesson_2
 - **Dreyfus Model**
 	- Situational Leadership
