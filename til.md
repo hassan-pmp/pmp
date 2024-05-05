@@ -7,10 +7,10 @@
 	- Organizational characteristics (its purpose, structure, and type of work performed);
 	- Environmental characteristics (social situation, economic state, and political elements).
  - Hersey-Blanchard Situational Leadership Theory the mid 1970s
- - Supportive: High, Directive High --- > Selling ---> Coaching
- - Supportive: Low, Directive High --- > Participating ---> Supporting
- - Supportive: High, Directive Low --- > Telling ---> Directing 
- - Supportive: Low,  Directive Low --- > Delegating
+	 - Supportive: High, Directive High --- > Selling ---> Coaching
+	 - Supportive: Low, Directive High --- > Participating ---> Supporting
+	 - Supportive: High, Directive Low --- > Telling ---> Directing 
+	 - Supportive: Low,  Directive Low --- > Delegating
 - OSCAR Model
 	- Outcome : identifies the long term goals of an individual.
 	- Situation: current skills, abilities, and knowledge level of the project team member
