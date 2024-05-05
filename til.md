@@ -25,8 +25,25 @@
 	- **Transformational** (e.g., empowering followers through idealized attributes and behaviors, inspirational motivation, encouragement for innovation and creativity, and individual consideration);
 	- **Charismatic** (e.g., able to inspire; is high energy, enthusiastic, self confident; holds strong convictions); and
 	- **Interactional** (e.g., a combination of transactional, transformational, and charismatic)
-- 
- 
+- **Seven Forms of Waste**:
+	- Transport
+	- Inventories
+	- Motion
+	- Waiting
+	- Overproduction
+	- Over-Processing
+	- Defects 
+- **Principle of Lean Thinking** - Lean 7 Core Concepts
+	- Eliminate Waste
+	- Amplify Learning
+	- Decide as late as possible
+	- Deliver as fast as possible
+ 	- Empower the team
+  	- Build integrity in
+  	- Optimize the whole
+
+
+
 # 24.04.2024 Project Management: Leadership Skills: Lesson_2
 - **Dreyfus Model**
 	- Situational Leadership
