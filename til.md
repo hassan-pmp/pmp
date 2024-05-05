@@ -25,7 +25,7 @@
 	- **Transformational** (e.g., empowering followers through idealized attributes and behaviors, inspirational motivation, encouragement for innovation and creativity, and individual consideration);
 	- **Charismatic** (e.g., able to inspire; is high energy, enthusiastic, self confident; holds strong convictions); and
 	- **Interactional** (e.g., a combination of transactional, transformational, and charismatic)
--
+- 
  
 # 24.04.2024 Project Management: Leadership Skills: Lesson_2
 - **Dreyfus Model**
