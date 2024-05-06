@@ -41,7 +41,7 @@
  	- Empower the team
   	- Build integrity in
   	- Optimize the whole
-
+- 
 
 
 # 24.04.2024 Project Management: Leadership Skills: Lesson_2
