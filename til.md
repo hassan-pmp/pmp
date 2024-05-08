@@ -1,5 +1,7 @@
 # Things I Learning
 ---
+# 08.05.2024 Project Management: Conflict Managemnet: Lesson_1
+- 
 # 05.05.2024 Project Management: Leadership Skills: Lesson_3
 - Leadership Styles changed based on below factored:
 	- Leader characteristics (attitudes, moods, needs, values,
