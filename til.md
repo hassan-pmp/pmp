@@ -161,6 +161,8 @@ Collaborating is used to resolve important conflicts, especially those affecting
 - **Fishbowl Window**: A type of virtual workspace where videoconferencing services are made available at every location where virtual team members reside. Team members log in at the beginning of the day and use the virtual workspace to enhance communications among the team.
 - 
 - **Remote pairing** is also a technique that can influence a virtual workspace in a positive manner. Remote pairing is a type of non-solo work (e.g. pair programming) that is enabled using 1:1 collaboration tools. To maximize effectiveness, there should be a collaborative platform such as a shared whiteboard or document combined with real-time audio/video. Ideally, both participants are within near time zones so that neither party is inconvenienced by having to work too early or too late in the day.
+- **Remote pairing** also involves videoconferencing and team members logging in at the beginning of the day. Remote pairing goes one step further and includes screen sharing, video links, and voice communication
+
 
 - **A fool with a tool is just a more efficient fool**. Providing collaboration tools to teams but not training them on their usage or helping them define appropriate rules for their usage is a recipe for disaster.
 
