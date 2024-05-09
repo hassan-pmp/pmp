@@ -86,6 +86,7 @@ Collaborating is used to resolve important conflicts, especially those affecting
 
 
 
+
 # 08.05.2024 Project Management: Conflict Managemnet: Lesson_1
 - “Conflict is any situation where your concerns or desires differ from another person's" according to Thomas and Kilmann (1974).
 # Terms and Description:
@@ -172,18 +173,17 @@ Collaborating is used to resolve important conflicts, especially those affecting
 
 - Agile Obstacles
 - The top challenges organizations cite for adopting and scaling agile:
-
-- 53% Organizational culture at odds with agile values
-- 46% General organization resistant to change
-- 42% Inadequate management support and sponsorship
-- 41% Lack of skills or experience with agile methods
-- 35% Insufficient training and education
-- 34% Inconsistent processes and practices across teams
-- 31% Lack of availability of business, customer or product owner
-- 30% Pervasiveness of traditional development methods
-- 24% Fragmented tooling and project-related data or measurements
-- 21% Minimal collaboration and knowledge sharing
-- Source: State of Agile, CollabNet VersionOne, 2018
+	- 53% Organizational culture at odds with agile values
+	- 46% General organization resistant to change
+	- 42% Inadequate management support and sponsorship
+	- 41% Lack of skills or experience with agile methods
+	- 35% Insufficient training and education
+	- 34% Inconsistent processes and practices across teams
+	- 31% Lack of availability of business, customer or product owner
+	- 30% Pervasiveness of traditional development methods
+	- 24% Fragmented tooling and project-related data or measurements
+	- 21% Minimal collaboration and knowledge sharing
+		- Source: State of Agile, CollabNet VersionOne, 2018
   
 - Project managers can do a lot to further their teams' agile progress—but it helps to have enterprise-wide support. Here are three ways organizations can encourage a culture of agile maturity:
 - 1 Executive Support If C-suite executives attend an agile seminar, they're better poised to become agile advocates for the entire organization, says Rebecca West, PMI-ACP, leader, agile project management office, ShopperTrak, Chicago, Illinois, USA. “The first thing any organization adopting agile needs to do is make sure that upper management understands its benefits,” she says. “Without that top-level support, it's a struggle.”
@@ -201,8 +201,6 @@ Collaborating is used to resolve important conflicts, especially those affecting
 		- 5. Appoint a committee or a mentor to assist in the initial idea presentation to senior management.
 		- 6. Assign a project manager if the idea needs resources, funding or organizational communication.
 		- 7. Track up-to-date KPIs on the program to report successes or issues.
-
-
 
 # 24.04.2024 Project Management: Leadership Skills: Lesson_2
 - **Dreyfus Model**
