@@ -1,7 +1,18 @@
 # Things I Learning
 ---
 # 08.05.2024 Project Management: Conflict Managemnet: Lesson_1
-- 
+- “Conflict is any situation where your concerns or desires differ from another person's" according to Thomas and Kilmann (1974).
+- Terms and Description:
+	- Problem: Any threat to disrupt the project's performance 
+	- Risk: Problem that might occur
+	- Conflict:Problem that represents differing expectations
+	- Dispute:Specific facet of a conflict, symptom of conflict
+	- Issue: Specific question about a problem or conflict
+	- Opportunity: Problem that benefits project
+ - | Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 # 05.05.2024 Project Management: Leadership Skills: Lesson_3
 - Leadership Styles changed based on below factored:
 	- Leader characteristics (attitudes, moods, needs, values,
