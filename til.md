@@ -10,9 +10,9 @@
 	- Issue: Specific question about a problem or conflict
 	- Opportunity: Problem that benefits project
 # Tables
-| Command | Description | 
-| --- | --- |
-| git status | List all new or modified files |
+| Command | Description | Schedule |  Requirements
+| --- | --- | --- | --- |
+| Problem | resource unavailability | work behind schedule |  inaccurate requirements
 | git diff | Show file differences that haven't been staged |
 # 05.05.2024 Project Management: Leadership Skills: Lesson_3
 - Leadership Styles changed based on below factored:
