@@ -148,7 +148,60 @@ Collaborating is used to resolve important conflicts, especially those affecting
  	- Empower the team
   	- Build integrity in
   	- Optimize the whole
-- 
+- S word and aligning on Project Goals ---> **Strategic**
+- **Techniques for Managing Dispersed Teams**
+- Here is a brief overview of some of the key considerations necessary to ensure collaborative work environments when a team is geographically distributed.
+  
+- When team members are dispersed, without some means of bridging the gap, there is a greater chance of miscommunication, perception-driven conflicts, information siloes, and other issues that result when we lose the benefits of seeing body language and hearing the tone of communication. Time zone differences can further create challenges as team members might have to resort to e-mailing documents back and forth.
+
+- There are several technology tools, communication techniques, and virtual workspaces that can help teams bridge the virtual gap. Video conferences and shared collaboration tools can help address the first challenge of lack of body language and tone. Online information repositories (e.g. **Wikis**) and persistent chat platforms (e.g. **Slack**, **MS Teams**) can overcome the challenge of working asynchronously.
+
+- One thing that can positively contribute to a virtual workspace is a “**fishbowl window**,” which is a persistent video link between dispersed and distributed team members. Unlike a traditional video conference, which is used for timeboxed meetings, a fishbowl window provides an opportunity for remote team members to participate informally in discussions throughout the day, which increases the opportunity for osmotic learning.
+
+- **Remote pairing** is also a technique that can influence a virtual workspace in a positive manner. Remote pairing is a type of non-solo work (e.g. pair programming) that is enabled using 1:1 collaboration tools. To maximize effectiveness, there should be a collaborative platform such as a shared whiteboard or document combined with real-time audio/video. Ideally, both participants are within near time zones so that neither party is inconvenienced by having to work too early or too late in the day.
+
+- **A fool with a tool is just a more efficient fool**. Providing collaboration tools to teams but not training them on their usage or helping them define appropriate rules for their usage is a recipe for disaster.
+
+- Today's teams are formed around a fundamental understanding: Change happens through projects. Organizations are undergoing a paradigm shift in which projects are no longer adjacent to operations but instead the driving force behind how work is done. The project portfolio drives disruption, innovation and expansion. And those projects are led by teams comprised of people with a variety of titles, tapping into a variety of approaches to deliver financial and societal value.
+- This is The Project Economy—and it's the next generation of teams that will determine how well organizations perform.
+- “When you're dealing with big corporations with rigid structures, the challenge is how to scale small, dynamic agile teams up into the mainstream,” says David Marsh, PhD, director, UK Ministry of Defence, London, England.
+
+- According to the 12th annual State of Agile survey published by CollabNet VersionOne, 41 percent of organizations cite a lack of skills or experience with agile approaches as a major barrier. It's up to project managers to determine how to bridge the gap for teams that are agile-deficient or agile-resistant. Whether these gaps are caused by a lack of knowledge, an indifference to new approaches or a philosophical opposition, getting team members up to speed on agile approaches takes proactive and persistent engagement from start to finish.
+
+- “Resistance stems from two things: One is a general resistance to change; the other is people's doubts about the benefits of agile when the methodologies they already follow work for them,” Mr. Gunatilaka says.
+
+- Agile Obstacles
+- The top challenges organizations cite for adopting and scaling agile:
+
+- 53% Organizational culture at odds with agile values
+- 46% General organization resistant to change
+- 42% Inadequate management support and sponsorship
+- 41% Lack of skills or experience with agile methods
+- 35% Insufficient training and education
+- 34% Inconsistent processes and practices across teams
+- 31% Lack of availability of business, customer or product owner
+- 30% Pervasiveness of traditional development methods
+- 24% Fragmented tooling and project-related data or measurements
+- 21% Minimal collaboration and knowledge sharing
+- Source: State of Agile, CollabNet VersionOne, 2018
+  
+- Project managers can do a lot to further their teams' agile progress—but it helps to have enterprise-wide support. Here are three ways organizations can encourage a culture of agile maturity:
+- 1 Executive Support If C-suite executives attend an agile seminar, they're better poised to become agile advocates for the entire organization, says Rebecca West, PMI-ACP, leader, agile project management office, ShopperTrak, Chicago, Illinois, USA. “The first thing any organization adopting agile needs to do is make sure that upper management understands its benefits,” she says. “Without that top-level support, it's a struggle.”
+
+- 2 Build a Network Organizations can establish communities that accelerate and sustain an agile culture across the enterprise. For example, developing online discussion boards or blogs can help celebrate agile achievements and promote growth. “That creates momentum around agile,” says Giorgio Lippolis, PMI-ACP, PMP, development team lead, Gallagher, London, England.
+
+- 3 Require Leadership Organizations can help develop agile leaders—and encourage them to groom the next generation of internal agile champions. At Vauban IT Romania, the human resources department makes agile mentorship a necessary step for job progression, says Daniela Chiricioaia, PMI-ACP, PMP, senior project manager at the software development company. “That motivates project managers because they know that in order to advance, they have to share their knowledge of agile with others,” she says.
+
+- IMPLEMENTING A CAMPAIGN
+	- Here are tips I recommend for other organizations looking to get employee innovation campaigns started:
+		- 1. Kick off with an emphasis on a safe and encouraging workplace. An environment that embraces failure will also encourage valuable ideas. People need to know that they have a team behind them to support the experimentation.
+		- 2. Provide a portal for submitting ideas and for giving timely recognition and updates.
+		- 3. Create a form or checklist with open-ended questions to help innovators think outside the box.
+		- 4. Have a review board or program office to provide feedback and positive reinforcement.
+		- 5. Appoint a committee or a mentor to assist in the initial idea presentation to senior management.
+		- 6. Assign a project manager if the idea needs resources, funding or organizational communication.
+		- 7. Track up-to-date KPIs on the program to report successes or issues.
+
 
 
 # 24.04.2024 Project Management: Leadership Skills: Lesson_2
