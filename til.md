@@ -10,10 +10,10 @@
 	- Issue: Specific question about a problem or conflict
 	- Opportunity: Problem that benefits project
 # Tables
-- [At] | Command | Description |
-- | --- | --- |
-- | git status | List all new or modified files |
-- | git diff | Show file differences that haven't been staged |
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 # 05.05.2024 Project Management: Leadership Skills: Lesson_3
 - Leadership Styles changed based on below factored:
 	- Leader characteristics (attitudes, moods, needs, values,
