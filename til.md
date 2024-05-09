@@ -1,5 +1,10 @@
 # Things I Learning
 ---
+# 09.05.2024 Project Management: People : Lesson_1
+- 
+
+
+
 # 09.05.2024 Project Management: Conflict Managemnet: Lesson_1
 - **Causes of Conflict**
 - Conflict occurs when actions and expectations differ. Actions result from a combination of:
@@ -81,11 +86,6 @@ Collaborating is used to resolve important conflicts, especially those affecting
 	- Support of a sponsor at a level higher than that of the participants
 	- A visible set of conflict resolution rules to which all participants agree and comply in every encounter
 	- A project progress chart of conflicts encountered, the outcomes of the resolution, and group improvement
-
-
-
-
-
 
 # 08.05.2024 Project Management: Conflict Managemnet: Lesson_1
 - “Conflict is any situation where your concerns or desires differ from another person's" according to Thomas and Kilmann (1974).
