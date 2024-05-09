@@ -31,15 +31,15 @@
 		- Trust—the quality of personal/group relationships
 		- Expectations—what people/groups believe they deserve.
 - **The Conflict Management Process**
-- Prepare for Conflict: The first step in preparing for conflict is to identify the key players in the project whose expectations or concerns may differ from those of other key players. The next step is to identify the catalysts and depth of their differing expectations and concerns. Every issue uncovered that could have consequential effects on the project must be researched and understood.
+	- Prepare for Conflict: The first step in preparing for conflict is to identify the key players in the project whose expectations or concerns may differ from those of other key players. The next step is to identify the catalysts and depth of their differing expectations and concerns. Every issue uncovered that could have consequential effects on the project must be researched and understood.
 
-- Mitigate Hostilities: Ultimately, if a conflict is inevitable, the time and place for resolving it must be agreed upon mutually. The earlier a conflict is addressed, the less likely it is to grow to a level of damaging hostility. Throughout this process, the overall goals of the project may need to be continually reconfirmed.
+	- Mitigate Hostilities: Ultimately, if a conflict is inevitable, the time and place for resolving it must be agreed upon mutually. The earlier a conflict is addressed, the less likely it is to grow to a level of damaging hostility. Throughout this process, the overall goals of the project may need to be continually reconfirmed.
 
-- Select Conflict Resolution Methods: There are five different modes of conflict resolution, as described later in this lesson. Choosing the appropriate mode should not be one-sided. All the key participants need to the involved in recognizing their automatic response to conflict and selecting the resolution method that will benefit the project and the participants' relationships most.
+	- Select Conflict Resolution Methods: There are five different modes of conflict resolution, as described later in this lesson. Choosing the appropriate mode should not be one-sided. All the key participants need to the involved in recognizing their automatic response to conflict and selecting the resolution method that will benefit the project and the participants' relationships most.
 
-- Follow Through: Like any other project management practice, planning and preparation are not enough. Successful conflict management requires the full participation of all the key players. Everyone involved must be motivated to share the responsibility for managing their conflicts. The actions needed for ongoing conflict management must be monitored and evaluated. The outcomes and shortcomings of the conflict resolution process must also be assessed.
+	- Follow Through: Like any other project management practice, planning and preparation are not enough. Successful conflict management requires the full participation of all the key players. Everyone involved must be motivated to share the responsibility for managing their conflicts. The actions needed for ongoing conflict management must be monitored and evaluated. The outcomes and shortcomings of the conflict resolution process must also be assessed.
 
-- Be Flixable: The complexity and long-range effects of project conflicts mean that conflict rarely can be rigidly controlled. Although planning for managing conflict is crucial, it must be flexible enough to adjust to changing perceptions and relationships throughout the conflict's life cycle.
+	- Be Flixable: The complexity and long-range effects of project conflicts mean that conflict rarely can be rigidly controlled. Although planning for managing conflict is crucial, it must be flexible enough to adjust to changing perceptions and relationships throughout the conflict's life cycle.
 
 
 
