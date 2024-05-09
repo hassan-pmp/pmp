@@ -41,9 +41,46 @@
 
 	- Be Flixable: The complexity and long-range effects of project conflicts mean that conflict rarely can be rigidly controlled. Although planning for managing conflict is crucial, it must be flexible enough to adjust to changing perceptions and relationships throughout the conflict's life cycle.
 
+- **Modes of Conflict Resolution**
+- Thomas-Kilmann's Modes of Conflict Resolution model was designed to increase understanding of how an individual responds to a conflict. The model was developed in the mid-1970s and is still used today to generate an appropriate response to conflict. The five modes are competing, accommodating, compromising, collaborating, and avoiding. Each involves a level of assertiveness-interest in satisfying one's desires-and an independent level of cooperativeness-interest in satisfying the desires of others.
 
+- **Competing = win/lose (high assertiveness, low cooperativeness)**
+- Competing is used when quick action is required or when unpopular decisions involving vital issues require clear resolution. Aggression by the other party may also warrant a competitive response. However, competing is often viewed as a non-cooperative approach that can undermine the other party's trust.
 
+- **Accommodating = lose/win (low assertiveness, high cooperativeness)**
+- Accommodating is used to create goodwill and keep the peace, especially when dealing with a new and unfamiliar area of conflict. Like competing and avoiding, accommodating may be used for conflicts of low importance to save time. However, accommodating is often interpreted as a retreat rather than an overt strategy.
 
+- **Avoiding = lose/lose (low assertiveness, low cooperativeness)**
+- Avoiding allows time for tensions to ease and buys time for preparing a better strategy. Like competing and accommodating, avoiding may be used for conflicts of low importance to save time, especially for handling bigger issues. However, avoiding is often perceived as arrogance or fear, i.e., either the party does not think the conflict is worth their time and trouble or wants to avoid an inevitable loss. Avoiding conflict resolution does not mean that you always avoid responsibility. In fact, you may end up with excessive responsibility and no authority.
+
+- **Compromising = moderate lose/moderate lose (medium assertiveness, medium cooperativeness)**
+Compromising is used when the conflict is important enough to spend the time needed to reach an agreement through negotiation. If the parties are not evenly matched in power and skill, compromising can revert to competing and accommodating. Most compromised solutions are temporary, unlike collaborative solutions. However, compromising typically requires less time than collaborating.
+
+- **Collaborating = win/win (high assertiveness, high cooperativeness)**
+Collaborating is used to resolve important conflicts, especially those affecting relationships between groups. The predominant activities in collaborating are integrating solutions, matching perspectives, gaining commitments, and learning more about the other parties and the conflict itself.
+
+- If used inappropriately, any of these modes will eventually cause increased conflict. No matter what mode you end up using, be sure to summarize the agreements reached and check with everyone before separating. 
+
+- **The major tasks for collaboration to succeed are**:
+	- Getting participation from the right representatives for all affected parties
+	- Establishing a set of desirable outcomes and long-term intermediation
+	- Reaffirming the power inherent in working together in good relationships
+	- Reaffirming the potential benefits of conflicts as catalysts to develop better products and achieve higher performance
+	- Neutralizing attempts at avoidance, accommodation, or competition
+	- Focusing on commitments to action and follow-through, rather than dwelling on past injuries
+- Although project managers are in the best position to facilitate successful collaboration, several barriers often prevent them from succeeding:
+	- Reticence in the face of conflict is common in managers coming from occupations with low communication requirements.
+	- Affiliation of the project manager with their primary group can bias the project manager's approach and alienate other parties.
+	- Playing a more unbiased role and entertaining the views of others can make the project manager appear to betray their primary group.
+	- The threat of being out-maneuvered by better negotiators, or those with higher authority, can discourage the project manager.
+	- A fixation on revenge by any party may outweigh their interest in a continuing relationship.
+	- The widespread effect of any culture change can put an unwelcome spotlight on the project manager.
+- To be able to overcome these barriers, the project manager can use any or all of the following aids:
+	- Training and practice in conflict resolution and mediation methods
+	- The assistance of a trained mediator or facilitator
+	- Support of a sponsor at a level higher than that of the participants
+	- A visible set of conflict resolution rules to which all participants agree and comply in every encounter
+	- A project progress chart of conflicts encountered, the outcomes of the resolution, and group improvement
 
 
 
