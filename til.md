@@ -158,7 +158,8 @@ Collaborating is used to resolve important conflicts, especially those affecting
 - There are several technology tools, communication techniques, and virtual workspaces that can help teams bridge the virtual gap. Video conferences and shared collaboration tools can help address the first challenge of lack of body language and tone. Online information repositories (e.g. **Wikis**) and persistent chat platforms (e.g. **Slack**, **MS Teams**) can overcome the challenge of working asynchronously.
 
 - One thing that can positively contribute to a virtual workspace is a “**fishbowl window**,” which is a persistent video link between dispersed and distributed team members. Unlike a traditional video conference, which is used for timeboxed meetings, a fishbowl window provides an opportunity for remote team members to participate informally in discussions throughout the day, which increases the opportunity for osmotic learning.
-
+- **Fishbowl Window**: A type of virtual workspace where videoconferencing services are made available at every location where virtual team members reside. Team members log in at the beginning of the day and use the virtual workspace to enhance communications among the team.
+- 
 - **Remote pairing** is also a technique that can influence a virtual workspace in a positive manner. Remote pairing is a type of non-solo work (e.g. pair programming) that is enabled using 1:1 collaboration tools. To maximize effectiveness, there should be a collaborative platform such as a shared whiteboard or document combined with real-time audio/video. Ideally, both participants are within near time zones so that neither party is inconvenienced by having to work too early or too late in the day.
 
 - **A fool with a tool is just a more efficient fool**. Providing collaboration tools to teams but not training them on their usage or helping them define appropriate rules for their usage is a recipe for disaster.
