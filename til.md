@@ -9,11 +9,15 @@
 	- Dispute:Specific facet of a conflict, symptom of conflict
 	- Issue: Specific question about a problem or conflict
 	- Opportunity: Problem that benefits project
-# Tables
+# Conflict
 | Command | Description | Schedule |  Requirements
 | --- | --- | --- | --- |
-| Problem | resource unavailability | work behind schedule |  inaccurate requirements
-| git diff | Show file differences that haven't been staged |
+| Problem | resource unavailability | work behind schedule | inaccurate requirements |
+| Risk | future resource unavailability | future work slippage | future requirements disputes |
+| Conflict | limited, shared functional resources | late deliverables | customers' disagreement |
+| Dispute | unavailable design engineer	| delay of a dependent task | disagreement on pavement depth |
+| Issue | resource request | rebaseline request | pavement standards clarification |
+| Opportunity | resource replacement | task elimination | reduced requirements |
 # 05.05.2024 Project Management: Leadership Skills: Lesson_3
 - Leadership Styles changed based on below factored:
 	- Leader characteristics (attitudes, moods, needs, values,
