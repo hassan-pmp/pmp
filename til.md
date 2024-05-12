@@ -1,9 +1,22 @@
 # Things I Learning
 ---
 # 09.05.2024 Project Management: People : Lesson_1
-- 
-
-
+- Sources of Conflict:
+	- Schedules
+	- Project priorities
+	- Resources
+	- Technical opinions
+	- Administrative
+	- procedures
+	- Cost
+	- Personality
+- Conflict Model
+▶Confronting problem solving
+▶Collaborating
+▶Compromising/reconcile
+▶Smoothing accommodating
+▶Forcing/ direct
+▶Withdrawal avoiding
 
 # 09.05.2024 Project Management: Conflict Managemnet: Lesson_1
 - **Causes of Conflict**
