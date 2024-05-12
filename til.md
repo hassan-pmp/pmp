@@ -1,6 +1,6 @@
 # Things I Learning
 ---
-# 09.05.2024 Project Management: People : Lesson_1
+# 12.05.2024 Project Management: People : Lesson_1
 - Sources of Conflict:
 	- Schedules
 	- Project priorities
@@ -11,10 +11,10 @@
 	- Cost
 	- Personality
 - Conflict Model
-▶Confronting problem solving: 
+1 ▶Confronting problem solving: 
 
 - Incorporating multiple viewpoints and insights from differing perspectives; requires a cooperative attitude and open dialogue that typically leads to consensus and commitment.
-- This approach can result in a win win situation.
+- This approach can result in a win-win situation.
 
 ▶Collaborating: 
 
@@ -35,7 +35,7 @@
 ▶Withdrawal avoiding: 
 
 - postponing the issue to be better prepared or to be resolved by others.
-
+- 
 # 09.05.2024 Project Management: Conflict Managemnet: Lesson_1
 - **Causes of Conflict**
 - Conflict occurs when actions and expectations differ. Actions result from a combination of:
