@@ -13,17 +13,21 @@
 - Conflict Model
 ▶Confronting problem solving: 
 
-▶Collaborating: 
 - Incorporating multiple viewpoints and insights from differing perspectives; requires a cooperative attitude and open dialogue that typically leads to consensus and commitment.
 - This approach can result in a win win situation.
 
+
+▶Collaborating: 
+
 ▶Compromising/reconcile: 
+
 - Searching for solutions that bring some degree of satisfaction to all parties in order to temporarily or partially resolve the conflict.
 - This approach occasionally results in a lose lose situation
 
 ▶Smoothing accommodating: Emphasizing areas of agreement rather than areas of difference.
 
 ▶Forcing/ direct:
+
 - Pushing one's viewpoint at the expense of others; offering only win lose solutions, usually enforced through a power position to resolve an emergency.
 - This approach often results to a win lose situation.
 
