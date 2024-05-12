@@ -28,15 +28,14 @@
 
 - Emphasizing areas of agreement rather than areas of difference.
 
+▶4-Withdrawal avoiding: 
+
+- postponing the issue to be better prepared or to be resolved by others.
+
 ▶5-Forcing/ direct:
 
 - Pushing one's viewpoint at the expense of others; offering only win lose solutions, usually enforced through a power position to resolve an emergency.
 - This approach often results to a win lose situation.
-
-▶4-Withdrawal avoiding: 
-
-- postponing the issue to be better prepared or to be resolved by others.
-- 
 # 09.05.2024 Project Management: Conflict Managemnet: Lesson_1
 - **Causes of Conflict**
 - Conflict occurs when actions and expectations differ. Actions result from a combination of:
