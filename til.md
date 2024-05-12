@@ -12,7 +12,7 @@
 	- Personality
 - Conflict Model
   
-1 ▶Confronting problem solving: 
+1 ▶1-Confronting problem solving: 
 
 - Incorporating multiple viewpoints and insights from differing perspectives; requires a cooperative attitude and open dialogue that typically leads to consensus and commitment.
 - This approach can result in a win-win situation.
