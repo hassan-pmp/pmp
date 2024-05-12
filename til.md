@@ -12,10 +12,15 @@
 	- Personality
 - Conflict Model
 ▶Confronting problem solving
+
 ▶Collaborating
+
 ▶Compromising/reconcile
+
 ▶Smoothing accommodating
+
 ▶Forcing/ direct
+
 ▶Withdrawal avoiding
 
 # 09.05.2024 Project Management: Conflict Managemnet: Lesson_1
