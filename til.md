@@ -36,6 +36,20 @@
 
 - Pushing one's viewpoint at the expense of others; offering only win lose solutions, usually enforced through a power position to resolve an emergency.
 - This approach often results to a win lose situation.
+
+- **Powers of Project Manager**
+	- Formal / Legitimate: This power is based on your position.
+	- Reward: This power stems from giving rewards.
+	- Penalty / Coercive: This power comes from the ability to penalize team members.
+	- Expert:
+		- People on the team defer to you or seek solutions from you because of your
+		expertise.
+		- Expert power is always earned and never assigned.
+	- Referent: This power addresses the charisma, personality, and leadership qualities of the project manager.
+- 
+
+
+
 # 09.05.2024 Project Management: Conflict Managemnet: Lesson_1
 - **Causes of Conflict**
 - Conflict occurs when actions and expectations differ. Actions result from a combination of:
