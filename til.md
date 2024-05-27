@@ -18,6 +18,7 @@
 - A **function point** is an estimateof the amountof business functionality in an informationsystem. Function points are used to calculatea functional size measurement (FSM) of a softwaresystem
 - **Wideband Delphi** is a variation of the Delphi estimating method where SMEscomplete multipleroundsof producing estimatesindividually, with a project team discussion after each round, until a consensusis achieved. For Wideband Delphi, those who created the highestand lowestestimates explaintheir rationale, following which everyonereestimates. The process repeats until convergenceis achieved. Planningpokeris a variation of Wideband Delphi.
 - **Estimating**
+  
 	▶ Analogous Estimation:
 
 	▶ Parametric Estimation:
@@ -25,9 +26,19 @@
 	▶ Bottom-up Estimation:
 
 	▶ Three Point Estimation:
-- 
 
+- **Triangular distribution** is used when there is insufficient historical data or when using judgmental data.
+- Three-Point Estimating
+	- Most likely (tM)
+	- Optimistic (tO)
+	- Pessimistic (tP)
+- Triangular Distribution
+  
+▶ (O + M + P) / 3
 
+- Beta Distribution (PERT)
+  
+▶ (O + 4M + P ) / 6
 
 - **Conflict Model**
   
