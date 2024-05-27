@@ -1,6 +1,6 @@
 # Things I Learning
 ---
-# 12.05.2024 Project Management: People : Lesson_1
+# 27.05.2024 Project Management: People : Lesson_1
 - Sources of Conflict:
 	- Schedules
 	- Project priorities
@@ -13,6 +13,19 @@
  -  Listening ctively involves acknowledging, clarifying and confirming, understanding, and removing barriers that adversely affect comprehension.
 
  - The project manager also needs to be aware of Student-Syndrome—or procrastination—when eople start to apply themselves only at the last possible moment before the deadline, and Parkinson’s Law where work expands to fill the time available for its completion.
+
+- **Affinity grouping** involves classifyingitems intosimilarcategoriesor collections on the basis of their likeness. Common affinity groupings include T-shirtsizing and Fibonaccinumbers.
+- A **function point** is an estimateof the amountof business functionality in an informationsystem. Function points are used to calculatea functional size measurement (FSM) of a softwaresystem
+- **Wideband Delphi** is a variation of the Delphi estimating method where SMEscomplete multipleroundsof producing estimatesindividually, with a project team discussion after each round, until a consensusis achieved. For Wideband Delphi, those who created the highestand lowestestimates explaintheir rationale, following which everyonereestimates. The process repeats until convergenceis achieved. Planningpokeris a variation of Wideband Delphi.
+- **Estimating**
+	▶ Analogous Estimation:
+	▶ Parametric Estimation:
+	▶ Bottom-up Estimation:
+	▶ Three Point Estimation:
+- 
+
+
+
 - **Conflict Model**
   
 ▶1- Confronting problem solving: 
