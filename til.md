@@ -10,6 +10,9 @@
 	- procedures
 	- Cost
 	- Personality
+ -  Listening ctively involves acknowledging, clarifying and confirming, understanding, and removing barriers that adversely affect comprehension.
+
+ - The project manager also needs to be aware of Student-Syndrome—or procrastination—when eople start to apply themselves only at the last possible moment before the deadline, and Parkinson’s Law where work expands to fill the time available for its completion.
 - **Conflict Model**
   
 ▶1- Confronting problem solving: 
