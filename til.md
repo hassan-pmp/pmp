@@ -1,5 +1,8 @@
 # Things I Learning
 ---
+# 28.05.2024 Project Management: People : Lesson_2
+- Prioritization schema are methods used to prioritize portfolio, program, or projectcomponents, as well as requirements, risks, features, or other product information. Examplesinclude a multi criteria weighted analysis and the **MoSCoW**(must have, should have, could have, and won’t have) method. 
+
 # 27.05.2024 Project Management: People : Lesson_1
 - **Sources of Conflict**:
 	- Schedules
