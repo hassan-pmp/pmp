@@ -1,7 +1,7 @@
 # Things I Learning
 ---
 # 27.05.2024 Project Management: People : Lesson_1
-- Sources of Conflict:
+- **Sources of Conflict**:
 	- Schedules
 	- Project priorities
 	- Resources
@@ -19,8 +19,11 @@
 - **Wideband Delphi** is a variation of the Delphi estimating method where SMEscomplete multipleroundsof producing estimatesindividually, with a project team discussion after each round, until a consensusis achieved. For Wideband Delphi, those who created the highestand lowestestimates explaintheir rationale, following which everyonereestimates. The process repeats until convergenceis achieved. Planningpokeris a variation of Wideband Delphi.
 - **Estimating**
 	▶ Analogous Estimation:
+
 	▶ Parametric Estimation:
+
 	▶ Bottom-up Estimation:
+
 	▶ Three Point Estimation:
 - 
 
