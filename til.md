@@ -7,6 +7,7 @@
    
  		- Planning begins with understanding the business case , stakeholder requirements , and the project and product scope.
    		- **_Product scope_** is the features and functions that characterize a product , service, or result.
+       
      		- **_Project scope_** is the work performed to deliver a product, service, or result with the specified features and functions 
 	- Estimating
 	- Schedules
