@@ -16,10 +16,8 @@
 | The work needed to create product of the project | Features and functions of the product of the project |
 | Completion of a project is measured against the plan | Completion of product scope is measured against the requirements |	
 
-
-
-- Estimating
-- Schedules
+	- Estimating
+	- Schedules
 - Budget 
 # 27.05.2024 Project Management: People : Lesson_1
 - **Sources of Conflict**:
