@@ -3,7 +3,7 @@
 # 28.05.2024 Project Management: People : Lesson_2
 - Prioritization schema are methods used to prioritize portfolio, program, or projectcomponents, as well as requirements, risks, features, or other product information. Examplesinclude a multi criteria weighted analysis and the **MoSCoW**(must have, should have, could have, and won’t have) method. 
 - **PLANNING VARIABLES**:
-- Delivery
+- **Delivery**
    
  	- Planning begins with understanding the business case , stakeholder requirements , and the project and product scope.
    	- **_Product scope_** is the features and functions that characterize a product , service, or result.
@@ -16,9 +16,9 @@
 | The work needed to create product of the project | Features and functions of the product of the project |
 | Completion of a project is measured against the plan | Completion of product scope is measured against the requirements |	
 
-- Estimating
-- Schedules
-- Budget 
+- **Estimating**
+- **Schedules**
+- **Budget** 
 # 27.05.2024 Project Management: People : Lesson_1
 - **Sources of Conflict**:
 	- Schedules
