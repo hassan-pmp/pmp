@@ -18,9 +18,9 @@
 
 
 
-	- Estimating
-	- Schedules
-	- Budget 
+- Estimating
+- Schedules
+- Budget 
 # 27.05.2024 Project Management: People : Lesson_1
 - **Sources of Conflict**:
 	- Schedules
