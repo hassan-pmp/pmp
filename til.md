@@ -10,7 +10,7 @@
        
      	- **_Project scope_** is the work performed to deliver a product, service, or result with the specified features and functions.
 
-# Terms and Description:
+# PLANNING VARIABLES 1 .Delivery:
 | Project Scope | Product Scope |
 | --- | --- |
 | The work needed to create product of the project | Features and functions of the product of the project |
