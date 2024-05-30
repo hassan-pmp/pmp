@@ -40,6 +40,22 @@
 - Accuracy refers to the correctness
 - Precision refers to the degree of exactness For example, an estimate of 2 days is more precise than sometime this week.
 
+- Schedule
+	- Predictive:
+		- Step 1. Decompose the project scope into specific activities
+		- Step 2. Sequence related activities
+		- Step 3. Estimate the effort, duration, people, and physical resources
+		- Step 4. Allocate people and resources to the activities based on availability
+		- Step 5. Adjust the sequence, estimates, and resources until an agreed-upon schedule
+-  
+
+
+
+
+
+
+
+
 # 28.05.2024 Project Management: People : Lesson_2
 - Prioritization schema are methods used to prioritize portfolio, program, or projectcomponents, as well as requirements, risks, features, or other product information. Examplesinclude a multi criteria weighted analysis and the **MoSCoW**(must have, should have, could have, and won’t have) method. 
 - **PLANNING VARIABLES**:
