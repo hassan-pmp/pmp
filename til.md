@@ -19,10 +19,10 @@
 - Collect Requirements is The process of determining, documenting, and managing stakeholder needs and requirements to meet project objectives
 - The key benefit of this process is that it provides the basis for defining the product scope and project scope This process is performed once or at predefined points in the project.
 - Collect requirements
-- Facilitation:
-- Manufacturing industry, quality function deployment (QFD) is another example of a facilitated workshop technique that helps determine critical characteristics for new product development
-• QFD starts by collecting customer needs , also known as voice of the customer (VOC).
-• Needs are then objectively sorted and prioritized, and goals are set for achieving them
+	- Facilitation:
+		- Manufacturing industry, quality function deployment (QFD) is another example of a facilitated workshop technique that helps determine critical characteristics for new product development
+		- QFD starts by collecting customer needs , also known as voice of the customer (VOC).
+		- Needs are then objectively sorted and prioritized, and goals are set for achieving them
 
 
 
