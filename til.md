@@ -32,8 +32,13 @@
 - Some levels will be broken down to further than others.
 - WBS includes only deliverables that are really needed.
 
+- Rough order of magnitude (ROM) estimate in **initiating** and in the range of 25% to 75%.
+- **Budget** estimating, at beginning of **planning**, 10% to 25%.
+- Later in the project, as more information is known, definitive estimates could narrow the range of accuracy to 5% to 10%.
 
-
+- The accuracy of a project estimate will increase as the project progresses through the project life cycle.
+- Accuracy refers to the correctness
+- Precision refers to the degree of exactness For example, an estimate of 2 days is more precise than sometime this week.
 
 # 28.05.2024 Project Management: People : Lesson_2
 - Prioritization schema are methods used to prioritize portfolio, program, or projectcomponents, as well as requirements, risks, features, or other product information. Examplesinclude a multi criteria weighted analysis and the **MoSCoW**(must have, should have, could have, and won’t have) method. 
