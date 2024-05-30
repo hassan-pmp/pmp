@@ -23,8 +23,13 @@
 		- Manufacturing industry, quality function deployment (QFD) is another example of a facilitated workshop technique that helps determine critical characteristics for new product development
 		- QFD starts by collecting customer needs , also known as voice of the customer (VOC).
 		- Needs are then objectively sorted and prioritized, and goals are set for achieving them
-
-
+- **Scope Basline** is including:
+	- Project Scope Statement
+	- WBS
+	- Work Package
+	- Planning Package
+	- WBS Dictionary 
+- 
 
 
 
