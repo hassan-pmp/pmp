@@ -1,5 +1,35 @@
 # Things I Learning
 ---
+# 30.05.2024 Project Management: People : Lesson_3
+- **Plan Scope Management**
+- The process of creating a scope management plan that documents how the project scope will be defined validated and controlled.
+- The key benefit: providing guidance and direction on how scope will be managed throughout the project.
+- The components of a scope management plan include:
+	- Process for preparing a **Project Scope Statement** (PSS),
+	- Process that enables the creation of the **WBS** from the detailed project scope statement,
+	- Process that establishes how the **Scope Baseline** will be approved and maintained
+	- Process that specifies how **formal acceptance** of the completed project deliverables will be obtained
+- **Requirements Management Plan**
+- Components of the Requirements Management Plan can include but are not limited to:
+	 - How requirements activities will be **planned**, **tracked** and **reported**,
+	 - Configuration management activities such as how **changes** will be initiated how **impacts** will be analyzed how they will be **traced**, **tracked** and **reported** as well as the authorization levels required to approve these changes.
+	- Requirements **prioritization** process,
+	- Metrics that will be used and the rationale for using them,
+	- Traceability structure that reflects the requirement attributes captured on the **traceability matrix**.
+- Collect Requirements is The process of determining, documenting, and managing stakeholder needs and requirements to meet project objectives
+- The key benefit of this process is that it provides the basis for defining the product scope and project scope This process is performed once or at predefined points in the project.
+- Collect requirements
+- Facilitation:
+- Manufacturing industry, quality function deployment (QFD) is another example of a facilitated workshop technique that helps determine critical characteristics for new product development
+• QFD starts by collecting customer needs , also known as voice of the customer (VOC).
+• Needs are then objectively sorted and prioritized, and goals are set for achieving them
+
+
+
+
+
+
+
 # 28.05.2024 Project Management: People : Lesson_2
 - Prioritization schema are methods used to prioritize portfolio, program, or projectcomponents, as well as requirements, risks, features, or other product information. Examplesinclude a multi criteria weighted analysis and the **MoSCoW**(must have, should have, could have, and won’t have) method. 
 - **PLANNING VARIABLES**:
