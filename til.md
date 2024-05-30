@@ -23,14 +23,14 @@
 		- Manufacturing industry, quality function deployment (QFD) is another example of a facilitated workshop technique that helps determine critical characteristics for new product development
 		- QFD starts by collecting customer needs , also known as voice of the customer (VOC).
 		- Needs are then objectively sorted and prioritized, and goals are set for achieving them
-- **Scope Basline** is including:
-	- Project Scope Statement
-	- WBS
-	- Work Package
-	- Planning Package
-	- WBS Dictionary 
-- 
-
+- **Scope Basline** = **Project Scope Statement** + **WBS** + **Work Package** + **Planning Package** + **WBS Dictionary**
+- Work Package: A work package can be used to group the activities where work is scheduled and estimated , monitored , and controlled
+- Decomposition is a technique used for dividing and subdividing the project scope and project deliverables into smaller, more manageable parts
+- Work packages consists of nouns ” instead of actions.
+- WBS is created with the help of the team (Team Buy in)
+- Each level of the WBS is smaller piece of the level above.
+- Some levels will be broken down to further than others.
+- WBS includes only deliverables that are really needed.
 
 
 
