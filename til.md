@@ -1,5 +1,8 @@
 # Things I Learning
 ---
+# 31.05.2024 Project Management: People : Lesson_4
+- 
+
 # 30.05.2024 Project Management: People : Lesson_3
 - **Plan Scope Management**
 - The process of creating a scope management plan that documents how the project scope will be defined validated and controlled.
