@@ -40,22 +40,21 @@
 - Accuracy refers to the correctness
 - Precision refers to the degree of exactness For example, an estimate of 2 days is more precise than sometime this week.
 
-- Schedule
+- **Schedule**
 	- Predictive:
 		- Step 1. Decompose the project scope into specific activities
 		- Step 2. Sequence related activities
 		- Step 3. Estimate the effort, duration, people, and physical resources
 		- Step 4. Allocate people and resources to the activities based on availability
 		- Step 5. Adjust the sequence, estimates, and resources until an agreed-upon schedule
--  
-
-
-
-
-
-
-
-
+-  **Sequence Activities** is the process of identifying and documenting relationships among the project activities.
+-  The key benefit : Defines the logical sequence of work to obtain the greatest efficiency given all project constraints.
+- Every activity except the first and last should be connected to at least one predecessor and at least one successor.
+- **Precedence Diagramming Method (PDM)**
+- PDM is a technique used for constructing a schedule model Activities are represented by nodes
+- The most common method to draw network diagrams.
+- A **predecessor** is an activity that logically comes before a dependent activity in a schedule.
+- A **successor** is a dependent activity that logically comes after another activity in a schedule.
 # 28.05.2024 Project Management: People : Lesson_2
 - Prioritization schema are methods used to prioritize portfolio, program, or projectcomponents, as well as requirements, risks, features, or other product information. Examplesinclude a multi criteria weighted analysis and the **MoSCoW**(must have, should have, could have, and won’t have) method. 
 - **PLANNING VARIABLES**:
