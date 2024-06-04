@@ -1,7 +1,24 @@
 # Things I Learning
 ---
-# 31.05.2024 Project Management: People : Lesson_4
+# 04.06.2024 Project Management: People : Lesson_4
+- SF: A logical relationship in which a successor activity cannot finish until a predecessor activity has started. Start of the new shift of the security guard signal the finish shift of the current security guard.
+- FS: A logical relationship in which a successor activity cannot start until a predecessor activity has finished. Drying the car not start until Car is washed.
+- SS: A logical relationship in which a successor activity cannot start until a predecessor activity has started. Concentrate flooring can not be started until you start mixing concentrate.
+- FF: A logical relationship in which a successor activity cannot finish until a predecessor activity has finished. Broadcasting of a match cannot finish until the match is finished
+- A **Lead** is the amount of time a successor activity can be advanced with respect to a predecessor activity.
+- A **Lag** is the amount of time a successor activity will be delayed with respect to a predecessor activity.
 - 
+
+
+
+
+
+
+
+
+
+
+
 
 # 30.05.2024 Project Management: People : Lesson_3
 - **Plan Scope Management**
