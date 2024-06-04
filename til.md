@@ -7,8 +7,23 @@
 - FF: A logical relationship in which a successor activity cannot finish until a predecessor activity has finished. Broadcasting of a match cannot finish until the match is finished
 - A **Lead** is the amount of time a successor activity can be advanced with respect to a predecessor activity.
 - A **Lag** is the amount of time a successor activity will be delayed with respect to a predecessor activity.
-- 
-
+- **PDM** is graphical representation of the logical relationships, also referred to as dependencies, among the project schedule activities.
+- Activities that have multiple predecessor activities indicate a path convergence.
+- Activities that have multiple successor activities indicate a path divergence.
+- **Law of diminishing returns**: In a production process, as one input variable is increased, there will be a point at which the marginal per unit output will start to decrease.
+- Contingency Reserve --> Known Unknown
+- Management Reserve --> Unknown Unknown (Unforeseen)
+- **Critical Path Method (CPM)**: is a Tools and Technique to reach out to Schedule Baseline.
+- Schedule Network Diagram is an output from Sequence Activity.
+- Sequence of activities that represents the longest path through a project, which determines the shortest possible project duration.
+- The longest path has the least total float usually Zero.
+- Sequence of activities that represents the longest path through a project, which determines the shortest possible project duration.
+- The longest path has the least total float—usually Zero.
+- There can be more than one critical path
+- The critical path can change
+- The critical path has Zero float
+- A path with negative float means you are behind schedule
+- **Total float**: the amount of time that a schedule activity can be delayed or extended from its early start date without delaying the project finish date Float=LS-ES , Float=LF-EF
 
 
 
