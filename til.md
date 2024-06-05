@@ -24,13 +24,19 @@
 - The critical path has Zero float
 - A path with negative float means you are behind schedule
 - **Total float**: the amount of time that a schedule activity can be delayed or extended from its early start date without delaying the project finish date Float=LS-ES , Float=LF-EF
+- **Free Float**: the amount of time that a schedule activity can be delayed without delaying the early start date of any successor or violating a schedule constraint.
+- There can be more than one critical path
+- The critical path can change
+- The critical path has Zero float
+- A path with negative float means you are behind schedule . As the project manager, your job is to compress the schedule and eliminate negative float. Negative total float is caused when a constraint on the late dates is violated by duration and logic.
 
-
-
-
-
-
-
+- **Resource Leveling**:
+	- Can be used when shared or critically required resources are over allocated,
+	- Can often cause the original critical path to change.
+-  **Resource smoothing**: This is about balancing the use of resources throughout the project. Do not use 8 forces one day and 2 forces one day. Move the activities in such a way that the use of energy is almost the same in all days.
+-  **What if scenario analysis**: Process of evaluating scenarios in order to predict their effect, positive or negative, on project objectives. This is an analysis of the question, "Whatif the situation represented by scenario X happens?"
+-  
+ 
 
 
 
