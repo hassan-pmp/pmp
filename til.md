@@ -1,5 +1,23 @@
 # Things I Learning
 ---
+# 14.06.2024 Project Management: People : Lesson_5
+"Project Plan" is a comprehensive document that outlines how a project will be executed, monitored, and controlled. It serves as a roadmap for the project team, providing a detailed description of the objectives, scope, deliverables, timelines, resources, budget, and methodologies involved in the project. Here are the key components typically included in a project plan:
+
+- Project Objectives and Goals: Clear statements defining what the project aims to achieve.
+- Scope Statement: Detailed description of the project’s deliverables, boundaries, and inclusions/exclusions
+- Project Schedule: Timeline with key milestones, deadlines, and phases of the project.
+- Resource Plan: Identification and allocation of resources such as team members, equipment, and materials.
+- Budget Plan: Estimation of costs, including a detailed budget breakdown.
+- Risk Management Plan: Identification of potential risks, along with mitigation strategies and contingency plans.
+- Stakeholder Management Plan: Identification of stakeholders and strategies for effective communication and engagement.
+- Quality Management Plan: Standards and criteria to ensure the project deliverables meet the required quality.
+- Communication Plan: Protocols and methods for internal and external communication throughout the project.
+- Change Management Plan: Procedures for managing changes to the project scope, schedule, or budget.
+- Procurement Plan: Strategies for acquiring necessary services and products from external suppliers.
+- Project Controls: Mechanisms for monitoring, tracking, and reporting project progress and performance.
+
+Breifly, The project plan is a dynamic document that can evolve as the project progresses and more information becomes available. It serves as a critical tool for project managers to ensure that all aspects of the project are aligned and that the team is working toward common objectives.
+
 # 04.06.2024 Project Management: People : Lesson_4
 - SF: A logical relationship in which a successor activity cannot finish until a predecessor activity has started. Start of the new shift of the security guard signal the finish shift of the current security guard.
 - FS: A logical relationship in which a successor activity cannot start until a predecessor activity has finished. Drying the car not start until Car is washed.
