@@ -1,6 +1,6 @@
 # Things I Learning
 ---
-# 23.06.2024 Project Management: Planning: Lesson_1
+# 23.06.2024 Project Management: Planning: Lesson_6
 - Plan schedule management --> Schedule Management Plan contenet --->
 	- How to define Activity Diagram?
 	- How to define the sequences?
@@ -77,7 +77,7 @@ on project objectives.
 
 
 
-# 14.06.2024 Project Management: People : Lesson_5
+# 14.06.2024 Project Management: Planning : Lesson_5
 "Project Plan" is a comprehensive document that outlines how a project will be executed, monitored, and controlled. It serves as a roadmap for the project team, providing a detailed description of the objectives, scope, deliverables, timelines, resources, budget, and methodologies involved in the project. Here are the key components typically included in a project plan:
 - Project Objectives and Goals: Clear statements defining what the project aims to achieve.
 - Scope Statement: Detailed description of the project’s deliverables, boundaries, and inclusions/exclusions
