@@ -57,7 +57,6 @@ Start-to-Start (SS) Definition: The successor activity cannot start until the pr
 | | **User Training Before Final System Deployment**: Conduct user training sessions -> Deploy the final system |
 | | **Prototype Review Before Detailed Design**: Review the prototype with stakeholders -> Develop the detailed design |
 
-
 | Dependency Type | Example Activities|
 | --- | --- |
 | External Dependencies | **Third-Party API Integration**: Implement feature using a third-party API -> Availability and reliability of the third-party API |
@@ -66,9 +65,20 @@ Start-to-Start (SS) Definition: The successor activity cannot start until the pr
 | Internal Dependencies | **Feature Development Sequence**: Develop core authentication module -> Develop user profile management module |
 | | **Code Review Process**: Write new feature code -> Conduct code review |
 | | **Unit Testing and Integration Testing**: Complete unit testing for a module -> Start integration testing |
+
+- A **Lead** is the amount of time a successor activity can be advanced with respect to a predecessor activity.
+- A **Lag** is the amount of time a successor activity will be delayed with respect to a predecessor activity.
+- **Law of ِDiminishing Returns** In a production process, as one input variable is increased, there will be a point at which the marginal per unit output will start to decrease.
+- **Contingency Reserve**: Known - Unknown
+- **Management Reserve**: Unknown- Unknown (Unforeseen Work)
+- **What if scenario analysis** Process of evaluating scenarios in order to predict their effect, positive or negative,
+on project objectives.
+- This is an analysis of the question, What if the situation represented by scenario X happens?
+
+
+
 # 14.06.2024 Project Management: People : Lesson_5
 "Project Plan" is a comprehensive document that outlines how a project will be executed, monitored, and controlled. It serves as a roadmap for the project team, providing a detailed description of the objectives, scope, deliverables, timelines, resources, budget, and methodologies involved in the project. Here are the key components typically included in a project plan:
-
 - Project Objectives and Goals: Clear statements defining what the project aims to achieve.
 - Scope Statement: Detailed description of the project’s deliverables, boundaries, and inclusions/exclusions
 - Project Schedule: Timeline with key milestones, deadlines, and phases of the project.
