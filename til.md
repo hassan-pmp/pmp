@@ -13,7 +13,14 @@
 	- Decompose/decouple then reach to the activity. And then reach out to the **Activties**
  -  Inside the actvity, therer is "**Activity Attributes**" that is containing **details about the activity**.
  -  Then we move on the Sequence Activity ---> Network Diagram between Activities.
- -  
+ -  Predecessor and Successor
+ -  Every activity except the first and last should be connected to at least one predecessor and at least one successor.
+ - Precedence Diagramming Method (PDM): is a technique used for constructing a schedule model Activities are represented by nodes The most common method to draw network diagrams.
+
+
+
+
+
 # 14.06.2024 Project Management: People : Lesson_5
 "Project Plan" is a comprehensive document that outlines how a project will be executed, monitored, and controlled. It serves as a roadmap for the project team, providing a detailed description of the objectives, scope, deliverables, timelines, resources, budget, and methodologies involved in the project. Here are the key components typically included in a project plan:
 
@@ -67,12 +74,6 @@ Breifly, The project plan is a dynamic document that can evolve as the project p
 	- Can often cause the original critical path to change.
 -  **Resource smoothing**: This is about balancing the use of resources throughout the project. Do not use 8 forces one day and 2 forces one day. Move the activities in such a way that the use of energy is almost the same in all days.
 -  **What if scenario analysis**: Process of evaluating scenarios in order to predict their effect, positive or negative, on project objectives. This is an analysis of the question, "Whatif the situation represented by scenario X happens?"
--  
- 
-
-
-
-
 # 30.05.2024 Project Management: People : Lesson_3
 - **Plan Scope Management**
 - The process of creating a scope management plan that documents how the project scope will be defined validated and controlled.
