@@ -44,6 +44,17 @@ Start-to-Start (SS) Definition: The successor activity cannot start until the pr
 | Start-to-Start (SS) | A: Start developing the frontend interface \n B: Start developing the backend API |
 | Finish-to-Finish (SF)	| A: Start deploying the new software version \n B: Finish the old version’s support |
 
+- Examples of **Mandatory Dependencies** and **Discretionary Dependencies**
+- **Mandatory Dependencies**: Definition: These are dependencies that are legally or contractually required or inherent in the nature of the work. They are often referred to as "hard logic" dependencies.
+- **Discretionary Dependencies**: Definition: These are dependencies defined by the project team based on best practices, previous experiences, or preference. They are often referred to as "soft logic" dependencies.
+| Dependency Type | Example Activities|
+| --- | --- |
+| Mandatory Dependencies | Coding Before Testing: Write the code for a feature -> Test the written code |
+| | Database Setup Before Application Deployment: Set up the database schema -> Deploy the application |
+| | Requirements Gathering Before Design: Complete requirements gathering -> Start designing the system |
+| Discretionary Dependencies | Frontend Development Before Backend Development: Start developing the frontend interface -> Start developing the backend API |
+| | User Training Before Final System Deployment: Conduct user training sessions -> Deploy the final system |
+| | Prototype Review Before Detailed Design: Review the prototype with stakeholders -> Develop the detailed design |
 
 
 # 14.06.2024 Project Management: People : Lesson_5
