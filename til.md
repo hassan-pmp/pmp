@@ -1,5 +1,19 @@
 # Things I Learning
 ---
+# 23.06.2024 Project Management: Planning: Lesson_1
+- Plan schedule management --> Schedule Management Plan contenet --->
+	- How to define Activity Diagram?
+	- How to define the swuences?
+	- What are the Units for measurements?
+	- What are the Tools? How to develop our schedule?
+	- How many day? what are the formats reports?
+	- What are the procedures link?
+	- How to control the project?
+- What is the main tools to Define Activity?
+	- Decompose/decouple then reach to the activity. And then reach out to the **Activties**
+ -  Inside the actvity, therer is "**Activity Attributes**" that is containing **details about the activity**.
+ -  Then we move on the Sequence Activity ---> Network Diagram between Activities.
+ -  
 # 14.06.2024 Project Management: People : Lesson_5
 "Project Plan" is a comprehensive document that outlines how a project will be executed, monitored, and controlled. It serves as a roadmap for the project team, providing a detailed description of the objectives, scope, deliverables, timelines, resources, budget, and methodologies involved in the project. Here are the key components typically included in a project plan:
 
