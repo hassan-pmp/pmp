@@ -39,26 +39,33 @@ Start-to-Start (SS) Definition: The successor activity cannot start until the pr
 
 | Dependency Type | Example Activities|
 | --- | --- |
-| Finish-to-Start (FS) | A: Complete requirements gathering \n B: Start designing the system |
-| Finish-to-Finish (FF)	| A: Develop the backend API \n B: Complete integration testing |
-| Start-to-Start (SS) | A: Start developing the frontend interface \n B: Start developing the backend API |
-| Finish-to-Finish (SF)	| A: Start deploying the new software version \n B: Finish the old version’s support |
+| **Finish-to-Start (FS)** | A: Complete requirements gathering \n B: Start designing the system |
+| **Finish-to-Finish (FF)**	| A: Develop the backend API \n B: Complete integration testing |
+| **Start-to-Start (SS)** | A: Start developing the frontend interface \n B: Start developing the backend API |
+| **Finish-to-Finish (SF)**	| A: Start deploying the new software version \n B: Finish the old version’s support |
 
 - Examples of **Mandatory Dependencies** and **Discretionary Dependencies**
 - **Mandatory Dependencies**: Definition: These are dependencies that are legally or contractually required or inherent in the nature of the work. They are often referred to as "hard logic" dependencies.
 - **Discretionary Dependencies**: Definition: These are dependencies defined by the project team based on best practices, previous experiences, or preference. They are often referred to as "soft logic" dependencies.
 
-  
 | Dependency Type | Example Activities|
 | --- | --- |
-| Mandatory Dependencies | Coding Before Testing: Write the code for a feature -> Test the written code |
-| | Database Setup Before Application Deployment: Set up the database schema -> Deploy the application |
-| | Requirements Gathering Before Design: Complete requirements gathering -> Start designing the system |
-| Discretionary Dependencies | Frontend Development Before Backend Development: Start developing the frontend interface -> Start developing the backend API |
-| | User Training Before Final System Deployment: Conduct user training sessions -> Deploy the final system |
-| | Prototype Review Before Detailed Design: Review the prototype with stakeholders -> Develop the detailed design |
+| Mandatory Dependencies | **Coding Before Testing**: Write the code for a feature -> Test the written code |
+| | **Database Setup Before Application Deployment**: Set up the database schema -> Deploy the application |
+| | **Requirements Gathering Before Design**: Complete requirements gathering -> Start designing the system |
+| Discretionary Dependencies | **Frontend Development Before Backend Development**: Start developing the frontend interface -> Start developing the backend API |
+| | **User Training Before Final System Deployment**: Conduct user training sessions -> Deploy the final system |
+| | **Prototype Review Before Detailed Design**: Review the prototype with stakeholders -> Develop the detailed design |
 
 
+| Dependency Type | Example Activities|
+| --- | --- |
+| External Dependencies | **Third-Party API Integration**: Implement feature using a third-party API -> Availability and reliability of the third-party API |
+| | **Compliance Approval**: Release the software -> Approval from regulatory bodies |
+| | **Vendor Deliveries**: Install new hardware for the development environment -> Delivery of hardware by an external vendor |
+| Internal Dependencies | **Feature Development Sequence**: Develop core authentication module -> Develop user profile management module |
+| | **Code Review Process**: Write new feature code -> Conduct code review |
+| | **Unit Testing and Integration Testing**: Complete unit testing for a module -> Start integration testing |
 # 14.06.2024 Project Management: People : Lesson_5
 "Project Plan" is a comprehensive document that outlines how a project will be executed, monitored, and controlled. It serves as a roadmap for the project team, providing a detailed description of the objectives, scope, deliverables, timelines, resources, budget, and methodologies involved in the project. Here are the key components typically included in a project plan:
 
