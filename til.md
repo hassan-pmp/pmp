@@ -36,7 +36,7 @@ Start-to-Start (SS) Definition: The successor activity cannot start until the pr
 	- Activity A: Start deploying the new software version.
 	- Activity B: Finish the old version’s support.
 	- Explanation: The support for the old version cannot finish until the deployment of the new software version has started.
- - # Test:
+
 | Dependency Type | Example Activities|
 | --- | --- |
 | Finish-to-Start (FS) | A: Complete requirements gathering \n B: Start designing the system |
