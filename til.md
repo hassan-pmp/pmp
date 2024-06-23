@@ -16,8 +16,32 @@
  -  Predecessor and Successor
  -  Every activity except the first and last should be connected to at least one predecessor and at least one successor.
  - Precedence Diagramming Method (PDM): is a technique used for constructing a schedule model Activities are represented by nodes The most common method to draw network diagrams.
-
-
+-  Finish-to-Start (FS): Definition: The successor activity cannot start until the predecessor activity has finished.
+- Example:
+	- Activity A: Complete requirements gathering.
+	- Activity B: Start designing the system.
+	- Explanation: You must finish gathering all the requirements before you can start designing the system.
+- Finish-to-Finish (FF) Definition: The successor activity cannot finish until the predecessor activity has finished.
+- Example:
+	- Activity A: Develop the backend API.
+	- Activity B: Complete the integration testing.
+	- Explanation: Integration testing cannot be completed until the development of the backend API is finished.
+Start-to-Start (SS) Definition: The successor activity cannot start until the predecessor activity has started.
+- Example:
+	- Activity A: Start developing the frontend interface.
+	- Activity B: Start developing the backend API.
+	- Explanation: You can start developing the backend API as soon as the development of the frontend interface begins.
+- Start-to-Finish (SF) Definition: The successor activity cannot finish until the predecessor activity has started.
+- Example:
+	- Activity A: Start deploying the new software version.
+	- Activity B: Finish the old version’s support.
+	- Explanation: The support for the old version cannot finish until the deployment of the new software version has started.
+| Dependency Type | Example Activities|
+| --- | --- |
+| Finish-to-Start (FS) | A: Complete requirements gathering \n B: Start designing the system |
+| Finish-to-Finish (FF)	| A: Develop the backend API \n B: Complete integration testing |
+| Start-to-Start (SS) | A: Start developing the frontend interface \n B: Start developing the backend API |
+| Finish-to-Finish (SF)	| A: Start deploying the new software version \n B: Finish the old version’s support |
 
 
 
