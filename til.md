@@ -3,7 +3,7 @@
 # 23.06.2024 Project Management: Planning: Lesson_1
 - Plan schedule management --> Schedule Management Plan contenet --->
 	- How to define Activity Diagram?
-	- How to define the swuences?
+	- How to define the sequences?
 	- What are the Units for measurements?
 	- What are the Tools? How to develop our schedule?
 	- How many day? what are the formats reports?
