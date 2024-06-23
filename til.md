@@ -47,6 +47,8 @@ Start-to-Start (SS) Definition: The successor activity cannot start until the pr
 - Examples of **Mandatory Dependencies** and **Discretionary Dependencies**
 - **Mandatory Dependencies**: Definition: These are dependencies that are legally or contractually required or inherent in the nature of the work. They are often referred to as "hard logic" dependencies.
 - **Discretionary Dependencies**: Definition: These are dependencies defined by the project team based on best practices, previous experiences, or preference. They are often referred to as "soft logic" dependencies.
+
+  
 | Dependency Type | Example Activities|
 | --- | --- |
 | Mandatory Dependencies | Coding Before Testing: Write the code for a feature -> Test the written code |
