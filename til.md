@@ -1,5 +1,25 @@
 # Things I Learning
 ---
+# 26.06.2024 GenAI in Project Management: Intro: Lesson_1
+- How AI can alter how we do our jobs?
+	- Efficiency and speed comes first.
+	- Risk management
+	- The third one is decision making
+ - AI brings speed, efficiency, and data-driven decision making to the table, making it a game changer in project management.
+ -  To leverage that, you need to focus on how your role will be redefined and it will be in four dimensions. Adaptability, soft skills, application of AI, and our capacity to unlearn. in breifly: 
+	 - Dimension is adaptability
+	 - Dimension is soft skills
+	 - The use of AI tools will give you superpowers
+	 - Learning to unlearn
+ -  
+
+
+
+
+
+
+
+
 # 23.06.2024 Project Management: Planning: Lesson_6
 - Plan schedule management --> Schedule Management Plan contenet --->
 	- How to define Activity Diagram?
