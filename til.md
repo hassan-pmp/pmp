@@ -38,21 +38,21 @@
 
 - **Step 3:**
   
-- Project Manager must know:
+	- Project Manager must know:
   
-	- Data source
-   
-	- Data format
-
- 	- Frequency of data updates
-- **Questions:**
-	- What data do I have access to?
-   
-	- What additional data do I need?
-
- 	- What data do I have?
-
-  	- What GenAI model would best suit that data?
+		- Data source
+	   
+		- Data format
+	
+	 	- Frequency of data updates
+	- **Questions:**
+		- What data do I have access to?
+	   
+		- What additional data do I need?
+	
+	 	- What data do I have?
+	
+	  	- What GenAI model would best suit that data?
 
 
 - **Step 4:**
