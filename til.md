@@ -1,5 +1,14 @@
 # Things I Learning
 ---
+# 28.06.2024 GenAI in Project Management: Intro: Lesson_2
+- How to use data and GenAI in Project Management?
+	1- Automation
+	2- Assistance
+	3- Augmentation
+- sculpt your role as project manager in the data landscape and claim your space as an AL enabaler in our organization. 
+
+
+
 # 26.06.2024 GenAI in Project Management: Intro: Lesson_1
 - How AI can alter how we do our jobs?
 	- Efficiency and speed comes first.
