@@ -5,9 +5,68 @@
 - 1. Automation
 - 2. Assistance
 - 3. Augmentation
-- sculpt your role as project manager in the data landscape and claim your space as an AL enabaler in our organization. 
+- Sculpt your role as project manager in the data landscape and claim your space as an AL enabaler in our organization. 
+**Step 1:**
+	- 1. What is the business problem I want to solve?
+	- 2. Can/should my problem be solved using GenAI?
+	- 3. What are the risks, both business risks inherent to the project, and the risks of the deployed model’s existence?
+	- 4. What are the main deliverable?
+	- 5. What are the success metrics and KPIs?
+**- Step 2:**
+- 1. Who should be on my data governance team?
+- 2. What are our data governance policies?
+- 3. Which policies already exist around data usage, accessibility , and quality that align with organizational goals and regulatory requirements? 
+- **Ask your expert:**
+- 1. What are the top-of-mind concerns you have about this project and why?
+- 2. What have we done in the past that similar?
+- 3. What do I need to know that I’m not asking about?
 
+- **Step 3:**
+- Project Manager must know:
+	- Data source 
+	- Data format
+	- Frequency of data updates
+- Questions:
+-1. What data do I have access to?
+-2. What additional data do I need?
+-3. What data do I have?
+-4. What GenAI model would best suit that data?
 
+- **Step 4:**
+- Project Manager must know:
+	- Accurate data
+	- Clean data
+	- Ethically-sourced data 
+- Questions:
+-1. How suitable is the data?
+-2. How clean is the data?
+-3. What data governance areas must be considered?
+- **Step 5:**
+-1. What milestone are we working towards?
+-2. How can we safeguard the data?
+Step 6:
+- 1. Which model or customization methods math the problem and the data?
+- 2. What cost should we consider of those that match?
+- 3. Which of the models are specifically best suited?
+- 4. Which trained models perform best?  
+- 5. How does the model perform against the metrics and KPIs I set in the beginning?
+- 6. What are model implications in regard to governance, fairness, bias, et?
+- 7. Is the model bias?
+- 8. Does it give a marginalized group a disadvantage? 
+- 9. Does the model predict something private?
+- 10. Can the model be revers engineered from input output pairs such that tge output might risk exposing sensitive data?
+- 11. Relationship between Problem, Data and Model’s performance 
+- Benefits could be in terms of efficiency, accuracy, speed, or the ability to perform tasks that human can’t do as effectively. 
+- **Step 7:**
+-1. How can we stay on track and iterate?
+-2. Which metrics will be most effective in understanding the model performance? 
+**Recommendation:**
+	- Think about documentation things such as performance tracking and running A/B tests.
+	- Select a number of metrics to get a comprehensive understanding of your selected model’s performance.
+	- Assess Metrics can be: response time, accuracy, fairness and bias, robustness, resource efficiency, resource efficiency, generalization ability and more. 
+
+- **Step 8:**
+- 1. How can we celebrate current wins?
 
 # 26.06.2024 GenAI in Project Management: Intro: Lesson_1
 - How AI can alter how we do our jobs?
