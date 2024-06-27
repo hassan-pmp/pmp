@@ -71,37 +71,57 @@
 		
 		- What data governance areas must be considered?
 
-- **Step 5:**
-	-1. What milestone are we working towards?
-	-2. How can we safeguard the data?
+**Step 5:**
+
+	- What milestone are we working towards?
+ 
+	- How can we safeguard the data?
 
 
-- **Step 6:**
-- 1. Which model or customization methods math the problem and the data?
-- 2. What cost should we consider of those that match?
-- 3. Which of the models are specifically best suited?
-- 4. Which trained models perform best?  
-- 5. How does the model perform against the metrics and KPIs I set in the beginning?
-- 6. What are model implications in regard to governance, fairness, bias, et?
-- 7. Is the model bias?
-- 8. Does it give a marginalized group a disadvantage? 
-- 9. Does the model predict something private?
-- 10. Can the model be revers engineered from input output pairs such that tge output might risk exposing sensitive data?
-- 11. Relationship between Problem, Data and Model’s performance 
-- Benefits could be in terms of efficiency, accuracy, speed, or the ability to perform tasks that human can’t do as effectively.
+**Step 6:**
+
+	- Which model or customization methods math the problem and the data?
+ 
+	- What cost should we consider of those that match?
+
+ 	- Which of the models are specifically best suited?
+	
+ 	- Which trained models perform best?  
+	
+ 	- How does the model perform against the metrics and KPIs I set in the beginning?
+	
+ 	- What are model implications in regard to governance, fairness, bias, et?
+	
+ 	- Is the model bias?
+	
+ 	- Does it give a marginalized group a disadvantage? 
+	
+ 	- Does the model predict something private?
+	
+ 	- Can the model be revers engineered from input output pairs such that tge output might risk exposing sensitive data?
+  
+	- Relationship between Problem, Data and Model’s performance 
+
+ 	- Benefits could be in terms of efficiency, accuracy, speed, or the ability to perform tasks that human can’t do as effectively.
 
   
-- **Step 7:**
--1. How can we stay on track and iterate?
--2. Which metrics will be most effective in understanding the model performance? 
+**Step 7:**
+
+	- How can we stay on track and iterate?
+ 
+	- Which metrics will be most effective in understanding the model performance? 
+ 
 **Recommendation:**
 	- Think about documentation things such as performance tracking and running A/B tests.
-	- Select a number of metrics to get a comprehensive understanding of your selected model’s performance.
-	- Assess Metrics can be: response time, accuracy, fairness and bias, robustness, resource efficiency, resource efficiency, generalization ability and more. 
+
+ 	- Select a number of metrics to get a comprehensive understanding of your selected model’s performance.
+	
+ 	- Assess Metrics can be: response time, accuracy, fairness and bias, robustness, resource efficiency, resource efficiency, generalization ability and more. 
 
 
-- **Step 8:**
-- 1. How can we celebrate current wins?
+**Step 8:**
+
+- How can we celebrate current wins?
 
 # 26.06.2024 GenAI in Project Management: Intro: Lesson_1
 - How AI can alter how we do our jobs?
