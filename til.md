@@ -8,11 +8,11 @@
 - Sculpt your role as project manager in the data landscape and claim your space as an AL enabaler in our organization.
 
 **Step 1:**
-	- 1. What is the business problem I want to solve?
-	- 2. Can/should my problem be solved using GenAI?
-	- 3. What are the risks, both business risks inherent to the project, and the risks of the deployed model’s existence?
-	- 4. What are the main deliverable?
-	- 5. What are the success metrics and KPIs?
+	- What is the business problem I want to solve?
+	- Can/should my problem be solved using GenAI?
+	- What are the risks, both business risks inherent to the project, and the risks of the deployed model’s existence?
+	- What are the main deliverable?
+	- What are the success metrics and KPIs?
   
 **Step 2:**
 - 1. Who should be on my data governance team?
