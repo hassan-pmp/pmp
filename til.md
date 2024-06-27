@@ -21,11 +21,11 @@
   
 **Step 2:**
 
-- Who should be on my data governance team?
-  
-- What are our data governance policies?
-- 
-- Which policies already exist around data usage, accessibility , and quality that align with organizational goals and regulatory requirements?
+	- Who should be on my data governance team?
+	  
+	- What are our data governance policies?
+	  
+	- Which policies already exist around data usage, accessibility , and quality that align with organizational goals and regulatory requirements?
   
 - **Ask your expert:**
 - 1. What are the top-of-mind concerns you have about this project and why?
