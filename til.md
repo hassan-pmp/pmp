@@ -121,7 +121,7 @@
 
 **Step 8:**
 
-- How can we celebrate current wins?
+	- How can we celebrate current wins?
 
 # 26.06.2024 GenAI in Project Management: Intro: Lesson_1
 - How AI can alter how we do our jobs?
