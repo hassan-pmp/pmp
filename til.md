@@ -20,9 +20,13 @@
 	- What are the success metrics and KPIs?
   
 **Step 2:**
-- 1. Who should be on my data governance team?
-- 2. What are our data governance policies?
-- 3. Which policies already exist around data usage, accessibility , and quality that align with organizational goals and regulatory requirements? 
+
+- Who should be on my data governance team?
+  
+- What are our data governance policies?
+- 
+- Which policies already exist around data usage, accessibility , and quality that align with organizational goals and regulatory requirements?
+  
 - **Ask your expert:**
 - 1. What are the top-of-mind concerns you have about this project and why?
 - 2. What have we done in the past that similar?
