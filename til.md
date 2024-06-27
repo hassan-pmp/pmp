@@ -8,6 +8,7 @@
 - Sculpt your role as project manager in the data landscape and claim your space as an AL enabaler in our organization.
 
 **Step 1:**
+
 	- What is the business problem I want to solve?
  
 	- Can/should my problem be solved using GenAI?
