@@ -28,21 +28,31 @@
 	- Which policies already exist around data usage, accessibility , and quality that align with organizational goals and regulatory requirements?
   
 - **Ask your expert:**
-- 1. What are the top-of-mind concerns you have about this project and why?
-- 2. What have we done in the past that similar?
-- 3. What do I need to know that I’m not asking about?
+  
+	- What are the top-of-mind concerns you have about this project and why?
+   
+	- What have we done in the past that similar?
+   
+	- What do I need to know that I’m not asking about?
 
 
 - **Step 3:**
+  
 - Project Manager must know:
-	- Data source 
+  
+	- Data source
+   
 	- Data format
-	- Frequency of data updates
-- Questions:
--1. What data do I have access to?
--2. What additional data do I need?
--3. What data do I have?
--4. What GenAI model would best suit that data?
+
+ 	- Frequency of data updates
+- **Questions:**
+	- What data do I have access to?
+   
+	- What additional data do I need?
+
+ 	- What data do I have?
+
+  	- What GenAI model would best suit that data?
 
 
 - **Step 4:**
