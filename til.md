@@ -22,6 +22,7 @@
 - 2. What have we done in the past that similar?
 - 3. What do I need to know that I’m not asking about?
 
+
 - **Step 3:**
 - Project Manager must know:
 	- Data source 
@@ -33,6 +34,7 @@
 -3. What data do I have?
 -4. What GenAI model would best suit that data?
 
+
 - **Step 4:**
 - Project Manager must know:
 	- Accurate data
@@ -42,10 +44,11 @@
 -1. How suitable is the data?
 -2. How clean is the data?
 -3. What data governance areas must be considered?
-  
+
 - **Step 5:**
--1. What milestone are we working towards?
--2. How can we safeguard the data?
+	-1. What milestone are we working towards?
+	-2. How can we safeguard the data?
+
 
 - **Step 6:**
 - 1. Which model or customization methods math the problem and the data?
@@ -60,6 +63,7 @@
 - 10. Can the model be revers engineered from input output pairs such that tge output might risk exposing sensitive data?
 - 11. Relationship between Problem, Data and Model’s performance 
 - Benefits could be in terms of efficiency, accuracy, speed, or the ability to perform tasks that human can’t do as effectively.
+
   
 - **Step 7:**
 -1. How can we stay on track and iterate?
@@ -68,6 +72,7 @@
 	- Think about documentation things such as performance tracking and running A/B tests.
 	- Select a number of metrics to get a comprehensive understanding of your selected model’s performance.
 	- Assess Metrics can be: response time, accuracy, fairness and bias, robustness, resource efficiency, resource efficiency, generalization ability and more. 
+
 
 - **Step 8:**
 - 1. How can we celebrate current wins?
