@@ -36,9 +36,9 @@
 	- What do I need to know that I’m not asking about?
 
 
-- **Step 3:**
+**Step 3:**
   
-	- Project Manager must know:
+	- **Project Manager must know**:
   
 		- Data source
 	   
@@ -55,15 +55,21 @@
 	  	- What GenAI model would best suit that data?
 
 
-- **Step 4:**
-- Project Manager must know:
-	- Accurate data
-	- Clean data
-	- Ethically-sourced data 
-- Questions:
--1. How suitable is the data?
--2. How clean is the data?
--3. What data governance areas must be considered?
+**Step 4:**
+
+	- **Project Manager must know**:
+ 
+		- Accurate data
+
+		- Clean data
+  
+		- Ethically-sourced data 
+	- **Questions**:
+		- How suitable is the data?
+		  
+		- How clean is the data?
+		
+		- What data governance areas must be considered?
 
 - **Step 5:**
 	-1. What milestone are we working towards?
