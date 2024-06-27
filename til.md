@@ -12,6 +12,7 @@
 	- 3. What are the risks, both business risks inherent to the project, and the risks of the deployed model’s existence?
 	- 4. What are the main deliverable?
 	- 5. What are the success metrics and KPIs?
+  
 **- Step 2:**
 - 1. Who should be on my data governance team?
 - 2. What are our data governance policies?
@@ -41,10 +42,12 @@
 -1. How suitable is the data?
 -2. How clean is the data?
 -3. What data governance areas must be considered?
+  
 - **Step 5:**
 -1. What milestone are we working towards?
 -2. How can we safeguard the data?
-Step 6:
+
+- **Step 6:**
 - 1. Which model or customization methods math the problem and the data?
 - 2. What cost should we consider of those that match?
 - 3. Which of the models are specifically best suited?
@@ -56,7 +59,8 @@ Step 6:
 - 9. Does the model predict something private?
 - 10. Can the model be revers engineered from input output pairs such that tge output might risk exposing sensitive data?
 - 11. Relationship between Problem, Data and Model’s performance 
-- Benefits could be in terms of efficiency, accuracy, speed, or the ability to perform tasks that human can’t do as effectively. 
+- Benefits could be in terms of efficiency, accuracy, speed, or the ability to perform tasks that human can’t do as effectively.
+  
 - **Step 7:**
 -1. How can we stay on track and iterate?
 -2. Which metrics will be most effective in understanding the model performance? 
