@@ -9,9 +9,13 @@
 
 **Step 1:**
 	- What is the business problem I want to solve?
+ 
 	- Can/should my problem be solved using GenAI?
+ 
 	- What are the risks, both business risks inherent to the project, and the risks of the deployed model’s existence?
+ 
 	- What are the main deliverable?
+ 
 	- What are the success metrics and KPIs?
   
 **Step 2:**
