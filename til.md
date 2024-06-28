@@ -4,11 +4,13 @@
 - **Schedule Compression**
 	- Fast tracking: A schedule compression technique in which activities or phases normally done in sequence are performed in parallel for at least a portion of their duration
 	- Crashing: A technique used to shorten the schedule duration for the least incremental cost by adding resources
-- Check risks and re estimate
-- Fast track the project
-- Crash the project
-- Reduce scope
-- ~Cut quality~
+
+- **If you are behind schedule, follow the steps below**:
+	- Check risks and re estimate
+	- Fast track the project
+	- Crash the project
+	- Reduce scope
+	- ~Cut quality~
 # 28.06.2024 GenAI in Project Management: Intro: Lesson_2
 - How to use data and GenAI in Project Management?
 - 1. Automation
