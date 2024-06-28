@@ -11,6 +11,20 @@
 	- Crash the project
 	- Reduce scope
 	- ~Cut quality~
+- **Learning curve**: The 100 th room painted will take less time than the first room because of improved efficiency.
+- **Type of Costs**:
+	- Variable Costs: Costs rise directly with the size and scope of the project.
+	- Fixed Costs: Costs do not change; non-recurring (e.g. project setup costs).
+	- Direct: Are costs that can be directly related to producing the products and services of the project
+	- Indirect: Are overheated items or costs that are not directly related to the products or services of the project.
+		- Are indirectly related to performing the project and incurred for the benefit of more than one project.
+- **Value Analysis/Engineering (VE)**: Finding less costly way of the same work.
+-
+
+
+
+
+
 # 28.06.2024 GenAI in Project Management: Intro: Lesson_2
 - How to use data and GenAI in Project Management?
 - 1. Automation
