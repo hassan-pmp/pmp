@@ -19,7 +19,7 @@
 	- Indirect: Are overheated items or costs that are not directly related to the products or services of the project.
 		- Are indirectly related to performing the project and incurred for the benefit of more than one project.
 - **Value Analysis/Engineering (VE)**: Finding less costly way of the same work.
--
+- 
 
 
 
