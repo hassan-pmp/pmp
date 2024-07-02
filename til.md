@@ -52,7 +52,7 @@
 		  
 	- Which policies already exist around data usage, accessibility , and quality that align with organizational goals and regulatory requirements?
   
-	- Ask your expert:
+	- **Ask your expert**:
   
 	- What are the top-of-mind concerns you have about this project and why?
 	   
