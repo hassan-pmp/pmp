@@ -46,19 +46,19 @@
   
 **Step 2:**
 
-	- Who should be on my data governance team?
-	  
-	- What are our data governance policies?
+		- Who should be on my data governance team?
 		  
-	- Which policies already exist around data usage, accessibility , and quality that align with organizational goals and regulatory requirements?
+		- What are our data governance policies?
+			  
+		- Which policies already exist around data usage, accessibility , and quality that align with organizational goals and regulatory requirements?
   
-	- **Ask your expert**:
+	- Ask your expert:
   
-	- What are the top-of-mind concerns you have about this project and why?
-	   
-	- What have we done in the past that similar?
-	   
-	- What do I need to know that I’m not asking about?
+		- What are the top-of-mind concerns you have about this project and why?
+		   
+		- What have we done in the past that similar?
+		   
+		- What do I need to know that I’m not asking about?
 
 
 **Step 3:**
