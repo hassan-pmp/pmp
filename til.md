@@ -63,14 +63,14 @@
 
 **Step 3:**
   
-	- **Project Manager must know**:
+	- Project Manager must know:
   
 		- Data source
 	   
 		- Data format
 	
 	 	- Frequency of data updates
-	- **Questions:**
+	- Questions:
 		- What data do I have access to?
 	   
 		- What additional data do I need?
