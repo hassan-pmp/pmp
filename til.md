@@ -82,14 +82,14 @@
 
 **Step 4:**
 
-	- **Project Manager must know**:
+	- Project Manager must know:
  
 		- Accurate data
 
 		- Clean data
   
 		- Ethically-sourced data 
-	- **Questions**:
+	- Questions:
 		- How suitable is the data?
 		  
 		- How clean is the data?
