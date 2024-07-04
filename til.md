@@ -5,6 +5,10 @@
 	- Motivation and drive are important but must be grounded in reality to avoid blind optimism and failure 
 	- Recognizing and addressing potential problem early can prevent larger disasters and losses
 	- Mismanaged projects can have far-reaching negetive impacts, affecting not just the project but the entire organization and community
+	- Projects are never a simple task.
+	- ⁠On paper, things seem much easier than they are in reality.
+	- ⁠As Warren Buffer said: there is no good deal with someone that is not good. There is no way you can collaborate with someone that does not have good intentions.
+	- ⁠Chaos and entropy are part of everything you do. If you do not manage well, everything will go wrong.
   
 # 28.06.2024 GenAI in Project Management: Planning: Lesson_3
 - **Schedule Compression**
