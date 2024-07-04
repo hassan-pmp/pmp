@@ -1,5 +1,11 @@
 # Things I Learning
 ---
+# 04.07.2024 documentary film : Fyre: The Greatest Party That Never Happened: Lesson_1
+- **3 Key Lessons Learned** 
+	- Motivation and drive are important but must be grounded in reality to avoid blind optimism and failure 
+	- Recognizing and addressing potential problem early can prevent larger disasters and losses
+	- Mismanaged projects can have far-reaching negetive impacts, affecting not just the project but the entire organization and community
+  
 # 28.06.2024 GenAI in Project Management: Planning: Lesson_3
 - **Schedule Compression**
 	- Fast tracking: A schedule compression technique in which activities or phases normally done in sequence are performed in parallel for at least a portion of their duration
