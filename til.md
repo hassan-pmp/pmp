@@ -14,6 +14,35 @@
 -  **Prompt Engineering**:
 	-  I need to send out project updates to my team. Here's how these emails sound: "Hey team, quick heads up about the project timeline---looks like we're right on schedule. keep up the great work!". Can you give me a project update message in the same tone?
 	-  Could you summarize these meeting notes into key updates and action items in bullet-point format? here's my sample meeting notes: Updates: design phase 80% complete;UI needs final touches, Software development delayed by database integration issues, cleiont presentation set for [Date] , materials ready by [Date- 3 days], Emily joining for project management support next week. Action Items: Alice: Finalize UI design by [Date], Bob: Resolve database issues by [Date] update team. Charlie: Organize client presentation dry run by [Date - 5 days]
+-  The goal is not just to get an answer, but to get the right answer with the right context quickly.
+-  Project Plan Must-Haves:
+	-  Objectives
+	-  Business case,
+	-  Scope, timeline,
+	-  Stakeholders,
+	-  Success metrics
+ -  Four Ingredients to a  great prompt:
+ -  Your role
+ -  Context,
+ -  Instruction,
+ -  Output format
+ -  Prompt Ex:
+ 	-  As a project manager , I am responsible for moving data from Prime to GCP cloud. The project planned to span over 17 months and involves multiple teams like DWH, Analytics, Mobile, and marketing. Please generate a comprehensive project plan that includes: Objectives, business case, scope, timeline, stakeholders, and success metrics in a table format.
+  	-  Please combine the success metrics and business case into one section
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 04.07.2024 Documentary Film : Fyre: The Greatest Party That Never Happened: Lesson_1
 - **3 Key Lessons Learned** 
 	- Motivation and drive are important but must be grounded in reality to avoid blind optimism and failure 
