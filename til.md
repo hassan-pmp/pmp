@@ -1,6 +1,20 @@
 # Things I Learning
 ---
-# 04.07.2024 documentary film : Fyre: The Greatest Party That Never Happened: Lesson_1
+# 09.07.2024 10X with ChatGPT: Intro: Lesson_1
+-  AI can serve as your second brain, helping you think through possible scenarios and plan for the worst.
+-  Better planning helps you be a better project leader.
+-  Clearly, AI is here to stay, and when used wisely, it can help you think strategically, create better plans and be a stronger and more confident project leader.
+-  **How to be smart, thoughtful and ethical when using AI to uplevel your projects**???
+-   Three key points.
+	- First, importance of ethical AI usage.
+ 	- Second, real world ethical dilemmas.
+  	- And thirdly, ensuring your AI use aligns with your values.
+- In project management, effective communication is key to ensuring that your team is aligned, stakeholders are kept in the loop, and your project is on track.
+-  Think of ChatGPT as a second brain to help you make  extension **faster**, **more informed decisions**.
+-  **Prompt Engineering**:
+	-  I need to send out project updates to my team. Here's how these emails sound: "Hey team, quick heads up about the project timeline---looks like we're right on schedule. keep up the great work!". Can you give me a project update message in the same tone?
+	-  Could you summarize these meeting notes into key updates and action items in bullet-point format? here's my sample meeting notes: Updates: design phase 80% complete;UI needs final touches, Software development delayed by database integration issues, cleiont presentation set for [Date] , materials ready by [Date- 3 days], Emily joining for project management support next week. Action Items: Alice: Finalize UI design by [Date], Bob: Resolve database issues by [Date] update team. Charlie: Organize client presentation dry run by [Date - 5 days]
+# 04.07.2024 Documentary Film : Fyre: The Greatest Party That Never Happened: Lesson_1
 - **3 Key Lessons Learned** 
 	- Motivation and drive are important but must be grounded in reality to avoid blind optimism and failure 
 	- Recognizing and addressing potential problem early can prevent larger disasters and losses
@@ -29,11 +43,6 @@
 	- Indirect: Are overheated items or costs that are not directly related to the products or services of the project.
 		- Are indirectly related to performing the project and incurred for the benefit of more than one project.
 - **Value Analysis/Engineering (VE)**: Finding less costly way of the same work.
-- 
-
-
-
-
 
 # 28.06.2024 GenAI in Project Management: Intro: Lesson_2
 - How to use data and GenAI in Project Management?
