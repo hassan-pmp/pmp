@@ -13,6 +13,8 @@
 	- Manages very complex tasks
 	- Deep level of analysis
 	- More specefic results
+
+ 
 | The Problem or Symptom | The Solution|
 | --- | --- |
 | Vague or unstructured responses | Provide more detailed instructions |
