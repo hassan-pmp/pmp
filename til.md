@@ -1,5 +1,28 @@
 # Things I Learning
 ---
+# 11.07.2024 Prompt Engineer: Intro: Lesson_2
+- **RTF**
+	- Brevity
+	- Directness
+	- Straightforward
+	- Efficient
+	- Easy to use in large context
+- **CREATE**
+	- Comprehensive
+	- Precise
+	- Manages very complex tasks
+	- Deep level of analysis
+	- More specefic results
+| The Problem or Symptom | The Solution|
+| --- | --- |
+| Vague or unstructured responses | Provide more detailed instructions |
+| Response misaligned with expectations|Use formula like RTF or CREATE |
+| AI is hallucinating | Don't rely on the AI's assumptions |
+| Outdated information in responses | Provide sufficient context |
+| Conflicting information | Reread your prompt and clarity |
+| Incomplete or jumbled responses | Use prompt chaining |
+| AI is not quite "gettin it"| Iterate and refine your prompt |
+
 # 10.07.2024 Prompt Engineer: Intro: Lesson_1
 - As Project manger, you may use GenAI to help you create first draft of cost benfit analysis, Perform anomaly, identify scope change recommendation, analyze project documents, or help create scheduling plans.
 - There are various types of prompt formulas such as SMART, Role, Task, Format (RTF), PEAR, STAR, CREATE.
@@ -40,20 +63,6 @@
  -  Prompt Ex:
  	-  As a project manager , I am responsible for moving data from Prime to GCP cloud. The project planned to span over 17 months and involves multiple teams like DWH, Analytics, Mobile, and marketing. Please generate a comprehensive project plan that includes: Objectives, business case, scope, timeline, stakeholders, and success metrics in a table format.
   	-  Please combine the success metrics and business case into one section
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 04.07.2024 Documentary Film : Fyre: The Greatest Party That Never Happened: Lesson_1
 - **3 Key Lessons Learned** 
 	- Motivation and drive are important but must be grounded in reality to avoid blind optimism and failure 
@@ -218,15 +227,6 @@
 	 - Dimension is soft skills
 	 - The use of AI tools will give you superpowers
 	 - Learning to unlearn
- -  
-
-
-
-
-
-
-
-
 # 23.06.2024 Project Management: Planning: Lesson_6
 - Plan schedule management --> Schedule Management Plan contenet --->
 	- How to define Activity Diagram?
