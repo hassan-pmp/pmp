@@ -1,5 +1,16 @@
 # Things I Learning
 ---
+# 10.07.2024 Prompt Engineer: Intro: Lesson_1
+- As Project manger, you may use GenAI to help you create first draft of cost benfit analysis, Perform anomaly, identify scope change recommendation, analyze project documents, or help create scheduling plans.
+- There are various types of prompt formulas such as SMART, Role, Task, Format (RTF), PEAR, STAR, CREATE.
+- CREATE:
+	- Character
+	 - Request
+	 - Example
+	 - Adjustments
+	 - Type of Output
+	 - Evaluation    
+
 # 09.07.2024 10X with ChatGPT: Intro: Lesson_1
 -  AI can serve as your second brain, helping you think through possible scenarios and plan for the worst.
 -  Better planning helps you be a better project leader.
