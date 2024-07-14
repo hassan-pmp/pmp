@@ -25,6 +25,40 @@
 | Incomplete or jumbled responses | Use prompt chaining |
 | AI is not quite "gettin it"| Iterate and refine your prompt |
 
+- **Each pattern brings a unique approach to fine tuning our prompts and numerous prompting patterns exits each offering their own set of benefits.**:
+	- Chain-Of-Thought: is ideal for tackling complex problems by breaking them down into a series of managable subtasks. each step in the chain addresses a portion of the problem mimicking a natural step-by-step problem solving process.
+	- Chain-of-Feedback: extend the chain of thought and it integrates iterative feedback whithin each step. 
+	- Tree-of-Thought: allows exploring multiple pathways of thought or solutions simultanoeusly.
+	- Persona Pattern: 
+	- Flipped Interaction: the roles are reserved. 
+	- Question Refinement: Tell the LE suggests a better question than what we originally asked it and then uses the answer to that question to provide a better overall response. 
+	- Self Consistency
+	- ReAct: focuses on adaptability. 
+	- Scenario Exploration
+	- Risk Assessment Matrix
+	- Cognitive Verifier
+- Iterative prompt refinement is a strategic approcah used in managing interactions with AI.
+- More ways to iterative:
+	- Request in-depth Analyses
+	- Requesting Strategies
+- Prmpt Documentation Template with below fields:
+	- Task/query , Formulas/Patterns, LLM & Version, **Scoring System** including Accuracy, Relevance, Conciseness, Follow-ups , Refusals, Incomplete, **Notes** including Behavior, Performance, Quirks.
+ - EX:
+ 	- Project Uodate Report, RTF, ChatGPT 4.0, 5, 4, 4, 1, 0, 1, Performs best with tipping
+ 	-                             Gemini 1.5, 4, 4, 5, 3, 1, 1, Often gets stuck
+- **Advantages of Documentation**:
+	- Maximize efforts in crafting prompts
+	- Enhancing efficiency and impact
+	- Refine technique
+	- Elevate team's competency
+ - 
+
+
+
+
+
+
+
 # 10.07.2024 Prompt Engineer: Intro: Lesson_1
 - As Project manger, you may use GenAI to help you create first draft of cost benfit analysis, Perform anomaly, identify scope change recommendation, analyze project documents, or help create scheduling plans.
 - There are various types of prompt formulas such as SMART, Role, Task, Format (RTF), PEAR, STAR, CREATE.
