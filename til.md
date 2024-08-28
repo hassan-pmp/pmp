@@ -1,5 +1,9 @@
 # Things I Learning
 ---
+# 28.08.2024 Prompt Engineer: Intro: Lesson_2
+- The compromise/reconcile technique is a conflict resolution technique in which both parties give up something in order to reach an agreement. If one party is not required to make any concessions, then it is not possible for both parties to compromise.
+
+
 # 11.07.2024 Prompt Engineer: Intro: Lesson_2
 - **RTF**
 	- Brevity
