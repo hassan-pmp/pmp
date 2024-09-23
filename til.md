@@ -1,5 +1,93 @@
 # Things I Learning
 ---
+# 23.0.2024 Forward Program: Adaptability & Resilience: Lesson_1
+- Adaptability: the ability to adjust or change based on the situation 
+- Resilience: the ability to stand strong in difficult times and face the situation
+- Psychological: relating to the mind and emotions.
+- "In our lives, change is unavoidable, loss is unavoidable. In the adaptability and ease with which we experience change, lies our happiness and freedom." Gautama Buddha
+- After a difficult start with a new colleague, Michelle finds the time to get to know him. She shares her own insecurities about leading during challenging times and also talks about the things that bring her energy. By actively forging a meaningful connection, she improves her working relationship.
+- According to research, adaptability is not a trait; it is a state, which you can develop through practice.
+- In challenging times, being adaptable and resilient reduces our stress, improves our relationships, allows us to make better decisions, and makes our work more rewarding.
+- Change, uncertainty, and pressure make learning difficult … … and yet these challenging times are precisely when it is most important to adapt and grow. The best ways to maximize your learning—and your adaptability—is to be intentional about what you want to learn and to develop positive habits.
+- Mindsets are more powerful than we once understood, and are critical for adaptability. You can re-wire your brain with new, more resilient mindsets ... but you often don't. As you develop an awareness of your mindsets and well-being, especially during challenging times, you increase your ability to make purposeful, more productive choices that help you thrive in difficult times and adapt to change.
+- Intrinsic motivation is one of the most powerful fuels on your life journeys. Having a clear sense of personal meaning helps you cut through the noise of the world and channel your energy towards what matters most, keeping you going when things get challenging.
+- **Focus on the journey**
+	- Prioritize the learning experience itself by framing your desired outcome as a learning intention rather than a performance goal. Research shows that this can help people persist and expand their learning more than if they started with a performance goal.
+		- Right approach: "I want to learn how to play softball"
+		- Wrong approach: "I want to win the softball league trophy"
+- **Link to meaning**
+	- Connect your learning experience to something personally meaningful. Research shows that personal meaning can give people a feeling of self-direction, increasing their enjoyment, interest, and excitement during learning.
+ 		- Right approach: "If I learn how to fix a car, I can help my friends and family if they ever run into trouble"
+   		- Wrong approach: "I don't get why I need to learn how to fix a car. I'll just take it to the repair shop when it needs fixing"
+- Instead of setting a specific target, you focus on the process, on discovering and exploring new ideas, and on your growth.
+- I want to ________ (insert verb here: explore/practice/discover/understand/learn/develop/etc.) how to ________ (insert a capability/skill/mindset/attribute) because ________ (insert something that’s meaningful/important to you) 
+
+- Example: I want to practice how to be mindful to others because I care about others and want to see them succeed
+- Choosing learning intentions vs. performance goals: use learning intentions when developing a new skill and performance goals when you already have the skill and aim to achieve something with it
+
+- Focusing on the journey not just the outcome: use this to improve your ability to learn and enjoy the experience 
+
+- Connecting personal meaning to learning intentions: use this to strengthen your commitment to achieving your learning intentions.
+- apply the APR framework (Awareness Pause Reframe) in difficult situations to shift your mindset to a more adaptable one
+- Mindsets are a powerful tool that you can utilize to help improve your performance in activities or tasks. Below, take a look through some key facts that show the power of having a positive and healthy mindset:
+- **What are mindsets?** 
+	- Mindsets are the belief filters between you and reality. They influence what you perceive, how you feel, and how you behave. As you just saw, they are extremely powerful. In fact, they are arguably the most important thing when it comes to adaptability and resilience.
+- It is true that mindsets associated with adaptability and resilience bring about many benefits, but you do not label mindsets as simply “good” or “bad.” Instead, you aim to adopt the mindset best suited to each situation.
+- **Mindsets Type**
+	- Growth Mindset
+	- Curious Mindset
+	- Creative Mindset
+	- Agent Mindset
+	- Abundance Mindset
+	- Exploration Mindset
+	- Opportunity Mindset
+ - This is where the **APR technique (Awareness Pause Reframe)** can help. The basic idea is that you bring awareness to your current mindset and realize how it affects your behavior. Pause to create a wedge in which you can choose to do something differently—take on a different lens, so to speak—and use specific reflection questions to reframe your mindset into one that serves you better.
+- **Questions to reframe from fixed to growth**
+	- How can this challenge be an opportunity?
+	- What could be possible if I learn and develop from this experience?
+- **Questions to reframe from expert to curious**
+	- What questions, new perspectives, or opportunities do I want to explore?
+	- If I approach this with fresh eyes, forgetting for now what I already know, what would I get curious about?
+	- What would be possible if I could embrace the struggles that come with learning something new? 
+- **Questions to reframe from reactive to creative**
+	- What is the bigger “why” that I am solving for?
+	- If this challenge were actually a hidden opportunity to create something different and better, what would I want? What could I imagine that would be important and meaningful?
+	- What is the smallest step that I can take towards getting to the end state I desire?
+- **Questions to reframe from victim to agent**
+	- What are the various ways I can influence the situation?
+	- What do I already have going for me? What capabilities, ideas, or resources could I access to successfully navigate this challenge?
+- **Questions to reframe from scarcity to abundance**
+	- What could be a win-win scenario in this situation?
+	- If I release some of the constraints on the situation, what might be a bigger opportunity?
+ - **Questions to reframe from certainty to exploration**
+	- What is the smallest thing I can do to try out a different approach and learn fast?
+	- What are three other perspectives on potential solutions to this problem?
+- **Questions to reframe from protection to opportunity**
+	- What if this is not a risk-avoidance scenario, but an opportunity-capturing scenario?
+	- What is the most audaciously good thing that can come out of this?
+	- How might I be able to encourage that to happen?
+ - Here are four actions you can take.
+ - Role model: When people see an adaptable mindset, they are drawn to imitate it. Talk openly about your mindsets, both the helpful and unhelpful ones, and what you do to reframe your mindset. Be as specific as possible.
+ - Help them use APR: Share the APR approach and help others use it. If tensions are high at a meeting, for example, and some people have adopted limiting mindsets, draw awareness to it and help team members pause.
+ - Prime them: Using phrases is a great way to prime others. For example, to get others into an abundance mindset you might ask, “What is the win-win here?” For a growth mindset you could try, “What can we learn from this?”
+ - Reinforce mindsets: Point out to others when they are demonstrating helpful mindsets and encourage them further. For example, if a colleague was operating from a creative place during a challenge, point out that it would have been easy to slip into a reactive mode and encourage everyone to keep up the creative mindset.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 28.08.2024 Prompt Engineer: Intro: Lesson_2
 - The compromise/reconcile technique is a conflict resolution technique in which both parties give up something in order to reach an agreement. If one party is not required to make any concessions, then it is not possible for both parties to compromise.
 
