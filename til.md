@@ -1,6 +1,6 @@
 # Things I Learning
 ---
-# 23.0.2024 Forward Program: Adaptability & Resilience: Lesson_1
+# 23.09.2024 Forward Program: Adaptability & Resilience: Lesson_1
 - Adaptability: the ability to adjust or change based on the situation 
 - Resilience: the ability to stand strong in difficult times and face the situation
 - Psychological: relating to the mind and emotions.
