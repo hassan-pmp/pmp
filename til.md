@@ -1,5 +1,41 @@
 # Things I Learning
 ---
+# 28.09.2024 Forward Program: Adaptability & Resilience: Lesson_2
+- **We think of learning behaviors in three big categories.** 
+	- Preparation: Am I investing the time and energy I need to set myself up for success?
+ 		- Set a learning intention and then break it down into subcomponents
+   		- Organize your learning to create focused space and time in your schedule
+     		- Think ahead to possible obstacles and continue to calibrate   
+	- Execution: Am I learning and performing to the best of my capabilities … and enjoying myself?
+ 		- Focus your activity at just the right level of challenge to extend expertise
+   		- Share what you know with others
+     		- Master the art of paying close attention 
+
+	- Reflection: Am I learning from my past actions?
+ 		- Establish a feedback loop to refine your new skills
+   		- Self-examine often
+     		- Dedicate active time to think about what you are learning and what it means 
+
+- Not sleeping enough makes it impossible to pay optimal attention and learn. One study found that when people average four hours of sleep a night for four or five days, they develop the same level of cognitive impairment as if they’d been awake for 24 hours—the equivalent of being legally drunk in some countries. Within ten days, the level of impairment matches that of going 48 hours without sleep. Sleep deprivation greatly lengthens reaction time, impedes judgment, and interferes with problem solving.
+- **Unhealthy Prepration**
+	- Cramming: amassing a lot of information in a short period of time leads to a lack of truly understanding the situation.
+	- Poor diet: bad nutrition can lower attention, memory, and learning.
+	- Lack of sleep/exercise: physical exhaustion and a lifestyle without much exercise are detrimental to attention, remembering of information, and motivation.
+	- Poor time management: lack of identifying the important tasks leads to little time and space to learn.
+	- Procrastination: delaying when you do tasks will make the learning process more difficult.
+- **Unhealthy Execution**
+	- Performance first: the need to always show that you can do this and are an expert detracts from effective learning.
+	- Self-sabotaging/handicapping: not trying hard enough is sometimes a symptom of fear of failure.
+	- Imitation: trying to do something because others are doing it and for their approval is mentally and emotionally exhausting.
+	- Autopilot mode: not being careful about the choices you make robs you of ownership of your learning, as well as the enjoyment and the effectiveness of the process.
+- **Unhealthy Reflection**
+	- Self-serving attributions: not taking responsibility for failures and overestimating your role in successes undermines your ability to learn.
+	- Lone wolf: doing things alone and never asking for help is a way to lower your learning potential.
+- Habit loop (Cue, Routine, Reward): use this to make your desired behaviors stick and become regular habits
+- Unlearning unhealthy habits: use this to identify ways to maintain healthy habits and unlearn unhealthy habits
+- Creating a personalized plan of action for habits: use this to identify and form new, positive learning habits for your future
+- Use the APR framework to take on challenging situations with an adaptable and resilient mindset
+
 # 23.09.2024 Forward Program: Adaptability & Resilience: Lesson_1
 - Adaptability: the ability to adjust or change based on the situation 
 - Resilience: the ability to stand strong in difficult times and face the situation
