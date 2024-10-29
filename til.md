@@ -1,5 +1,18 @@
 # Things I Learning
 ---
+# 29.10.2024 Forward Program: Problem Solving: Lesson_1
+- Define the problem you are faced with using different tools and templates
+- Break down and structure the problem in a way that will help you reach a solution 
+- Plan your way towards finding a recommended solution
+- Key concept definitions mentioned throughout the course
+	- Problem Solving: the process of finding answers to difficult and complicated personal and professional issues
+	- Hypothesis: your first best guess for the solution to a problem, an idea based on limited evidence/information that can serve as a starting point to future discussion 
+	- Stakeholders: a person with an interest or concern in the topic 
+	- Iterative: always improving, usually of a design or product
+	- Solution set: all the possible solutions and ideas for the problem
+	- Bias: a tendency to feel a particular way about something or someone which can impact the way you think or behave in a certain situation
+- 
+
 # 28.09.2024 Forward Program: Adaptability & Resilience: Lesson_2
 - **We think of learning behaviors in three big categories.** 
 	- Preparation: Am I investing the time and energy I need to set myself up for success?
