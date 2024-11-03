@@ -12,7 +12,6 @@
 	- Solution set: all the possible solutions and ideas for the problem
 	- Bias: a tendency to feel a particular way about something or someone which can impact the way you think or behave in a certain situation
 - 
-
 # 28.09.2024 Forward Program: Adaptability & Resilience: Lesson_2
 - **We think of learning behaviors in three big categories.** 
 	- Preparation: Am I investing the time and energy I need to set myself up for success?
