@@ -1,5 +1,35 @@
 # Things I Learning
 ---
+# 04.11.2024 Forward Program: Problem Solving: Lesson_2
+
+- Problem Solving: the process of finding answers to difficult and complicated personal and professional issues
+- Hypothesis: your first best guess for the solution to a problem, an idea based on limited evidence/information that can serve as a starting point to future discussion 
+- Stakeholders: a person with an interest or concern in the topic 
+- Iterative: always improving, usually of a design or product
+- Solution set: all the possible solutions and ideas for the problem
+- Bias: a tendency to feel a particular way about something or someone which can impact the way you think or behave in a certain situation
+
+- **Types of Work**
+	- **Analytical Problrms**: Some problems require an answer that is purely analytical or quantitative, such as how much I should spend on groceries per month.
+	- **Xobcepyual Problems**: Other problems are more conceptual or qualitative in nature, such as how I should bring up an important problem to my supervisor. Both analytical and conceptual problems arise over a range of time frames. In a long-term problem-solving project, you will likely need to solve both analytical and conceptual aspects of a single problem.
+- **Phases of Work**
+	- **Convergent problems**: Some problems are solved by driving towards a single best answer—they use convergent thinking. Convergent thinking is characterized by:
+		- Choosing from among multiple options using a process of elimination
+		- Quickly finding which issues are important and establishing an in-going hypothesis
+ 	- **Divergent problems**: Some problems are best solved by opening the solution space to discover new possibilities—they use divergent thinking. Divergent thinking is characterized by: 
+		- Creating and looking at a wide range of opportunities 
+		- New and unique solutions 
+
+
+
+
+- There's problem solving in the moment: You might not have time to actually formally whip out a sheet of paper and go through each of the approaches and tools, but the question is, what thinking you can do to really test it in that moment. Have you really defined the problem? Have you aligned all the stakeholders on that, and have you thought about how the solution space we're looking is scoped.
+- There's problem solving where you may have a week or two weeks to come to an answer: When you're problem solving in one- to two-weeks, you've got a little more time to do that analysis, but not a lot of time. There can be more things you probably want to look at than you have time to do. And so really in that one- to two-week environment or time horizon, it's thinking about how do you prioritize the issues and the analyses you want to conduct.
+
+- and there's problem solving over a longer-term project: When you're thinking about problem solving in terms of a longer-term project, you've got more time. But in those cases, you probably also have more complexity. There's probably a lot of value at stake. And in those cases, you want to think about what is the right way to work plan and think about what are the dependencies, what are the stakeholders you need to align, and what decisions you need to make early in the process that may have knock-on effects later in the project's lifespan.
+
+
+
 # 29.10.2024 Forward Program: Problem Solving: Lesson_1
 - Define the problem you are faced with using different tools and templates
 - Break down and structure the problem in a way that will help you reach a solution 
