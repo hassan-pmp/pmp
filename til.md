@@ -40,14 +40,21 @@
 - What makes me really excited about the hypothesis-led approach is that it provides a great structure to enable me to be a more creative problem solver. There is both the art and the science in terms of problem solving. The science in the hypothesis-led approach is around thinking through in a very structured way how you take a very large, complex, ambiguous, hard-to-define problem, break it down into the component parts, and ultimately get to an actionable recommendation.
 
   1. **Define problem**: Think impact: what do we need to know?
-  2. Structure problem: Think breaking the problem down into pieces and early hypothesis: what could be the key elements of the problem?
-  3. Prioritize issues: Think speed: which issues are most important to the problem?
-  4. Develop issue analysis/workplan: Think efficiency: where and how should we spend our time?
-  5. Conduct analyses: Think evidence: what are we trying to prove/disprove?
-  6. Synthesize findings: Think “so what”: what implications do our findings have?
-  7. Develop recommendations: Think potential solution: what should we do? 
+  2. **Structure problem**: Think breaking the problem down into pieces and early hypothesis: what could be the key elements of the problem?
+  3. **Prioritize issues**: Think speed: which issues are most important to the problem?
+  4. **Develop issue analysis/workplan**: Think efficiency: where and how should we spend our time?
+  5. **Conduct analyses: Think evidence**: what are we trying to prove/disprove?
+  6. **Synthesize findings**: Think “so what”: what implications do our findings have?
+  7. **Develop recommendations**: Think potential solution: what should we do?
+ 
+- When setting out to solve a problem, there are many instances that may prevent you from finding the right solution:
+	- Relying on your gut feeling and experience to make quick judgments under pressure
+	- “Biting off more than you can chew” and attempting to solve a much larger problem than required, or for one where you don't have the right amount of resources
+	- Forgetting the needs and priorities of the people for who you are solving the problem for
 
-
+- The first is because everybody actually might see the problem a little bit differently. So getting clarity on what is it that you're actually solving is really paramount.
+- Another reason is because people might have different ways that they're defining success in what the problem is aimed to solve. In other words, what does successfully solving the problem actually look like? So articulating and aligning around the core problem and what success looks like is one of the fundamental steps, but is actually, much more tricky than it might initially appear.
+- 
 
 
 
