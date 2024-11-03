@@ -22,7 +22,41 @@
   - Ex1: My supervisor asked me to put together estimates of store sales before our meeting on Thursday with the team. We’ll use this information to help plan our budget for next quarter. ---- > Analytical, convergent problem
   - Ex2: We’re having some difficulty tracking the most important information your team is providing in response to report requests. Let’s talk about ideas to improve communication between your team and our analytics team. I’d like to arrive at a couple of improvements we can make right away. ---- > Conceptual, convergent problem
   - Ex3: We got a new manager recently, and I believe that the team can succeed only if there is a mindset shift to work together with the new manager. How can we change the focus on improvement so that we perform better next month? What are ways we can get people to adopt a growth mindset for the remainder of this year? ---- > Conceptual, divergent problem
-  - 
+
+
+- Recognize the **hypothesis-led approach** to problem solving, including its 7 steps:
+- Key concepts definitin in this scenario:
+	- Problem Solving: the process of finding answers to difficult and complicated personal and professional issues
+	- Hypothesis: your first best guess for the solution to a problem, an idea based on limited evidence/information that can serve as a starting point to future discussion 
+	- Stakeholders: a person with an interest or concern in the topic 
+	- Iterative: always improving, usually of a design or product
+	- Solution set: all the possible solutions and ideas for the problem
+	- Bias: a tendency to feel a particular way about something or someone which can impact the way you think or behave in a certain situation
+
+- Generally, there are **five** different approaches we typically see in problem solving. There is the **hypothesis-led approach**, which we're going to go into with a lot more detail in this course, but there are also many others. There is the **domain IP-led approach**. There's the **advanced analytics approach**. There's the **design thinking approach**. And there's **engineering approach**. And depending upon the context of the problem, one approach may be better than another. And then I think another point is, you don't always just use one approach. Again, depending upon the context, sometimes it's a combination of different approaches, which would get you to the right answer or in some cases to the answer more quickly.
+- The approaches might be a little bit different, their **underlying characteristics** are all actually very similar. They all share **some common characteristics**. They all have a **very focused problem statement**. They're all **impact oriented**. They always **take a stakeholder perspective**. They're **fact based**. And they also **focus on synthesis**. These characteristics underpin every single one of these different problem-solving approaches.
+  
+-  What is the hypothesis-led approach for problem solving? Well, by definition, it's **asking you to have a hypothesis**. And it's **taking a very structured approach**, and asks you to, when you ****define the problem upfront**, think about what are the **hypotheses** you're trying to **prove** or **disprove**, and make some **assertions** about those. And then, if you think about the **prioritization** and the **structuring** of the work to do that, it's around **how you test those hypotheses** to get to a **better answer more quickly**.
+- What makes me really excited about the hypothesis-led approach is that it provides a great structure to enable me to be a more creative problem solver. There is both the art and the science in terms of problem solving. The science in the hypothesis-led approach is around thinking through in a very structured way how you take a very large, complex, ambiguous, hard-to-define problem, break it down into the component parts, and ultimately get to an actionable recommendation.
+
+  1. **Define problem**: Think impact: what do we need to know?
+  2. Structure problem: Think breaking the problem down into pieces and early hypothesis: what could be the key elements of the problem?
+  3. Prioritize issues: Think speed: which issues are most important to the problem?
+  4. Develop issue analysis/workplan: Think efficiency: where and how should we spend our time?
+  5. Conduct analyses: Think evidence: what are we trying to prove/disprove?
+  6. Synthesize findings: Think “so what”: what implications do our findings have?
+  7. Develop recommendations: Think potential solution: what should we do? 
+
+
+
+
+
+
+
+
+It's also an approach that is widely applicable to a range of problems. It scales quite nicely. And it doesn't assume a tremendous amount of expertise, so a lot of folks can use it.
+
+
 
 
 
