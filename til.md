@@ -11,14 +11,20 @@
 
 - **Types of Work**
 	- **Analytical Problrms**: Some problems require an answer that is purely analytical or quantitative, such as how much I should spend on groceries per month.
-	- **Xobcepyual Problems**: Other problems are more conceptual or qualitative in nature, such as how I should bring up an important problem to my supervisor. Both analytical and conceptual problems arise over a range of time frames. In a long-term problem-solving project, you will likely need to solve both analytical and conceptual aspects of a single problem.
+	- **Comceptual Problems**: Other problems are more conceptual or qualitative in nature, such as how I should bring up an important problem to my supervisor. Both analytical and conceptual problems arise over a range of time frames. In a long-term problem-solving project, you will likely need to solve both analytical and conceptual aspects of a single problem.
 - **Phases of Work**
 	- **Convergent problems**: Some problems are solved by driving towards a single best answer—they use convergent thinking. Convergent thinking is characterized by:
 		- Choosing from among multiple options using a process of elimination
 		- Quickly finding which issues are important and establishing an in-going hypothesis
  	- **Divergent problems**: Some problems are best solved by opening the solution space to discover new possibilities—they use divergent thinking. Divergent thinking is characterized by: 
 		- Creating and looking at a wide range of opportunities 
-		- New and unique solutions 
+		- New and unique solutions
+  - Ex1: My supervisor asked me to put together estimates of store sales before our meeting on Thursday with the team. We’ll use this information to help plan our budget for next quarter. ---- > Analytical, convergent problem
+  - Ex2: We’re having some difficulty tracking the most important information your team is providing in response to report requests. Let’s talk about ideas to improve communication between your team and our analytics team. I’d like to arrive at a couple of improvements we can make right away. ---- > Conceptual, convergent problem
+  - Ex3: We got a new manager recently, and I believe that the team can succeed only if there is a mindset shift to work together with the new manager. How can we change the focus on improvement so that we perform better next month? What are ways we can get people to adopt a growth mindset for the remainder of this year? ---- > Conceptual, divergent problem
+  - 
+
+
 
 
 
