@@ -10,6 +10,10 @@
 - So why is having a SMART problem statement up front so important? It's so important because by ensuring that your problem is SMART-ly defined, it enables you to get to the right answer more quickly.
 - The other day, I was working on a problem around how do we grow our revenue by a certain amount next year. Now initially we thought about a number of different ways we can do this. We could hire more people and increase the size of our sales force. We could spend more on marketing and promotions. We could think about our pricing strategy, et cetera.
 - But as we thought more deeply about the constraints that we're actually facing, we realized budgets were fixed and so spending more on marketing or hiring more people into our sales force actually was not part of the solution set. So we redefined the problem statement to say, given the existing budget that we have, how do we increase our revenue by a certain amount in this coming year. That enabled us to be much more efficient and prioritize more effectively where we're spending our time and get to the right answer sooner.
+-  Mutually Exclusive and Collectively Exhaustive. In other words, MECE.
+-  Issue Tree: How? Problem
+- Hypothesis tree: Why? Hypothesis
+- 
 
 
 
