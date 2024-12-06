@@ -1,5 +1,19 @@
 # Things I Learning
 ---
+# 07.12.2024 Forward Program: Problem Solving-SMART: Lesson_3
+- So let's think about an example of how we can use the SMART tool to refine a problem statement, and I'll give you an example from my life to keep it simple. The problem statement can be around where do you want to go on vacation? More specifically, where do my wife and I want to go on vacation?
+- Now that's a pretty vague definition of the problem. So how can we improve it? Well, let's use the SMART tool. Is it specific enough? Well, have I thought about who's going on vacation? Am I going on vacation? Is my wife going on vacation? Hopefully the two of us are going on vacation.
+- Is it measurable? Well, what do we want to achieve? Do want to have a fun time on our vacation or do we make it the best vacation ever? Maybe you want to make it the best vacation ever; it's a qualitative assessment but it's still measurable.
+- Actionable, hopefully in this case it is. We're actually going to go on vacation together.
+- And relevant, well, certainly for me and for my wife it should be relevant for us.
+- And time-bound, specifically when do we want to go on vacation? Well, we may rephrase it to say, where do we want to go on vacation, to have the best vacation ever, within the next four months? And that'll then define the scope of the solution space for us.
+- So why is having a SMART problem statement up front so important? It's so important because by ensuring that your problem is SMART-ly defined, it enables you to get to the right answer more quickly.
+- The other day, I was working on a problem around how do we grow our revenue by a certain amount next year. Now initially we thought about a number of different ways we can do this. We could hire more people and increase the size of our sales force. We could spend more on marketing and promotions. We could think about our pricing strategy, et cetera.
+- But as we thought more deeply about the constraints that we're actually facing, we realized budgets were fixed and so spending more on marketing or hiring more people into our sales force actually was not part of the solution set. So we redefined the problem statement to say, given the existing budget that we have, how do we increase our revenue by a certain amount in this coming year. That enabled us to be much more efficient and prioritize more effectively where we're spending our time and get to the right answer sooner.
+
+
+
+
 # 04.11.2024 Forward Program: Problem Solving: Lesson_2
 
 - Problem Solving: the process of finding answers to difficult and complicated personal and professional issues
