@@ -1,5 +1,19 @@
 # Things I Learning
 ---
+# 10.12.2024 Forward Program: Feedback: Lesson_1
+
+- To track your well being, a great way is to ask for feedback. There are two ways to obtain feedback: analog, and high-tech.
+- Pay attention to intentional or unintentional feedback you receive from the people around you. If they consistently inquire about your well-being, especially during or after tense meetings, they may sense that something is “off.” Even better, solicit open feedback from any of the following people:
+	- Your colleagues
+	- Your team members
+	- A coach or mentor
+	- Your family members
+	- Your close friends and/or partner
+- Wearable technologies can track heart rate, blood oxygen levels, sleeping patterns, movement patterns, stress levels, etc. Some can track your heart rate variability (HRV), the variation in the time interval between heartbeats, which can be influenced by stress, lack of sleep, fitness levels, nutrition, age, and genetics. Tracking your HRV over time shows how well you are recovering. Low HRV is a predictor of reduced resilience, burnout, and cardiovascular disease.
+
+
+
+
 # 07.12.2024 Forward Program: Problem Solving-SMART: Lesson_3
 - So let's think about an example of how we can use the SMART tool to refine a problem statement, and I'll give you an example from my life to keep it simple. The problem statement can be around where do you want to go on vacation? More specifically, where do my wife and I want to go on vacation?
 - Now that's a pretty vague definition of the problem. So how can we improve it? Well, let's use the SMART tool. Is it specific enough? Well, have I thought about who's going on vacation? Am I going on vacation? Is my wife going on vacation? Hopefully the two of us are going on vacation.
