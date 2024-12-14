@@ -1,7 +1,49 @@
 # Things I Learning
 ---
-# 10.12.2024 Forward Program: Feedback: Lesson_1
+# 10.12.2024 Forward Program: social connections: Lesson_2
+- There are four not-so-secret secrets to establishing strong relationships: **Attention**, **Vulnerability**, **Empathy**, and **Compassion**. **AVEC**, which means “with” in French, is an appropriate coincidence, since interpersonal resilience is all about how we interact with others.
+- Attention: Turning toward the other person literally and figuratively and listening deeply without judgment, distraction, or the desire to respond.
+- Vulnerability: Being your authentic self, even if it feels outside of your comfort zone. Acknowledging the role you played in a situation or the assumptions you made, even if you are not proud of them. Sharing honestly how the actions of others affected you.
+- Empathy: Understanding and identifying with the emotions and perspectives of others, based on what they share with you.
+- Compassion: Demonstrating concern with an intent to be helpful. Checking in with individuals to see how they are doing and investing the time to respond in a meaningful way.
+- “The biggest communication problem is we do not listen to understand. We listen to reply.” Stephen Covey
+- “Vulnerability is the core of shame and fear and our struggle for worthiness, but it appears that it’s also the birthplace of joy, of creativity, of belonging, of love.” “Vulnerability is not weakness; it's our greatest measure of courage.” Brené Brown.
+- “We think we listen, but very rarely do we listen with real understanding, true empathy. Yet listening, of this very special kind, is one of the most potent forces for change that I know.” Carl Rogers.
+- Listening level 0: No attention, preparing a response
+- Listening level 1: Downloading, jumping to judgments
+- Listening level 2: Gathering factual data without judgment (having an open mind)
+- Listening level 3: Understanding the other’s experiences and emotions (having an open heart); employing growth, beginner, and other resilient mindsets (e.g., ask yourself “what can I learn about this person’s experience?”)
+- “Compassion is so often the solution.”  Anonymous
+- Google’s research found that the composition of the team was less important than how the team worked together. The five key dynamics they identified, in order of importance, were
+	- Psychological safety
+	- Dependability of team members
+	- Structure and clarity of roles and goals
+	- Work is meaningful
+	- Work has impact
+- Of these five dynamics, psychological safety was, by far, the most important. It also underpinned the other four.
+- What is psychological safety?
+- Psychological safety has been researched for decades and certainly isn't the sole factor for team success. However, in today's workplace with more diverse and common team structures, it is increasingly important that members unlock their full potential to work together. Teams with psychological safety not only excel in current tasks but also improve over time and adapt better to the future.
+- As you watch the video consider:
+- What is my team doing—or not doing—to create psychological safety? 
+- What would be different if we improved our psychological safety? 
+- 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 10.12.2024 Forward Program: Feedback: Lesson_1
 - To track your well being, a great way is to ask for feedback. There are two ways to obtain feedback: analog, and high-tech.
 - Pay attention to intentional or unintentional feedback you receive from the people around you. If they consistently inquire about your well-being, especially during or after tense meetings, they may sense that something is “off.” Even better, solicit open feedback from any of the following people:
 	- Your colleagues
@@ -10,6 +52,9 @@
 	- Your family members
 	- Your close friends and/or partner
 - Wearable technologies can track heart rate, blood oxygen levels, sleeping patterns, movement patterns, stress levels, etc. Some can track your heart rate variability (HRV), the variation in the time interval between heartbeats, which can be influenced by stress, lack of sleep, fitness levels, nutrition, age, and genetics. Tracking your HRV over time shows how well you are recovering. Low HRV is a predictor of reduced resilience, burnout, and cardiovascular disease.
+- “Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you.” Peter Drucker.
+- 
+
 
 
 
