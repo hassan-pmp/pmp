@@ -1,5 +1,29 @@
 # Things I Learning
 ---
+# 20.02.2025 Agent Course: Bonus Unit: Lesson_1
+- In terms of LLMs, function calling is quickly becoming a must-know technique.
+- **Function Calling**:  is a **way for an LLM to take actions on its environment**.
+- **LoRA (Low-Rank Adaptation)**: A lightweight and efficient fine-tuning method that cuts down on computational and storage overhead. LoRA makes training large models faster, cheaper, and easier to deploy.
+- **The Thought → Act → Observe Cycle in Function Calling models**: A simple but powerful approach for structuring how your model decides when (and how) to call functions, track intermediate steps, and interpret the results from external Tools or APIs.
+- There are 3 types of transformers :
+- **Encoders**: An encoder-based Transformer takes text (or other data) as input and outputs a dense representation (or embedding) of that text.
+	- Example: BERT from Google
+	- Use Cases: Text classification, semantic search, Named Entity Recognition
+	- Typical Size: Millions of parameters
+- **Decoders**: A decoder-based Transformer focuses on generating new tokens to complete a sequence, one token at a time.
+	- Example: Llama from Meta
+	- Use Cases: Text generation, chatbots, code generation
+	- Typical Size: Billions (in the US sense, i.e., 10^9) of parameters
+
+- **Seq2Seq (Encoder–Decoder)**: A sequence-to-sequence Transformer combines an encoder and a decoder. The encoder first processes the input sequence into a context representation, then the decoder generates an output sequence.
+	- Example: T5, BART
+	- Use Cases: Translation, Summarization, Paraphrasing
+	- Typical Size: Millions of parameters
+- 
+
+
+
+
 # 10.12.2024 Forward Program: social connections: Lesson_2
 - There are four not-so-secret secrets to establishing strong relationships: **Attention**, **Vulnerability**, **Empathy**, and **Compassion**. **AVEC**, which means “with” in French, is an appropriate coincidence, since interpersonal resilience is all about how we interact with others.
 - Attention: Turning toward the other person literally and figuratively and listening deeply without judgment, distraction, or the desire to respond.
