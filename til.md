@@ -1,5 +1,26 @@
 # Things I Learning
 ---
+# 13.03.2025 Generative AI: Use Cases for Startups: Lesson_1
+- Customer Support Chatbot
+- Autonamous Backend AI Agents
+- Internal Knowledge Q/A Agent
+- Multi-Model Media Embeddings
+- Three-tier Architecture
+	- Use case 1: Customer Support & Services
+		- Gen AI Tools (LLMs text/ Image/ Code Generation, AI Agents, OSS Frameworks) Gemini API, 
+	 	- Compute (VMs, Containers, Clusters) Cloud Run,
+	  	- Data (Blob Storage, Databases, Data Warehouses) Google Cloud Storage, Data Storage, 
+	- Use case 2: Supercharged Marketing & Sales
+		- Gen AI Tools --> Gemini API, Imagen, Agent Builder
+	 	- Compute --> Compute Engine
+	  	- Data --> Google Drive
+	- Use case 3: Enhace Product Developmnet 
+		- Gen AI Tools -->  LangChain, LangGraph
+	 	- Compute --> Google Kubernetes Engine
+	  	- Data --> Big Query, Spanner, Firestore
+- 
+
+
 # 20.02.2025 Agent Course: Bonus Unit: Lesson_1
 - In terms of LLMs, function calling is quickly becoming a must-know technique.
 - **Function Calling**:  is a **way for an LLM to take actions on its environment**.
