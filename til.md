@@ -18,8 +18,15 @@
 		- Gen AI Tools -->  LangChain, LangGraph
 	 	- Compute --> Google Kubernetes Engine
 	  	- Data --> Big Query, Spanner, Firestore
-- 
-
+- Best Practices for Building With AI
+	- Embrace open source> explore open-source projects such as LangChain, LangGraph, open-weight models, and the entire OSS ecoszstem, Stay current, learn together, and help others!
+ 	- Combine tools when possible: Use Gemini with BigQuesry for Large-scale analysis, call Imagen from Gemini for image genaration, or integrate Gemini with Google workspace for document handling.
+  	- Implement modular architectures: Adopt a modular approach to building your AI applications by breaking down tasks into discrete, resuable components.   
+- Evaluation and Quality
+	- Define metrics that matter: Measure quality, then go further. Assess relevance, coherence, and real-world applicability of your AI outputs.
+ 	- User-centric testing: Involve end-users early. Their feedback is crucial for refining your Gen AI application's performance and usibility.
+  	- Continuous monitoring: Impliment systems to track long-term performance. Be ready to adopt as user needs and data pattern evolve.
+  	- 
 
 # 20.02.2025 Agent Course: Bonus Unit: Lesson_1
 - In terms of LLMs, function calling is quickly becoming a must-know technique.
