@@ -1,5 +1,16 @@
 # Things I Learning
 ---
+# 31.03.2025 Everyday AI Concepts: Predictive AI: Lesson_1
+- **Backpropagation of Errors (Backprop)**: When the network makes a bad guess, this failure goes back up through the network to make future changes.
+- A key part of a neural network is that it's adjustable
+- A data model is an abstraction that helps you understand a larger data set. 
+
+
+
+
+
+
+
 # 31.03.2025 Microsoft Generative AI: Responsible Generative AI Process: Lesson_1
 -  The four stages in the process
 	-   Identify potential harms that are relevant to your planned solution.
