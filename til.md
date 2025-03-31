@@ -44,11 +44,6 @@
 
 - One of the most effective ways to mitigate harmful responses from generative AI models in Azure AI Foundry is to use _content filters_. 
 
-
-
-
-
-
 # 13.03.2025 Generative AI: Use Cases for Startups: Lesson_1
 - Customer Support Chatbot
 - Autonamous Backend AI Agents
