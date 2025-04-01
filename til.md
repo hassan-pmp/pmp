@@ -4,7 +4,7 @@
 - **Backpropagation of Errors (Backprop)**: When the network makes a bad guess, this failure goes back up through the network to make future changes.
 - A key part of a neural network is that it's adjustable
 - A data model is an abstraction that helps you understand a larger data set. 
-
+- 
 
 
 
