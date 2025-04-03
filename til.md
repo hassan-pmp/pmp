@@ -11,9 +11,17 @@
 	- Building a model before you know how it will be used in the real world
 	- Lack of understanding of data
 	- Overpromisiong and Underdelivering
--
-
-
+- **Think Big**, **Start Small**, and **Iterate Often**, which is key to AI project success. 
+- **Key to Successful AI projects**
+	- Use proven, data-focused project management methods
+	- Treat AI projects lig Big Data, not traditional software development
+	- Go beyond Agile or the Scientific Method
+	- Cultivate an intelligent, data-driven mindset
+- Are we tackling the right problem?
+- Is AI the right solution to the problem?
+- What type or pattern od AI makes the most sense for the solution?
+- CPMAI Methodology
+![CPMAI_Methodology](https://github.com/user-attachments/assets/fe80dfe6-164c-4a6c-ac6b-3c6bf7667d18)
 
 
 
