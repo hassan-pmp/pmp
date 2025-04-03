@@ -1,5 +1,24 @@
 # Things I Learning
 ---
+# 04.04.2025 Everyday AI Concepts: CPMAI: Lesson_1
+- 80% of AI projects Fail?
+- **Why?**
+	- The ROI is not justified by the project
+	- The time between pilot to full production is too long.
+	- Data Quality Issues
+	- Trusting the Vendors Too much (Product mismatch, Overhype, and Oversell)
+	- Not enough data
+	- Building a model before you know how it will be used in the real world
+	- Lack of understanding of data
+	- Overpromisiong and Underdelivering
+-
+
+
+
+
+
+
+
 # 31.03.2025 Everyday AI Concepts: Predictive AI: Lesson_1
 - **Backpropagation of Errors (Backprop)**: When the network makes a bad guess, this failure goes back up through the network to make future changes.
 - A key part of a neural network is that it's adjustable
