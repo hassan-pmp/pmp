@@ -20,7 +20,8 @@
 - Are we tackling the right problem?
 - Is AI the right solution to the problem?
 - What type or pattern od AI makes the most sense for the solution?
-- CPMAI Methodology
+- **CPMAI Methodology**
+  
 ![CPMAI_Methodology](https://github.com/user-attachments/assets/fe80dfe6-164c-4a6c-ac6b-3c6bf7667d18)
 
 
