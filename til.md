@@ -24,6 +24,38 @@
   
 ![CPMAI_Methodology](https://github.com/user-attachments/assets/fe80dfe6-164c-4a6c-ac6b-3c6bf7667d18)
 
+- AI success depond on data
+	- AI Projects
+ 		- Are fundamentally different from traditional software development
+   		- Aren't about application development- it's about data
+     		- Cannot be run like traditional app development
+       		- Require a data-centric approach
+- AI projects as Data management and Processing Projects
+	- Use Data-Centric Methodoligies
+ 	- Use Data-Centric Technologies
+  	- Build Data-Centric Talent
+  	- Still need Business-Centric ROI
+  	- Leverage Exiting Szstems and Agile Methodoloies
+  	- Find ways to continuously update skills and methods
+- Traditional Project Approaches Don't Work Well for AI
+	- **Predictive** approaches are too rigid, slow, and risky
+ 	- **Challanges**: Hard to predict obstacles and adopt to changes.
+  - **Agile** approaches need tweaks to allow continous learning and fast iteration.
+  - **Benefits**: Faster value delivery, flixibility to re-prioritize.
+  - **Key Challenge**: Balancing continuous model updates with deployment.
+ 
+  - The real complexity lies in and how you shape and prepare the data. That's the secret sauce that gives your AI system its intelligence.
+  - How we ensure reliable results. how to measure and evaluate results, and how we assess what the AI is actually doing.
+  - If we say AI, we run rge risk of talking about projects with vastly different scope, risk, cost, data needs and technology challanges.
+  - **Seven Patterns of AI** : tend to fall into seven main categories of ways in which people apply AI to meet their needs.
+  	-  The conversational Pattern
+   	- The rec  
+
+
+
+
+
+
 
 
 
@@ -32,13 +64,6 @@
 - **Backpropagation of Errors (Backprop)**: When the network makes a bad guess, this failure goes back up through the network to make future changes.
 - A key part of a neural network is that it's adjustable
 - A data model is an abstraction that helps you understand a larger data set. 
-- 
-
-
-
-
-
-
 # 31.03.2025 Microsoft Generative AI: Responsible Generative AI Process: Lesson_1
 -  The four stages in the process
 	-   Identify potential harms that are relevant to your planned solution.
