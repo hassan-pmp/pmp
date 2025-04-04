@@ -72,7 +72,8 @@
 	- Reducing the errors in a previously manual process
   	- Show up as resource saving such as lowering operational costs, or cutting down on manual processes. 
 - The AI Go/No-Go Decision
-	- use this chart to gauge the feasibilty of your AI project 
+	- use this chart to gauge the feasibilty of your AI project
+
 | Business Feasibility | 
 | --- |
 | Is there a clear problem definition? |
