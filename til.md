@@ -50,13 +50,29 @@
   - **Seven Patterns of AI** : tend to fall into seven main categories of ways in which people apply AI to meet their needs.
   	- **The Conversational Pattern**: Focuses on AI systems that can undestand and respond to human language in a natural interactive way. You might see this in chat bots & virtual assistants.
    	- **The Recognition pattern**: Deals with AI systems that identify & categories objects or signals from various data sources such as images, audio, or text. For example, facial recognition technology and handwriting or text extraction from documents both fall under this umbrella. Recognition applications reqire a lot of training, data, and robust validation to ensure they accurately handle real world variability while still performing reliably and efficiently. 
-    	- **The Pattern and Anomaly Detection Pattern**: The pattern and anomally detection pattern focuses on finding 
-     	- **The Predictive Analysis & Decision Pattern**:
-      	- **The Hyper-Personalization Pattern**:
-      	- **The Autonomous System Pattern**:
-      	- **The Goal-Driven System pattern**:  
-
-
+    	- **The Pattern and Anomaly Detection Pattern**: The pattern and anomally detection pattern focuses on finding meaningful regularrities or irregularrities in complex data sets. This includes spotting strange spikes in network traffic, detecting fraudulent transactions and financial data, or even identifying early warning signs of quipment failure in manufacturing.
+     	- **The Predictive Analysis & Decision Pattern**: AI system shift through historical and real-time data to help people forecast outcomes. 
+      	- **The Hyper-Personalization Pattern**: is to use to tailor suggestions to individual users such as recommending products on an e-commerce site or streaming content on a media olatform
+      	- **The Autonomous System Pattern**: Focus on the AI systems that can operate with minimal human intervention.  
+      	- **The Goal-Driven System pattern**: Focuses on AI that optimizes for specefic objective, like scheduling tasks across multiple teams, playing games, or rope planning for efficient logistics.
+  - By identifying the correct pattern or patterns for your AI solution, you can pick the right data strategy, the right technology, and AI solutions to meet the requirements and the right success metrics for the AI project.
+- **CPMAI Phase 1: Business Understanding**
+	- what problem are we solving?
+	- Is AI/Cognitive technology the right solution?
+	- Which parts are require AI?
+	- What AI patterns will we use?
+	- How will we measure success?
+	- What are the project requirements?
+	- What other considerations exist?
+	- What skills are needed?
+- ROI
+  	- Financial (Saving or Generateing Money)
+   	- Time saving
+    	- Reducing the hourse a team needs to spend on repetitive tasks
+	- Reducing the errors in a previously manual process
+  	- Show up as resource saving such as lowering operational costs, or cutting down on manual processes. 
+- The AI Go/No-Go Decision
+	- use this chart to gauge the feasibilty of your AI project 
 
 
 
