@@ -58,6 +58,10 @@
   - By identifying the correct pattern or patterns for your AI solution, you can pick the right data strategy, the right technology, and AI solutions to meet the requirements and the right success metrics for the AI project.
 - **CPMAI Phase 1: Business Understanding**
 	- what problem are we solving?
+ 		- That can AI realy help
+   		- Which parts of the project actually need AI and which do not?
+     		- How we will measure success, financial time savings, Compliance, user satisfaction,  or something else?
+       		- What skills or resources do we need to successfully impliment the AI solution? 
 	- Is AI/Cognitive technology the right solution?
 	- Which parts are require AI?
 	- What AI patterns will we use?
@@ -74,17 +78,33 @@
 - The AI Go/No-Go Decision
 	- use this chart to gauge the feasibilty of your AI project
 
+
 | Business Feasibility | 
 | --- |
 | Is there a clear problem definition? |
 | Is the organiyation willing to invest in change?|
 | Is there sufficient ROI or impact? |
 
+- Do we have a well defined problem?
+- Do Stakeholders agree it's a priority?
+- Will the organiyation acyually use the solution after it's built?
+  
+
 | Implementation Feasibility |
 | --- |
 | Does the data measure what you care about? |
 | Is there enough data to train systems and is it accessible? |
 | Is the data sufficient quality? |
+
+- Do you have the technology and skills to develop and deploy this AI model?
+- Can the AI solution operate where you plan to use it?
+
+- **Instead of each question being a simple Yes or No answer, think of each question like a traffice light.**
+- **Green = Go**
+- **Yellow = Proceed with caution**
+- **Red =  Stop**
+- The goal of Go or No-Go is to answer all the key questions of feasibility with traffic light answers and ensure that you have as many greens as possible. 
+
 
 |Data Feasibility|
 | --- |
@@ -93,6 +113,34 @@
 | Does it make sense to use the model where you plan to use it?|
 
 - An AI project can only move forward if three feasibility factors align: **Business**, **Data**, **Technology**/**Ececution**.
+
+- The Proof of Concept (PoC) vs the Pilot
+- PoC: Demonstrates a concepts in a test environment. Never gets deployed in the real world.
+- Pilot: A real-world project that uses emerging teachnologies in a protected, safe environment but used in real-worls production. 
+- **Ask yourself, what does success looks like?**
+- **Which AI pattern do we need?**
+
+**CPMAI Phase 2: Data Undestanding**
+- What data we need to meet our objectives?
+- How much data do we have, and is it of sufficient quality?
+- What internal and external data are required?
+- What additional data do we need to enhance our current dataset?
+- What are the ongoing requirements for data gathering and prepration?
+- What technology is needed for data manipulation and transformation?
+- Are there any other important data-related factors we should consider?
+
+- AI projects are really data projects. 
+- Phase 1: Why do we need AI to solve this problem?
+- Phase 2: What data is needed to support those AI business requirements?
+
+- The DIKUW Pyramid
+	- in recent decades, we've shofted from data collection to analysis, trasformation insights into actionable knowledge - ascending the DIKUW Pyramid.
+ 	- Wisdom (if, then)
+  	- Undestanding (Why)
+  	- Knowledge (How)
+  	- Information (Who, What, Where,When)
+  	- Data (Basic facts)   
+
 
 
 # 31.03.2025 Everyday AI Concepts: Predictive AI: Lesson_1
