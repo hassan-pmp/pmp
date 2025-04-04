@@ -48,8 +48,13 @@
   - How we ensure reliable results. how to measure and evaluate results, and how we assess what the AI is actually doing.
   - If we say AI, we run rge risk of talking about projects with vastly different scope, risk, cost, data needs and technology challanges.
   - **Seven Patterns of AI** : tend to fall into seven main categories of ways in which people apply AI to meet their needs.
-  	-  The conversational Pattern
-   	- The rec   
+  	- **The Conversational Pattern**: Focuses on AI systems that can undestand and respond to human language in a natural interactive way. You might see this in chat bots & virtual assistants.
+   	- **The Recognition pattern**: Deals with AI systems that identify & categories objects or signals from various data sources such as images, audio, or text. For example, facial recognition technology and handwriting or text extraction from documents both fall under this umbrella. Recognition applications reqire a lot of training, data, and robust validation to ensure they accurately handle real world variability while still performing reliably and efficiently. 
+    	- **The Pattern and Anomaly Detection Pattern**: The pattern and anomally detection pattern focuses on finding 
+     	- **The Predictive Analysis & Decision Pattern**:
+      	- **The Hyper-Personalization Pattern**:
+      	- **The Autonomous System Pattern**:
+      	- **The Goal-Driven System pattern**:  
 
 
 
