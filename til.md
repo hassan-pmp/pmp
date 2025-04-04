@@ -73,12 +73,25 @@
   	- Show up as resource saving such as lowering operational costs, or cutting down on manual processes. 
 - The AI Go/No-Go Decision
 	- use this chart to gauge the feasibilty of your AI project 
+| Business Feasibility | 
+| --- |
+| Is there a clear problem definition? |
+| Is the organiyation willing to invest in change?|
+| Is there sufficient ROI or impact? |
 
+| Implementation Feasibility |
+| --- |
+| Does the data measure what you care about? |
+| Is there enough data to train systems and is it accessible? |
+| Is the data sufficient quality? |
 
+|Data Feasibility|
+| --- |
+| Do you have the required technology and skills?|
+| Can you execute the model in a timely manner? |
+| Does it make sense to use the model where you plan to use it?|
 
-
-
-
+- An AI project can only move forward if three feasibility factors align: **Business**, **Data**, **Technology**/**Ececution**.
 
 
 # 31.03.2025 Everyday AI Concepts: Predictive AI: Lesson_1
