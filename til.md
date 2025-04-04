@@ -49,7 +49,7 @@
   - If we say AI, we run rge risk of talking about projects with vastly different scope, risk, cost, data needs and technology challanges.
   - **Seven Patterns of AI** : tend to fall into seven main categories of ways in which people apply AI to meet their needs.
   	-  The conversational Pattern
-   	- The rec  
+   	- The rec   
 
 
 
