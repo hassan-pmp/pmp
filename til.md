@@ -108,6 +108,7 @@
 - Career development conversations
 
 - **Summary**:
+  
 | Model | Best Used For| Core Components | Purpose | Style |
 | --- | --- | --- | --- | --- |
 | COIN | Giving feedback (especially behavioral) | Context, Observation, Impact, Next steps | Deliver constructive feedback | Direct, respectful |
