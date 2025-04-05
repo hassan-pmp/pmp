@@ -1,5 +1,37 @@
 # Things I Learning
 ---
+# 06.04.2025 Feedback Frameworks: Feedback: Lesson_1
+- **SBI Model**: Highly actionable and straightforward. Good for performance improvment
+	- **S:Situation** - Explain the situation - 
+		- Ex: During yesterday's meeting
+	- **B: Behaviour** - describe the Behaviour
+ 		- Ex: you interrupted a few times
+	- **I:Impact**- Share the Impact
+ 		- Ex: It made your teammate fell unheard
+- **COIN Model**: Emphasises relationship-building alongside feedback. the **COIN Model** is a simple yet powerful framework for giving **constructive**, **actionable feedback** in a structured and emotionally intelligent way.
+
+	- **C: Context**: Describe the situation clearly and objectively. Set the scene. 
+		- Ex: In yesterday’s project review meeting...
+	- **O: Observation**: Share what you specifically saw or heard — avoid interpretations or judgments.
+		- Ex: "...you interrupted the QA lead twice while she was presenting the testing status."
+	- **I – Impact**: Describe the effect of the behavior — on the project, team, or individual.
+		- Ex: "...which made it harder for her to fully explain the risks, and the team seemed hesitant to speak up after that."
+	- **N – Next Steps or Way Forward**: End with a suggestion, question, or commitment for improvement.
+		- Ex: "Let’s work on creating more space for each person to speak during our reviews. Would you be open to trying that next time?"
+-** Why Use the COIN Model?**
+✅ Encourages non-defensive conversations
+✅ Builds psychological safety
+✅ Promotes accountability and growth
+✅ Helps managers and peers give feedback that’s specific and actionable, not vague or personal
+
+- **Bonus: When to Use COIN**
+✅ 1:1 performance feedback
+✅ Peer feedback during retrospectives
+✅ Real-time course correction
+✅ Coaching conversations
+✅ Leadership and development sessions
+
+
 # 04.04.2025 Everyday AI Concepts: CPMAI: Lesson_1
 - 80% of AI projects Fail?
 - **Why?**
