@@ -110,10 +110,10 @@
 - **Summary**:
 - | Model | Best Used For| Core Components | Purpose | Style |
 | --- | --- | --- | --- | --- |
-| COIN | Giving feedback (especially behavioral)| Context, Observation, Impact, Next steps | Deliver constructive feedback | Direct, respectful |
-| GROW| Coaching, development, goal-setting | Goal, Reality, Options, Way forward | Drive action and growth |Reflective, coaching-style |
-| CEDAR | Performance and development conversations |Context, Examples, Diagnosis, Action, Review |Feedback with a learning focus |Coaching, developmental |
-| SBI | Quick and clear behavioral feedback |Behavior, Situation, Impact |Raise awareness and course-correct | Fast, clear, practical |
+| COIN | Giving feedback (especially behavioral) | Context, Observation, Impact, Next steps | Deliver constructive feedback | Direct, respectful |
+| GROW | Coaching, development, goal-setting | Goal, Reality, Options, Way forward | Drive action and growth | Reflective, coaching-style |
+| CEDAR | Performance and development conversations | Context, Examples, Diagnosis, Action, Review | Feedback with a learning focus | Coaching, developmental |
+| SBI | Quick and clear behavioral feedback | Behavior, Situation, Impact | Raise awareness and course-correct | Fast, clear, practical |
 
 
 # 04.04.2025 Everyday AI Concepts: CPMAI: Lesson_1
