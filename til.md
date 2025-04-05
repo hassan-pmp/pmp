@@ -1,13 +1,27 @@
 # Things I Learning
 ---
 # 06.04.2025 Feedback Frameworks: Feedback: Lesson_1
-- **SBI Model**: Highly actionable and straightforward. Good for performance improvment
-	- **S:Situation** - Explain the situation - 
-		- Ex: During yesterday's meeting
+- **SBI Model**: Highly actionable and straightforward. Good for performance improvment. It’s a **simple**, **quick**, and **effective** framework for giving clear and respectful feedback — especially helpful when time is tight or emotional sensitivity is high. It’s often used in leadership, peer feedback, and coaching environments.
+
+
+	- **S:Situation** - Explain the situation - In what context did it happen?
+		- “…when we were discussing the QA team’s report on the latest release…”
+			- Anchors the feedback in a real moment
+			- Keeps it **objective** and **grounded**
 	- **B: Behaviour** - describe the Behaviour
- 		- Ex: you interrupted a few times
+ 		- Ex: You raised your voice in the team meeting…
+			- Focus on observable actions
+			- Avoid judgment or vague labels
 	- **I:Impact**- Share the Impact
- 		- Ex: It made your teammate fell unheard
+ 		- Ex: “…which made the team hesitant to contribute and escalated the tension in the room.”
+			- Emphasizes consequences
+			- Promotes self-awareness and responsibility
+- **Why Use the BSI Model?**
+- ✅ Super straightforward and fast
+- ✅ Ideal for everyday feedback
+- ✅ Helps teams create a feedback culture
+- ✅ Minimizes blame and emotional defensiveness
+
 - **COIN Model**: Emphasises relationship-building alongside feedback. the **COIN Model** is a simple yet powerful framework for giving **constructive**, **actionable feedback** in a structured and emotionally intelligent way.
 
 	- **C: Context**: Describe the situation clearly and objectively. Set the scene. 
@@ -30,6 +44,76 @@
 - ✅ Real-time course correction
 - ✅ Coaching conversations
 - ✅ Leadership and development sessions
+
+- The **GROW Model** is another must-have in your leadership and coaching toolkit — especially powerful for **goal-setting**, **problem-solving**, and **developmental coaching**.
+- **G – Goal**: What do you want to achieve? This is the desired outcome — clear, measurable, and time-bound.
+- “What’s the goal you want to achieve from this sprint/career review/project?”
+- Example: ✅ "I want to improve stakeholder communication and reduce escalations by 30% this quarter."
+
+- **R – Reality**: What’s happening right now? Assess the current situation honestly.
+- “What’s working? What’s not? What have you tried so far?”
+- Example: ✅ "We don’t have a regular update rhythm with the client. Most communication happens reactively when something breaks."
+
+- **O – Options (or Obstacles)**:  What could you do? Generate possibilities. Brainstorm multiple paths forward.
+- “What options do you have? What else? What’s within your control?”
+- Example: ✅ "I could propose a weekly sync with the client, or assign a stakeholder liaison on our team."
+
+-** W – Way Forward / Will**: What will you do next? Turn insights into concrete actions with ownership and accountability.
+- “What’s your next step? When will you do it? What support do you need?”
+- Example: ✅ "I’ll draft a stakeholder meeting cadence by Friday and review it with the Product Owner."
+
+- Why the GROW Model Works So Well at Work
+- ✅ Encourages self-reflection and ownership
+- ✅ Moves from problem to action
+- ✅ Builds coaching conversations into team culture
+- ✅ Works beautifully in 1:1s, retros, OKR check-ins, career development
+
+- the **CEDAR Model** is a structured, practical framework designed to guide **developmental conversations**, particularly around performance and feedback. It's widely used in leadership coaching, people development, and organizational performance reviews. It was created by **Jenny Rogers**, a leading executive coach, and is especially effective for turning feedback into growth.
+
+- **C – Context**: Set the stage: Why are we having this conversation? “Let’s talk about your recent sprint review presentation — it’s a great opportunity to reflect and grow.”
+- Clarifies the purpose
+- Removes ambiguity
+- Aligns both parties
+
+- **E – Examples**: Use specific examples to highlight behavior or results. “You presented the sprint progress, but skipped over some key blockers that QA had flagged earlier in Slack.”
+- Avoids generalizations
+- Anchors the conversation in facts, not opinions
+
+- **D – Diagnosis**: Collaboratively explore what’s going on beneath the surface.“What do you think happened there? What influenced your decision to skip that part?”
+- Encourages self-reflection
+- Builds shared understanding
+- Surfaces hidden blockers (skill, mindset, systems) 
+
+- **A – Actions**: Define what should be done next. What improvements or changes can be made? “Let’s try integrating a checklist for blockers in your next sprint review — would that help?”
+- Moves from insight to action
+- Encourages accountability
+- Empowers the person to shape their path forward
+
+- **R – Review**: Agree how and when you’ll check back in. “Let’s revisit this in our 1:1 next Friday — I’d love to hear how it went.”
+- Reinforces follow-through
+- Builds momentum and trust
+- Turns feedback into a loop, not a one-off event
+
+- **Why Use the CEDAR Model?**
+- ✅ Focuses on learning, not just evaluation
+- ✅ Supports psychological safety and growth
+- ✅ Works in coaching, leadership, and HR contexts
+- ✅ Bridges the gap between performance feedback and developmental support
+
+- **When to Use It**:
+- Performance check-ins
+- Project debriefs
+- Sprint reviews and Agile retrospectives
+- Coaching or mentoring sessions
+- Career development conversations
+
+- **Summary**:
+- | Model | Best Used For| Core Components | Purpose | Style |
+| --- | --- | --- | --- | --- |
+| COIN | Giving feedback (especially behavioral)| Context, Observation, Impact, Next steps | Deliver constructive feedback | Direct, respectful |
+| GROW| Coaching, development, goal-setting | Goal, Reality, Options, Way forward | Drive action and growth |Reflective, coaching-style |
+| CEDAR | Performance and development conversations |Context, Examples, Diagnosis, Action, Review |Feedback with a learning focus |Coaching, developmental |
+| SBI | Quick and clear behavioral feedback |Behavior, Situation, Impact |Raise awareness and course-correct | Fast, clear, practical |
 
 
 # 04.04.2025 Everyday AI Concepts: CPMAI: Lesson_1
