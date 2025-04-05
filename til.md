@@ -19,17 +19,17 @@
 	- **N – Next Steps or Way Forward**: End with a suggestion, question, or commitment for improvement.
 		- Ex: "Let’s work on creating more space for each person to speak during our reviews. Would you be open to trying that next time?"
 -** Why Use the COIN Model?**
-✅ Encourages non-defensive conversations
-✅ Builds psychological safety
-✅ Promotes accountability and growth
-✅ Helps managers and peers give feedback that’s specific and actionable, not vague or personal
+- ✅ Encourages non-defensive conversations
+- ✅ Builds psychological safety
+- ✅ Promotes accountability and growth
+- ✅ Helps managers and peers give feedback that’s specific and actionable, not vague or personal
 
 - **Bonus: When to Use COIN**
-✅ 1:1 performance feedback
-✅ Peer feedback during retrospectives
-✅ Real-time course correction
-✅ Coaching conversations
-✅ Leadership and development sessions
+- ✅ 1:1 performance feedback
+- ✅ Peer feedback during retrospectives
+- ✅ Real-time course correction
+- ✅ Coaching conversations
+- ✅ Leadership and development sessions
 
 
 # 04.04.2025 Everyday AI Concepts: CPMAI: Lesson_1
