@@ -52,15 +52,18 @@
 
 - **R – Reality**: What’s happening right now? Assess the current situation honestly.
 - “What’s working? What’s not? What have you tried so far?”
-- Example: ✅ "We don’t have a regular update rhythm with the client. Most communication happens reactively when something breaks."
+- Example:
+	- ✅ "We don’t have a regular update rhythm with the client. Most communication happens reactively when something breaks."
 
 - **O – Options (or Obstacles)**:  What could you do? Generate possibilities. Brainstorm multiple paths forward.
 - “What options do you have? What else? What’s within your control?”
-- Example: ✅ "I could propose a weekly sync with the client, or assign a stakeholder liaison on our team."
+- Example:
+	- ✅ "I could propose a weekly sync with the client, or assign a stakeholder liaison on our team."
 
 -** W – Way Forward / Will**: What will you do next? Turn insights into concrete actions with ownership and accountability.
 - “What’s your next step? When will you do it? What support do you need?”
-- Example: ✅ "I’ll draft a stakeholder meeting cadence by Friday and review it with the Product Owner."
+- Example:
+	- ✅ "I’ll draft a stakeholder meeting cadence by Friday and review it with the Product Owner."
 
 - Why the GROW Model Works So Well at Work
 - ✅ Encourages self-reflection and ownership
