@@ -48,7 +48,8 @@
 - The **GROW Model** is another must-have in your leadership and coaching toolkit — especially powerful for **goal-setting**, **problem-solving**, and **developmental coaching**.
 - **G – Goal**: What do you want to achieve? This is the desired outcome — clear, measurable, and time-bound.
 - “What’s the goal you want to achieve from this sprint/career review/project?”
-- Example: ✅ "I want to improve stakeholder communication and reduce escalations by 30% this quarter."
+- Example:
+	- ✅ "I want to improve stakeholder communication and reduce escalations by 30% this quarter."
 
 - **R – Reality**: What’s happening right now? Assess the current situation honestly.
 - “What’s working? What’s not? What have you tried so far?”
