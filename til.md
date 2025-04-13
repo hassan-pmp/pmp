@@ -54,12 +54,19 @@
 
 
 **CPMAI Phase IV: Model Development**:
+
 	- How can we transform the data into a machine learning model that meets the project's requirements?
+ 
 	- How effectively are we training the machine learning model?
+ 
 	- How successfully are we optimizing the model?
+ 
 	- Which algorithms, settings, and hyperparameteres are best suited for our projects?
+ 
 	- Should we create ensemble models, and if so, how?
+ 
 	- Would using third-party models or model extensions benefit our project?
+ 
 	- Are we correctly developing our model according to the chosen machine learning techniques?
 
 
