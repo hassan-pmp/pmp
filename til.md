@@ -28,12 +28,18 @@
 - **80% of AI projects are Data Engineering**
 ![Capture](https://github.com/user-attachments/assets/95afe00a-55f2-4615-8403-7095a328373f)
 
-- **CPMAI Phase III: Data Prepartion**:
+**CPMAI Phase III: Data Prepartion**:
+
 - How should data be cleaned and prepared?
+- 
 - How can we create repeatable steps for data engineering?
+- 
 - How can we continuously monitor and evaluate data quality?
+- 
 - How can we effectively use or modify thirdparty data?
+- 
 - When and How should humans be involved in data lableing?
+- 
 - What additional steps can we take to augment data?
 
 - Data Labeling:
@@ -84,11 +90,17 @@
 - How will we measure success or quality?
 
 **CPMAI Phase V: Model Evaluation**:
+
 	- Does the model meet required accuracy and precision metrics?
+ 
 	- Are there concerns about overfitting or underfitting?
+ 
 	- Are the training validation, and test curves acceptable?
+ 
 	- Does the model suitable for the chosen operational approach?
+ 
 	- How will the model be monitored?
+ 
 	- How will the model be iterated and versioned?
 
 - **The Rise of Machine Learning Operation(MLOps)**
