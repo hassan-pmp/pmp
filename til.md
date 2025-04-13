@@ -54,13 +54,13 @@
 
 
 - **CPMAI Phase IV: Model Development**:
-- How can we transform the data into a machine learning model that meets the project's requirements?
-- How effectively are we training the machine learning model?
-- How successfully are we optimizing the model?
-- Which algorithms, settings, and hyperparameteres are best suited for our projects?
-- Should we create ensemble models, and if so, how?
-- Would using third-party models or model extensions benefit our project?
-- Are we correctly developing our model according to the chosen machine learning techniques?
+	- How can we transform the data into a machine learning model that meets the project's requirements?
+	- How effectively are we training the machine learning model?
+	- How successfully are we optimizing the model?
+	- Which algorithms, settings, and hyperparameteres are best suited for our projects?
+	- Should we create ensemble models, and if so, how?
+	- Would using third-party models or model extensions benefit our project?
+	- Are we correctly developing our model according to the chosen machine learning techniques?
 
 
 - What algorithm or approach we are doing to implement the solution. Are you soing Classification, Regression, Clustering or something else?
@@ -70,13 +70,59 @@
 - How will end user intract with it?
 - How often will it need re-training?
 - How much will it cost when it's being used in the real worls?
+- Does the selected model or platform actually solve our defined business problem?
+- Do we have enough resources to train and run this model effectively?
+- Can we integrate this model easly into our existing systems or workflows?
+- Do we need a pre-training model or is a custom approach absolutely necessary?
+- How will we measure success or quality?
+
+- **CPMAI Phase V: Model Evaluation**:
+	- Does the model meet required accuracy and precision metrics?
+	- Are there concerns about overfitting or underfitting?
+	- Are the training validation, and test curves acceptable?
+	- Does the model suitable for the chosen operational approach?
+	- How will the model be monitored?
+	- How will the model be iterated and versioned?
+
+- **The Rise of Machine Learning Operation(MLOps)**
+- **DevOps for ML**
+	- Model development lifecycle
+	- Model deployment
+	- Model versioning
+
+- **ML Model-specific Ops**:
+	- Model drift
+	- Data drift
+	- Data provenance
+	- Model discovery
+- **ML Dev**:
+	- Model Dev
+	- Data Prep
+	- Model Training
+	- Model Evaluation
+	- Model Package
+
+- **ML OPS**:
+	- Model Governance
+	- Model Versioning
+	- Model Discovery
+	- Model Transparency
+	- Model Security
+	- Model Monitoring
+- DevOps introduced the idea of continuous monitoring and versioning, keeping track of which model version is in use, how well it's performing, and whwther you need to roll back to a previous model if problem arise. 
+- **Data Drift**: which is the problem that the data feeding your model changes over time, which can cause AI systems to perform poorly over time.
+- **Model Drift**: in which the model's predictions becomes less reliable as real world conditions shift, which can also cause AI system to degrade in performance.
+- **Data Provenance**: which is undestanding exactely which data went into training each version of your model.
+- **Model Governance**: what rules do we need to follow on how to version and update models? Who decides when to update it? and how do you ensure compliance with regulations or organiyational policies?
+
+- Iterate modls to keep them accurate in the teal world
+- Stable environments may require less frequent updates
+- Dynamic environments need regular model evaluation and updates.
+- Successful AI depends on predictable and continuous improvment cycles
+  
+![Capture1](https://github.com/user-attachments/assets/a7a4b9d2-e489-4721-ad2c-0ed019ab5cf5)
+
 - 
-- 
-
-
-
-
-
 
 # 06.04.2025 Feedback Frameworks: Feedback: Lesson_1
 - **SBI Model**: Highly actionable and straightforward. Good for performance improvment. It’s a **simple**, **quick**, and **effective** framework for giving clear and respectful feedback — especially helpful when time is tight or emotional sensitivity is high. It’s often used in leadership, peer feedback, and coaching environments.
