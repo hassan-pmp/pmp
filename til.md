@@ -1,5 +1,83 @@
 # Things I Learning
 ---
+# 14.04.2025 Everyday AI Concepts: CPMAI: Lesson_2
+- The DIKUW Pyramid
+	- in recent decades, we've shofted from data collection to analysis, trasformation insights into actionable knowledge - ascending the DIKUW Pyramid.
+ 	- Wisdom (if, then)
+  	- Undestanding (Why)
+  	- Knowledge (How)
+  	- Information (Who, What, Where,When)
+  	- Data (Basic facts)   
+- The "V's" of Big Data
+	- **Volume**:
+ 		- How much?
+   		- Data at rest
+     		- Dealing with Storage and retrieval of data   
+ 	- **Velocity**:
+		  - How is it Changing?
+		  - Data in Motion
+		  - Dealing with rapidlly changing or moving data in different locations.
+  	- **Variety**:
+	  	- What types?
+	  	- Data in Many forms
+	  	- Dealing with structured, unstructured and semi-strauctured data of differint types
+  	- **Veracity**:
+	  	- How accurate?
+	  	- Data in Doubt?
+	  	- Uncertainty due to data inconsistency, incompleteness, accuracy, latency, or other quality issues.
+- **80% of AI projects are Data Engineering**
+![Capture](https://github.com/user-attachments/assets/95afe00a-55f2-4615-8403-7095a328373f)
+
+- **CPMAI Phase III: Data Prepartion**:
+- How should data be cleaned and prepared?
+- How can we create repeatable steps for data engineering?
+- How can we continuously monitor and evaluate data quality?
+- How can we effectively use or modify thirdparty data?
+- When and How should humans be involved in data lableing?
+- What additional steps can we take to augment data?
+
+- Data Labeling:
+	- Supervised learning needs labled data
+ 	- how to get it:
+	  	- Label it yourself
+	  	- Find existing labeled datasets
+	  	- Have users label it
+	  	- Hire contractors
+	  	- Use data labeling services    
+
+
+- How much your data be transformed to meet project requirments?
+- What's your approach to data cleansing, merging, and labeling?
+- Have you identified and removed or mitigated biased or incomplete data?
+- Are your data piplines clearly laid out with sources, transformations, and destinations?
+- Do you have the right mix of skills and technologies to implement this pipline effectively?
+
+
+- **CPMAI Phase IV: Model Development**:
+- How can we transform the data into a machine learning model that meets the project's requirements?
+- How effectively are we training the machine learning model?
+- How successfully are we optimizing the model?
+- Which algorithms, settings, and hyperparameteres are best suited for our projects?
+- Should we create ensemble models, and if so, how?
+- Would using third-party models or model extensions benefit our project?
+- Are we correctly developing our model according to the chosen machine learning techniques?
+
+
+- What algorithm or approach we are doing to implement the solution. Are you soing Classification, Regression, Clustering or something else?
+- Which algorithm approach, tool or platform choice best matches the nature of your data and your business goals?
+- Will you use the third party AI service, a cloud-based AI platform, or build everything in-house?
+- Where will this model live?
+- How will end user intract with it?
+- How often will it need re-training?
+- How much will it cost when it's being used in the real worls?
+- 
+- 
+
+
+
+
+
+
 # 06.04.2025 Feedback Frameworks: Feedback: Lesson_1
 - **SBI Model**: Highly actionable and straightforward. Good for performance improvment. It’s a **simple**, **quick**, and **effective** framework for giving clear and respectful feedback — especially helpful when time is tight or emotional sensitivity is high. It’s often used in leadership, peer feedback, and coaching environments.
 
@@ -254,33 +332,7 @@
 - Phase 1: Why do we need AI to solve this problem?
 - Phase 2: What data is needed to support those AI business requirements?
 
-- The DIKUW Pyramid
-	- in recent decades, we've shofted from data collection to analysis, trasformation insights into actionable knowledge - ascending the DIKUW Pyramid.
- 	- Wisdom (if, then)
-  	- Undestanding (Why)
-  	- Knowledge (How)
-  	- Information (Who, What, Where,When)
-  	- Data (Basic facts)   
-- The "V's" of Big Data
-	- **Volume**:
- 		- How much?
-   		- Data at rest
-     		- Dealing with Storage and retrieval of data   
- 	- **Velocity**:
-		  - How is it Changing?
-		  - Data in Motion
-		  - Dealing with rapidlly changing or moving data in different locations.
-  	- **Variety**:
-	  	- What types?
-	  	- Data in Many forms
-	  	- Dealing with structured, unstructured and semi-strauctured data of differint types
-  	- **Veracity**:
-	  	- How accurate?
-	  	- Data in Doubt?
-	  	- Uncertainty due to data inconsistency, incompleteness, accuracy, latency, or other quality issues.
-- 80% of AI projects are Data Engineering
-![Capture](https://github.com/user-attachments/assets/95afe00a-55f2-4615-8403-7095a328373f)
-  
+
 
 
 
