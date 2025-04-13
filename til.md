@@ -1,14 +1,14 @@
 # Things I Learning
 ---
 # 14.04.2025 Everyday AI Concepts: CPMAI: Lesson_2
-- The DIKUW Pyramid
+- **The DIKUW Pyramid**
 	- in recent decades, we've shofted from data collection to analysis, trasformation insights into actionable knowledge - ascending the DIKUW Pyramid.
  	- Wisdom (if, then)
   	- Undestanding (Why)
   	- Knowledge (How)
   	- Information (Who, What, Where,When)
   	- Data (Basic facts)   
-- The "V's" of Big Data
+- **The "V's" of Big Data**
 	- **Volume**:
  		- How much?
    		- Data at rest
@@ -30,17 +30,17 @@
 
 **CPMAI Phase III: Data Prepartion**:
 
-- How should data be cleaned and prepared?
-
-- How can we create repeatable steps for data engineering?
-
-- How can we continuously monitor and evaluate data quality?
-
-- How can we effectively use or modify thirdparty data?
-
-- When and How should humans be involved in data lableing?
-
-- What additional steps can we take to augment data?
+	- How should data be cleaned and prepared?
+	
+	- How can we create repeatable steps for data engineering?
+	
+	- How can we continuously monitor and evaluate data quality?
+	
+	- How can we effectively use or modify thirdparty data?
+	
+	- When and How should humans be involved in data lableing?
+	
+	- What additional steps can we take to augment data?
 
 - Data Labeling:
 	- Supervised learning needs labled data
