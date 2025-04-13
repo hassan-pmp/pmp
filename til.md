@@ -233,7 +233,7 @@
 | Can you execute the model in a timely manner? |
 | Does it make sense to use the model where you plan to use it?|
 
-- An AI project can only move forward if three feasibility factors align: **Business**, **Data**, **Technology**/**Ececution**.
+- An AI project can only move forward if three feasibility factors align: **Business**, **Data**, **Technology**/**Execution**.
 
 - The Proof of Concept (PoC) vs the Pilot
 - PoC: Demonstrates a concepts in a test environment. Never gets deployed in the real world.
@@ -261,8 +261,6 @@
   	- Knowledge (How)
   	- Information (Who, What, Where,When)
   	- Data (Basic facts)   
-
-
 
 # 31.03.2025 Everyday AI Concepts: Predictive AI: Lesson_1
 - **Backpropagation of Errors (Backprop)**: When the network makes a bad guess, this failure goes back up through the network to make future changes.
