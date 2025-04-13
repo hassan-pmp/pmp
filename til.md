@@ -53,7 +53,7 @@
 - Do you have the right mix of skills and technologies to implement this pipline effectively?
 
 
-- **CPMAI Phase IV: Model Development**:
+**CPMAI Phase IV: Model Development**:
 	- How can we transform the data into a machine learning model that meets the project's requirements?
 	- How effectively are we training the machine learning model?
 	- How successfully are we optimizing the model?
@@ -76,7 +76,7 @@
 - Do we need a pre-training model or is a custom approach absolutely necessary?
 - How will we measure success or quality?
 
-- **CPMAI Phase V: Model Evaluation**:
+**CPMAI Phase V: Model Evaluation**:
 	- Does the model meet required accuracy and precision metrics?
 	- Are there concerns about overfitting or underfitting?
 	- Are the training validation, and test curves acceptable?
@@ -130,7 +130,7 @@
 
 
 
-- **CPMAI Phase VI: Model Operationalzation**:
+**CPMAI Phase VI: Model Operationalzation**:
 - How will the model be used in the real worls?
 - What data is needed for the model to work effectively?
 - What performance standards should the model meet?
