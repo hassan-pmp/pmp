@@ -31,15 +31,15 @@
 **CPMAI Phase III: Data Prepartion**:
 
 - How should data be cleaned and prepared?
-- 
+
 - How can we create repeatable steps for data engineering?
-- 
+
 - How can we continuously monitor and evaluate data quality?
-- 
+
 - How can we effectively use or modify thirdparty data?
-- 
+
 - When and How should humans be involved in data lableing?
-- 
+
 - What additional steps can we take to augment data?
 
 - Data Labeling:
