@@ -122,7 +122,22 @@
   
 ![Capture1](https://github.com/user-attachments/assets/a7a4b9d2-e489-4721-ad2c-0ed019ab5cf5)
 
-- 
+- Is the model consistently meeting its business objectives like cost saving, efficiency gains, or risk reduction?
+- Are the right performance metrics in place for continuous monitoring, not just the data science metrics, but also business KPIs.
+- What triggers a retraining or re-deployment of the model?
+- How will we version our models and manage rollbacks or upgrades?
+- Who is responsible for long-term governance, compliance, and user adoption?
+
+
+
+- **CPMAI Phase VI: Model Operationalzation**:
+- How will the model be used in the real worls?
+- What data is needed for the model to work effectively?
+- What performance standards should the model meet?
+- How will the model be deployed in different environments?
+- How will the model versions and updates be managed?
+- How will the model's impact on business goals be measured?
+- How will success be defined, and when will improvements be needed?
 
 # 06.04.2025 Feedback Frameworks: Feedback: Lesson_1
 - **SBI Model**: Highly actionable and straightforward. Good for performance improvment. It’s a **simple**, **quick**, and **effective** framework for giving clear and respectful feedback — especially helpful when time is tight or emotional sensitivity is high. It’s often used in leadership, peer feedback, and coaching environments.
