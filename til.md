@@ -158,6 +158,24 @@
 - How will the model's impact on business goals be measured?
 - How will success be defined, and when will improvements be needed?
 
+
+- Where will the model run or premises servers in the cloud or even at the edge, such as on a device or sensors?
+- What data piplines need to stay live?
+- How will data flow into the model and how will outputs flow back to users or systems?
+- What performance constraints must we respect?
+- How much time does it take your model to repond to a request?
+- How many simultaneous users can it handle before it slows down?
+- How decided when to upgrae to a new model?
+- How to we roll back if an update has worse performance?
+
+
+- Are you achieving ROI:
+	- Whether that's cost saving, reduce downtime, faster customer service response time, 
+- **Think Big, Start Small, ITERATE OFTEN**.
+- 
+
+
+
 # 06.04.2025 Feedback Frameworks: Feedback: Lesson_1
 - **SBI Model**: Highly actionable and straightforward. Good for performance improvment. It’s a **simple**, **quick**, and **effective** framework for giving clear and respectful feedback — especially helpful when time is tight or emotional sensitivity is high. It’s often used in leadership, peer feedback, and coaching environments.
 
