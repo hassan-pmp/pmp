@@ -261,6 +261,29 @@
   	- Knowledge (How)
   	- Information (Who, What, Where,When)
   	- Data (Basic facts)   
+- The "V's" of Big Data
+	- **Volume**:
+ 		- How much?
+   		- Data at rest
+     		- Dealing with Storage and retrieval of data   
+ 	- **Velocity**:
+		  - How is it Changing?
+		  - Data in Motion
+		  - Dealing with rapidlly changing or moving data in different locations.
+  	- **Variety**:
+	  	- What types?
+	  	- Data in Many forms
+	  	- Dealing with structured, unstructured and semi-strauctured data of differint types
+  	- **Veracity**:
+	  	- How accurate?
+	  	- Data in Doubt?
+	  	- Uncertainty due to data inconsistency, incompleteness, accuracy, latency, or other quality issues.
+- 80% of AI projects are Data Engineering
+![Capture](https://github.com/user-attachments/assets/95afe00a-55f2-4615-8403-7095a328373f)
+  
+
+
+
 
 # 31.03.2025 Everyday AI Concepts: Predictive AI: Lesson_1
 - **Backpropagation of Errors (Backprop)**: When the network makes a bad guess, this failure goes back up through the network to make future changes.
