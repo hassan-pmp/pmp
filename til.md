@@ -2,6 +2,7 @@
 ---
 # 03.05.2025 Product Manager: CIRCLES: Lesson_1
 - CIRCLES
+  
 | Letter | Stand For| Purpose |
 | --- | --- | --- |
 | C | Comprehend the situation | Understand the context, users, and goals |
