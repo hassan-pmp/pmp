@@ -22,6 +22,17 @@
 | T | Talent | Valuing and nurturing skills, knowledge, and contributions of individuals |
 | H | Humor | Promoting a positive, human-centered, and enjoyable work environment |
 
+
+| Letter | Stand For| Purpose |
+| --- | --- | --- |
+| R | Reach |  |
+| I | Impact |  |
+| C | Confidence |  |
+| E | Effort |  |
+
+
+
+what is RICE: , , , 
 # 14.04.2025 Everyday AI Concepts: CPMAI: Lesson_2
 - **The DIKUW Pyramid**
 	- in recent decades, we've shofted from data collection to analysis, trasformation insights into actionable knowledge - ascending the DIKUW Pyramid.
