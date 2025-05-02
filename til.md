@@ -1,5 +1,17 @@
 # Things I Learning
 ---
+# 03.05.2025 Product Manager: CIRCLES: Lesson_1
+- CIRCLES
+| Letter | Stand For| Purpose |
+| --- | --- | --- |
+| C | Comprehend the situation | Understand the context, users, and goals |
+| I | Identify the customer | Define who the target user is |
+| R | Report the customer’s needs | Pinpoint what the user is trying to solve or achieve |
+| C | Cut through scope	 | Narrow down to a specific and manageable problem to solve |
+| L | List solutions | Brainstorm a variety of possible features or changes |
+| E | Evaluate trade-offs | Analyze the pros and cons of your proposed solutions |
+| S | Summarize your recommendation | Conclude with your best idea and how it addresses the core needs |
+
 # 14.04.2025 Everyday AI Concepts: CPMAI: Lesson_2
 - **The DIKUW Pyramid**
 	- in recent decades, we've shofted from data collection to analysis, trasformation insights into actionable knowledge - ascending the DIKUW Pyramid.
