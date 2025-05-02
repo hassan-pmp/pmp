@@ -13,6 +13,15 @@
 | E | Evaluate trade-offs | Analyze the pros and cons of your proposed solutions |
 | S | Summarize your recommendation | Conclude with your best idea and how it addresses the core needs |
 
+
+| Letter | Stand For| Purpose |
+| --- | --- | --- |
+| F | Focus | Staying aligned with goals, priorities, and what truly matters |
+| A | Ambition | Striving for excellence, continuous growth, and bold vision |
+| I | Integrity | Acting with honesty, ethics, and transparency in all actions |
+| T | Talent | Valuing and nurturing skills, knowledge, and contributions of individuals |
+| H | Humor | Promoting a positive, human-centered, and enjoyable work environment |
+
 # 14.04.2025 Everyday AI Concepts: CPMAI: Lesson_2
 - **The DIKUW Pyramid**
 	- in recent decades, we've shofted from data collection to analysis, trasformation insights into actionable knowledge - ascending the DIKUW Pyramid.
