@@ -1,5 +1,64 @@
 # Things I Learning
 ---
+# 10.05.2025 Product Owner: Frameworks: Lesson_1
+- **RICE**: When to use: When you have a lot of ideas and need a way to prioritize.
+	- Reach: How many people are affected?
+	- Impact: How much impact does it have on the business?
+	- Confidence: How confident are we that our assumptions are correct?
+	- Effort: How much time and resources will it take?
+- **Common Mistake**: Underestimating the amount of effort required. Often thinking things are going faster than they actually are.
+- **Trick**: Always have someone from outside the team review the scores to avoid internal bias.
+
+
+-**DACI** : When to use: When you have many stakeholders and their roles are unclear.
+	- Driver: Who is going to drive this work forward?
+	- Approver: Who makes the final decision?
+	- Contributors: Who are the people who give feedback but are not the decision makers?
+	- Informed: Who should only be informed?
+- **Common Mistake**: Treating Contributors like Approvers. Sometimes, just because someone gives feedback, it is assumed that they should also be involved in the final decision-making.
+- **Trick**: Before starting the project, specify who will make the final decision, otherwise the work will be stuck.
+
+-**JTBD (Jobs To Be Done)**
+	- When to use: When you want to understand why users choose or reject your product.
+	- Users don't buy features, they hire the product to do the job.
+	- Instead of asking "What features do you want?" ask "What problem do you solve?"
+	- Questions like "What part of the app annoys you when you're in a hurry?" will help you understand the real reason for the problems.
+- **Common Mistake**: Product managers accept user requests without deep analysis and don't get to the root of the problem.
+- **Trick**: Customers tell you the problem, not the cause. It's your job to find the root of the problem
+
+- **AARRR**: When to use: When you’re focused on user acquisition and revenue generation.
+	- Acquisition: How do users find us?
+	- Activation: How quickly do they get value from the product?
+	- Retention: Why do they come back?
+	- Referral: Do they refer others to us?
+	- Revenue: Can we make money from them?
+- **Common Mistake**: Focusing too much on user acquisition and ignoring retention means you’re just throwing new users into a “hole bucket.”
+- **Trick**: If your retention rate is low, fix that first. Otherwise, you’re just throwing new users into a broken system.
+
+- **MOSCOW** : When to use: When stakeholders expect everything to be implemented in the first release.
+	- Must Have: Without this feature, the product is worthless.
+	- Should Have: Important, but it works without it.
+	- Could Have: Nice to have, but not a priority.
+	- Won’t Have: Not in the pipeline yet.
+- **Common mistake**: Marking everything as “must have.” When everything is a priority, nothing is a priority.
+- **Trick**: Always ask: “What would break if we removed this feature?” If the answer is “nothing,” it’s not a Must Have!
+
+
+- **RACI** : When to use: When teams are unclear about responsibilities and roles.
+	- Responsible: Who actually does the work?
+	- Accountable: Who is the final decision maker?
+	- Consulted: Who can give feedback?
+	- Informed: Who should just be informed?
+- **Common Mistake**: A product manager may be ultimately responsible for a feature, but the technical team is responsible for building and implementing it.
+- **Trick**: If roles are not clear, the project will sink into chaos.
+
+- **NOW-NEXT-LATER**: When to use: When you need a flexible and understandable roadmap.
+	- Now: Tasks that are currently underway.
+	- Next: Next priorities that have not yet started.
+	- Later: Future ideas that are not yet finalized.
+- **Common mistake**: Turning this model into a timeline, while this framework is a dynamic prioritization model and should not be turned into a rigid, unchanging schedule.
+- **Trick**: The roadmap should be clear and general. Stakeholders want direction, not a detailed Gantt chart!
+
 # 03.05.2025 Product Manager: CIRCLES: Lesson_1
 - CIRCLES
   
