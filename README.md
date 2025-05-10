@@ -1,8 +1,8 @@
 # PMP
 ## TODO
 ## Milestone
-* Write an **Artilce**
-* **PMP Cerification**
+* Write an **Artilce** ✅
+* **PMP Cerification** ✅
 * Prepration for publishing an __Important__ Book
 * This is an _Important_ text
 * 
