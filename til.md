@@ -1,5 +1,24 @@
 # Things I Learning
 ---
+# 26.07.2025 CDBA: Introduction: Lesson_1
+-  A process through which business professionals, who are not officially trained in IT disciplines, **creates and deploy applications and technology solutions** to solve business challanges.
+-  Who are Citiyen Developers? Busines professionals who created customized apps using Low Code/No Code (LCNC) tools to solve business challamges.
+
+- Main Roles in CD:
+	- Practitioners
+ 	- Business Architects
+  	- Strategies   
+- There are 5 Stages of maturity for organization to using CD:
+	- Discovery
+	- Experimentation
+	- Adoption
+	- Scaling
+	- Innovating
+- 
+
+
+
+
 # 10.05.2025 Product Owner: Frameworks: Lesson_1
 - **RICE**: When to use: When you have a lot of ideas and need a way to prioritize.
 	- Reach: How many people are affected?
