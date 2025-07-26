@@ -1,6 +1,40 @@
 # Things I Learning
 ---
-# 26.07.2025 CDBA: Introduction: Lesson_1
+# 26.07.2025 CDBA: Introduction: Lesson_2
+- Six elemets the CDBA must focus upon in order to achieve success:
+	- Change
+ 	- Culture
+  	- Accountability
+  	- Governance
+  	- Measurment
+  	- Value   
+- Root Causes of Resistance of Change :
+	- **Distrupted routines**: Routing provide a source of confort and consistency, and when something threatens it, it can arouse stress. when changing deeply embedded routines, the CDBA will always encounter resistance, whether open or covert.
+ 	- **Lack of clarity**: When change is introduced without sufficient explanation, people may be confused as to why it is needed.
+  	- **Loss of Status**: Many people object to change that erodes how they perceive themselves, or how others perceive them
+   	- **Recent flops**: Memories of failed application launches can make people skeptical of the value of similar initiatives. At best, they will be passive observers: at worst, they will ridicule the effort and actively avoid being part of CD initiatives. 
+  	- **Insufficient prepration**: Individuals need to be confident that they can continue to operate effectively once the new application has been launched. If they perceive that they are not adequately prepared, they will not buy into the change. 
+
+- 7 Strategies to identify, address, and manage resistance:
+	- Create sense of shared ownership
+ 		-  Undestand potential source of resistences
+   		- Invite the individuals to the table early in the process   
+ 	- Ensure organizational aligment
+  	- identify and mobilize change ambassadors
+  	- Engage stakeholders regularly
+  	- Create a learning path
+  	- Create FAQ documents
+  	- Show what the future holds
+  -    
+
+
+
+
+
+
+
+
+# 25.07.2025 CDBA: Introduction: Lesson_1
 -  A process through which business professionals, who are not officially trained in IT disciplines, **creates and deploy applications and technology solutions** to solve business challanges.
 -  Who are Citiyen Developers? Busines professionals who created customized apps using Low Code/No Code (LCNC) tools to solve business challamges.
 
