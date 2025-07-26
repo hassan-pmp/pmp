@@ -27,8 +27,13 @@
   	- Show what the future holds
 <img width="1080" height="755" alt="image" src="https://github.com/user-attachments/assets/198e874a-13e3-47e5-a0a9-de03d4428226" />
 
-
-
+- To foster **Accountability**:
+	- Clear Expectation
+ 	- Clear Capabilities
+  	- Clear Measurement
+  	- Clear Feedback
+  	- Clear Consequences
+- 
 
 
 
