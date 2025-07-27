@@ -7,7 +7,7 @@
   	- Accountability
   	- Governance
   	- Measurment
-  	- Value   
+  	- Value 
 - Root Causes of Resistance of Change :
 	- **Distrupted routines**: Routing provide a source of confort and consistency, and when something threatens it, it can arouse stress. when changing deeply embedded routines, the CDBA will always encounter resistance, whether open or covert.
  	- **Lack of clarity**: When change is introduced without sufficient explanation, people may be confused as to why it is needed.
