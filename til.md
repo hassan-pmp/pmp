@@ -1,5 +1,13 @@
 # Things I Learning
 ---
+# 06.11.2025 Project Management: The Collaboration Playbook: Lesson_2
+- Product Manager Challanges
+	- Define the right problem to solve
+ 	- Explore solution
+  	- Identify features that drive meaningful impact
+  	- Ensure teams are working on the right solutions at the right time through daily communication and priorization 
+
+
 # 26.07.2025 CDBA: Introduction: Lesson_2
 - Six elemets the CDBA must focus upon in order to achieve success:
 	- Change
